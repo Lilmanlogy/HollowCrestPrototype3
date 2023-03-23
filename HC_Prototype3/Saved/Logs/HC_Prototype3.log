@@ -2190,3 +2190,1485 @@ It is recommended that you free some space to avoid issues such as crashed and d
 [2023.03.23-15.49.40:336][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
 [2023.03.23-15.49.40:374][826]LogPlayLevel: Display: Destroying online subsystem :Context_26
 [2023.03.23-15.52.28:792][392]LogDerivedDataCache: C:/Users/Logan Weber/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.165 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.23-16.03.02:770][773]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.03.23-16.03.02:910][773]LogSavePackage: Moving output files for package: /Game/Blueprints/MainCharacter_BP
+[2023.03.23-16.03.02:911][773]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/MainCharacter_BP530AA44E477B491B146C8C959CCBC3B0.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/MainCharacter_BP.uasset'
+[2023.03.23-16.03.02:925][773]AssetCheck: New page: Asset Save: MainCharacter_BP
+[2023.03.23-16.03.02:925][773]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MainCharacter_BP.MainCharacter_BP
+[2023.03.23-16.03.36:920][821]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2023.03.23-16.03.36:922][821]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestMap' took 0.056
+[2023.03.23-16.03.36:923][821]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/MainCharacter_BP] ([2] browsable assets)...
+[2023.03.23-16.03.36:956][821]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/MainCharacter_BP.MainCharacter_BP]
+[2023.03.23-16.03.36:956][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MainCharacter_BP]
+[2023.03.23-16.03.36:969][821]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/MainCharacter_BP_Auto3
+[2023.03.23-16.03.36:969][821]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/MainCharacter_BP_Auto31E37AF584F302F5614D4FF89F16ADEBB.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/Autosaves/Game/Blueprints/MainCharacter_BP_Auto3.uasset'
+[2023.03.23-16.03.36:969][821]LogFileHelpers: Auto-saving content packages took 0.047
+[2023.03.23-16.08.42:435][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.03.23-16.08.43:009][866]LogSavePackage: Moving output files for package: /Game/Blueprints/MainCharacter_BP
+[2023.03.23-16.08.43:009][866]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/MainCharacter_BPD71C02774A48C2E761D8CB92588AAC8D.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/MainCharacter_BP.uasset'
+[2023.03.23-16.08.43:023][866]AssetCheck: New page: Asset Save: MainCharacter_BP
+[2023.03.23-16.08.43:023][866]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MainCharacter_BP.MainCharacter_BP
+[2023.03.23-16.08.45:216][ 54]BlueprintLog: New page: Compile MainCharacter_BP
+[2023.03.23-16.08.45:290][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.03.23-16.08.52:000][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.03.23-16.08.52:086][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.03.23-16.08.52:093][639]LogSavePackage: Moving output files for package: /Game/Maps/TestMap
+[2023.03.23-16.08.52:093][639]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/TestMapC20CE5F24833CF077C8F60AB07EE9013.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Maps/TestMap.umap'
+[2023.03.23-16.08.52:100][639]LogFileHelpers: No new changes to save!
+[2023.03.23-16.08.52:100][639]LogFileHelpers: Saving map 'TestMap' took 0.057
+[2023.03.23-16.08.52:233][639]LogSavePackage: Moving output files for package: /Game/Blueprints/MainCharacter_BP
+[2023.03.23-16.08.52:234][639]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/MainCharacter_BP1792FBAA4286D977AF1401BD46FA1320.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/MainCharacter_BP.uasset'
+[2023.03.23-16.08.52:250][639]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.23-16.08.52:250][639]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
+[2023.03.23-16.08.52:250][639]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MainCharacter_BP.MainCharacter_BP
+[2023.03.23-16.08.57:630][109]BlueprintLog: New page: Compile MainCharacter_BP
+[2023.03.23-16.08.57:699][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.03.23-16.09.05:157][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.03.23-16.09.05:237][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.03.23-16.09.05:244][817]LogSavePackage: Moving output files for package: /Game/Maps/TestMap
+[2023.03.23-16.09.05:244][817]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/TestMap72B36A7842B166814A719698DC3CE837.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Maps/TestMap.umap'
+[2023.03.23-16.09.05:250][817]LogFileHelpers: No new changes to save!
+[2023.03.23-16.09.05:250][817]LogFileHelpers: Saving map 'TestMap' took 0.056
+[2023.03.23-16.09.05:281][817]LogSavePackage: Moving output files for package: /Game/Blueprints/MainCharacter_BP
+[2023.03.23-16.09.05:281][817]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/MainCharacter_BPAC33C4BF4EA401A3B1919AA46EAF6657.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/MainCharacter_BP.uasset'
+[2023.03.23-16.09.05:296][817]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.23-16.09.05:296][817]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
+[2023.03.23-16.09.05:296][817]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MainCharacter_BP.MainCharacter_BP
+[2023.03.23-16.09.06:238][894]BlueprintLog: New page: Compile MainCharacter_BP
+[2023.03.23-16.09.06:312][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.03.23-16.09.07:427][964]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.03.23-16.09.07:433][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.23-16.09.07:433][964]PIE: New page: PIE session: TestMap (Mar 23, 2023, 8:09:07 AM)
+[2023.03.23-16.09.07:433][964]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.09.07:435][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002033s)
+[2023.03.23-16.09.07:435][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.002092s)
+[2023.03.23-16.09.07:435][964]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.23-16.09.07:435][964]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-16.09.07:435][964]LogAIModule: Creating AISystem for world TestMap
+[2023.03.23-16.09.07:436][964]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2023.03.23-16.09.07:480][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.03.23-16.09.07:484][964]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.03.23-16.09.07:484][964]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-16.09.07:484][964]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-16.09.07:484][964]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-16.09.07:484][964]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-16.09.07:484][964]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-16.09.07:484][964]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.23-16.09.07:484][964]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-16.09.07:484][964]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-16.09.07:484][964]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-16.09.07:484][964]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-16.09.07:484][964]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-16.09.07:486][964]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.23-16.09.07:507][964]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2023.03.23-16.09.07:508][964]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-16.09.07:508][964]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-16.09.07:508][964]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-16.09.07:509][964]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.03.23-16.09.07:509][964]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.03.23-16.09.07:510][964]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.03.23-16.09.07:510][964]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.03.23-16.09.07:510][964]LogInit: FAudioDevice initialized.
+[2023.03.23-16.09.07:510][964]LogAudio: Display: Audio Device (ID: 19) registered with world 'TestMap'.
+[2023.03.23-16.09.07:558][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.09.07:558][964]LogLoad: Game class is 'GameMode_BP_C'
+[2023.03.23-16.09.07:558][964]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.03.23-12.09.07
+[2023.03.23-16.09.07:559][964]LogWorld: Bringing up level for play took: 0.000581
+[2023.03.23-16.09.07:560][964]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.03.23-16.09.07:568][964]PIE: Server logged in
+[2023.03.23-16.09.07:571][964]PIE: Play in editor total start time 0.139 seconds.
+[2023.03.23-16.09.07:602][964]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.03.23-16.09.08:129][998]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.09.08:704][ 50]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.09.09:524][113]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.09.09:734][132]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.09.09:910][148]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.09.10:390][191]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.09.10:686][218]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.09.11:022][248]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.09.11:260][269]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.09.11:563][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.09.11:563][293]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.09.11:563][293]LogSlate: Window 'HC_Prototype3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.03.23-16.09.11:569][293]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.09.11:569][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.09.11:581][293]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-16.09.11:588][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.09.11:630][293]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.23-16.09.11:630][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.03.23-16.09.11:631][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.03.23-16.09.11:638][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.03.23-16.09.11:677][294]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.03.23-16.09.21:933][256]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.03.23-16.09.21:939][256]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.23-16.09.21:939][256]PIE: New page: PIE session: TestMap (Mar 23, 2023, 8:09:21 AM)
+[2023.03.23-16.09.21:939][256]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.09.21:941][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001645s)
+[2023.03.23-16.09.21:941][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001697s)
+[2023.03.23-16.09.21:941][256]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.23-16.09.21:941][256]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-16.09.21:941][256]LogAIModule: Creating AISystem for world TestMap
+[2023.03.23-16.09.21:941][256]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2023.03.23-16.09.21:986][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.03.23-16.09.21:989][256]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.03.23-16.09.21:989][256]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-16.09.21:989][256]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-16.09.21:989][256]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-16.09.21:989][256]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-16.09.21:989][256]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-16.09.21:989][256]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.23-16.09.21:989][256]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-16.09.21:989][256]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-16.09.21:989][256]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-16.09.21:989][256]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-16.09.21:989][256]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-16.09.21:991][256]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.23-16.09.22:010][256]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2023.03.23-16.09.22:010][256]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-16.09.22:010][256]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-16.09.22:010][256]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-16.09.22:012][256]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.03.23-16.09.22:012][256]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.03.23-16.09.22:013][256]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.03.23-16.09.22:013][256]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.03.23-16.09.22:013][256]LogInit: FAudioDevice initialized.
+[2023.03.23-16.09.22:013][256]LogAudio: Display: Audio Device (ID: 20) registered with world 'TestMap'.
+[2023.03.23-16.09.22:041][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.09.22:041][256]LogLoad: Game class is 'GameMode_BP_C'
+[2023.03.23-16.09.22:043][256]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.03.23-12.09.22
+[2023.03.23-16.09.22:043][256]LogWorld: Bringing up level for play took: 0.000848
+[2023.03.23-16.09.22:046][256]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.03.23-16.09.22:053][256]PIE: Server logged in
+[2023.03.23-16.09.22:057][256]PIE: Play in editor total start time 0.118 seconds.
+[2023.03.23-16.09.22:086][256]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.03.23-16.09.22:454][285]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 46
+[2023.03.23-16.09.22:454][285]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/MainCharacter_BP.MainCharacter_BP_C:InpActEvt_UseWeapon_K2Node_InputActionEvent_0
+	Function /Game/Blueprints/MainCharacter_BP.MainCharacter_BP_C:ExecuteUbergraph_MainCharacter_BP
+
+[2023.03.23-16.09.22:463][285]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_18.HUD_C_0.WidgetTree.ProgressBar_0.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2023.03.23-16.09.23:826][285]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_18.HUD_C_0.WidgetTree.ProgressBar_0.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2023.03.23-16.09.25:735][285]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.09.25:772][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.09.25:772][285]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.09.25:772][285]LogSlate: Window 'HC_Prototype3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.03.23-16.09.25:774][285]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.09.25:775][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.09.25:788][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-16.09.25:793][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.09.25:836][285]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.03.23-16.09.25:837][285]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.03.23-16.09.25:842][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.03.23-16.09.25:880][286]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.03.23-16.09.28:606][538]BlueprintLog: New page: Compile MainCharacter_BP
+[2023.03.23-16.09.28:675][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.03.23-16.09.29:837][641]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.03.23-16.09.29:842][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.23-16.09.29:842][641]PIE: New page: PIE session: TestMap (Mar 23, 2023, 8:09:29 AM)
+[2023.03.23-16.09.29:842][641]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.09.29:843][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001446s)
+[2023.03.23-16.09.29:843][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001492s)
+[2023.03.23-16.09.29:843][641]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.23-16.09.29:843][641]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-16.09.29:843][641]LogAIModule: Creating AISystem for world TestMap
+[2023.03.23-16.09.29:844][641]LogPlayLevel: PIE: World Init took: (0.000537s)
+[2023.03.23-16.09.29:888][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.03.23-16.09.29:890][641]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.03.23-16.09.29:890][641]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-16.09.29:890][641]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-16.09.29:890][641]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-16.09.29:890][641]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-16.09.29:890][641]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-16.09.29:890][641]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.23-16.09.29:890][641]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-16.09.29:890][641]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-16.09.29:890][641]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-16.09.29:890][641]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-16.09.29:890][641]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-16.09.29:893][641]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.23-16.09.29:911][641]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2023.03.23-16.09.29:911][641]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-16.09.29:911][641]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-16.09.29:911][641]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-16.09.29:911][641]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.03.23-16.09.29:911][641]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.03.23-16.09.29:913][641]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.03.23-16.09.29:913][641]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.03.23-16.09.29:913][641]LogInit: FAudioDevice initialized.
+[2023.03.23-16.09.29:913][641]LogAudio: Display: Audio Device (ID: 21) registered with world 'TestMap'.
+[2023.03.23-16.09.29:957][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.09.29:957][641]LogLoad: Game class is 'GameMode_BP_C'
+[2023.03.23-16.09.29:958][641]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.03.23-12.09.29
+[2023.03.23-16.09.29:958][641]LogWorld: Bringing up level for play took: 0.000855
+[2023.03.23-16.09.29:960][641]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2023.03.23-16.09.29:965][641]PIE: Server logged in
+[2023.03.23-16.09.29:969][641]PIE: Play in editor total start time 0.128 seconds.
+[2023.03.23-16.09.29:998][641]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.03.23-16.09.30:369][671]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 46
+[2023.03.23-16.09.30:369][671]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/MainCharacter_BP.MainCharacter_BP_C:InpActEvt_UseWeapon_K2Node_InputActionEvent_0
+	Function /Game/Blueprints/MainCharacter_BP.MainCharacter_BP_C:ExecuteUbergraph_MainCharacter_BP
+
+[2023.03.23-16.09.30:378][671]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_19.HUD_C_0.WidgetTree.ProgressBar_0.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2023.03.23-16.09.31:547][671]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Blueprints/MainCharacter_BP.MainCharacter_BP without an associated node. The blueprint breakpoint has been removed
+[2023.03.23-16.09.31:547][671]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Blueprints/MainCharacter_BP.MainCharacter_BP without an associated node. The blueprint breakpoint has been removed
+[2023.03.23-16.09.32:354][671]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.09.32:671][698]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.09.33:356][763]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.09.34:089][833]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.09.34:298][853]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.09.35:200][941]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.09.39:133][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.09.39:133][318]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.09.39:133][318]LogSlate: Window 'HC_Prototype3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.03.23-16.09.39:137][318]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.09.39:137][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.09.39:147][318]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-16.09.39:152][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.09.39:194][318]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.23-16.09.39:195][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.03.23-16.09.39:196][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.03.23-16.09.39:202][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.03.23-16.09.39:238][319]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.03.23-16.10.03:873][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.03.23-16.10.03:968][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.03.23-16.10.03:974][931]LogSavePackage: Moving output files for package: /Game/Maps/TestMap
+[2023.03.23-16.10.03:975][931]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/TestMapEB7ACAB74DEF75CAC3FB169BB4097BA8.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Maps/TestMap.umap'
+[2023.03.23-16.10.03:981][931]LogFileHelpers: No new changes to save!
+[2023.03.23-16.10.03:981][931]LogFileHelpers: Saving map 'TestMap' took 0.056
+[2023.03.23-16.10.04:011][931]LogSavePackage: Moving output files for package: /Game/Blueprints/MainCharacter_BP
+[2023.03.23-16.10.04:011][931]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/MainCharacter_BP8861B67846471EE6832F3FA36ABFB99A.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/MainCharacter_BP.uasset'
+[2023.03.23-16.10.04:025][931]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.23-16.10.04:025][931]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
+[2023.03.23-16.10.04:025][931]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MainCharacter_BP.MainCharacter_BP
+[2023.03.23-16.12.04:479][792]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.03.23-16.12.04:485][792]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.03.23-16.12.04:489][792]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.03.23-16.12.04:496][793]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.03.23-16.12.10:850][540]LogContentBrowser: Attempting asset rename: NewBlueprint -> StandingEnemy_BP
+[2023.03.23-16.12.10:857][540]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.03.23-16.12.12:306][711]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/TestBlueprints/StandingEnemy_BP.StandingEnemy_BP
+[2023.03.23-16.12.12:306][711]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-16.12.12:675][711]LogViewport: Scene viewport resized to 1156x602, mode Windowed.
+[2023.03.23-16.12.49:563][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.03.23-16.12.49:657][358]LogSavePackage: Moving output files for package: /Game/Blueprints/MainCharacter_BP
+[2023.03.23-16.12.49:657][358]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/MainCharacter_BPB341057043CE6799238499B6D9F921DF.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/MainCharacter_BP.uasset'
+[2023.03.23-16.12.49:667][358]LogSavePackage: Moving output files for package: /Game/Blueprints/TestBlueprints/StandingEnemy_BP
+[2023.03.23-16.12.49:667][358]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/StandingEnemy_BPB389B2E24A347B805BBEC789CF6E0A72.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/TestBlueprints/StandingEnemy_BP.uasset'
+[2023.03.23-16.12.49:684][358]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.23-16.12.49:685][358]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MainCharacter_BP.MainCharacter_BP
+[2023.03.23-16.12.49:685][358]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TestBlueprints/StandingEnemy_BP.StandingEnemy_BP
+[2023.03.23-16.12.54:991][863]BlueprintLog: New page: Compile StandingEnemy_BP
+[2023.03.23-16.12.55:056][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.03.23-16.14.19:171][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.03.23-16.14.19:230][699]LogSavePackage: Moving output files for package: /Game/Blueprints/TestBlueprints/StandingEnemy_BP
+[2023.03.23-16.14.19:230][699]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/StandingEnemy_BP8BAD0D09488413E6AC109DB455F28632.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/TestBlueprints/StandingEnemy_BP.uasset'
+[2023.03.23-16.14.19:247][699]AssetCheck: New page: Asset Save: StandingEnemy_BP
+[2023.03.23-16.14.19:247][699]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TestBlueprints/StandingEnemy_BP.StandingEnemy_BP
+[2023.03.23-16.14.22:327][ 34]BlueprintLog: New page: Compile StandingEnemy_BP
+[2023.03.23-16.14.22:392][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.03.23-16.14.37:687][687]BlueprintLog: New page: Compile StandingEnemy_BP
+[2023.03.23-16.14.37:759][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.03.23-16.14.38:307][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.03.23-16.14.38:364][731]LogSavePackage: Moving output files for package: /Game/Blueprints/TestBlueprints/StandingEnemy_BP
+[2023.03.23-16.14.38:364][731]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/StandingEnemy_BP87A075F14043302C03BB2C9936826291.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/TestBlueprints/StandingEnemy_BP.uasset'
+[2023.03.23-16.14.38:379][731]AssetCheck: New page: Asset Save: StandingEnemy_BP
+[2023.03.23-16.14.38:379][731]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TestBlueprints/StandingEnemy_BP.StandingEnemy_BP
+[2023.03.23-16.14.52:146][155]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/TestBlueprints/StandingEnemy_BP.StandingEnemy_BP_C
+[2023.03.23-16.14.52:146][155]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/TestBlueprints/StandingEnemy_BP.StandingEnemy_BP_C
+[2023.03.23-16.14.52:148][155]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/TestBlueprints/StandingEnemy_BP.StandingEnemy_BP as actor: StandingEnemy_BP_C /Game/Maps/TestMap.TestMap:PersistentLevel.StandingEnemy_BP_C_0
+[2023.03.23-16.14.52:149][155]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/TestBlueprints/StandingEnemy_BP.StandingEnemy_BP as actor: StandingEnemy_BP_C /Game/Maps/TestMap.TestMap:PersistentLevel.StandingEnemy_BP_C_0
+[2023.03.23-16.14.53:830][342]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/TestBlueprints/StandingEnemy_BP.StandingEnemy_BP_C
+[2023.03.23-16.14.53:830][342]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/TestBlueprints/StandingEnemy_BP.StandingEnemy_BP_C
+[2023.03.23-16.14.53:832][342]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/TestBlueprints/StandingEnemy_BP.StandingEnemy_BP as actor: StandingEnemy_BP_C /Game/Maps/TestMap.TestMap:PersistentLevel.StandingEnemy_BP_C_1
+[2023.03.23-16.14.53:833][342]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/TestBlueprints/StandingEnemy_BP.StandingEnemy_BP as actor: StandingEnemy_BP_C /Game/Maps/TestMap.TestMap:PersistentLevel.StandingEnemy_BP_C_1
+[2023.03.23-16.15.09:743][206]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.03.23-16.15.09:752][206]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.23-16.15.09:754][206]LogPlayLevel: [PlayLevel] Compiling MainCharacter_BP before play...
+[2023.03.23-16.15.09:925][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.03.23-16.15.09:927][206]LogPlayLevel: PlayLevel: Blueprint regeneration took 174 ms (1 blueprints)
+[2023.03.23-16.15.09:927][206]PIE: New page: PIE session: TestMap (Mar 23, 2023, 8:15:09 AM)
+[2023.03.23-16.15.09:928][206]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.15.09:929][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001621s)
+[2023.03.23-16.15.09:929][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001682s)
+[2023.03.23-16.15.09:929][206]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.23-16.15.09:929][206]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-16.15.09:930][206]LogAIModule: Creating AISystem for world TestMap
+[2023.03.23-16.15.09:930][206]LogPlayLevel: PIE: World Init took: (0.000557s)
+[2023.03.23-16.15.09:978][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.03.23-16.15.09:979][206]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.03.23-16.15.09:979][206]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-16.15.09:979][206]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-16.15.09:979][206]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-16.15.09:979][206]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-16.15.09:979][206]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-16.15.09:979][206]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.23-16.15.09:979][206]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-16.15.09:979][206]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-16.15.09:979][206]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-16.15.09:979][206]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-16.15.09:979][206]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-16.15.09:981][206]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.23-16.15.10:001][206]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2023.03.23-16.15.10:001][206]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-16.15.10:001][206]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-16.15.10:001][206]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-16.15.10:003][206]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.03.23-16.15.10:003][206]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.03.23-16.15.10:004][206]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.03.23-16.15.10:004][206]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.03.23-16.15.10:004][206]LogInit: FAudioDevice initialized.
+[2023.03.23-16.15.10:004][206]LogAudio: Display: Audio Device (ID: 22) registered with world 'TestMap'.
+[2023.03.23-16.15.10:058][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.15.10:058][206]LogLoad: Game class is 'GameMode_BP_C'
+[2023.03.23-16.15.10:059][206]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.03.23-12.15.10
+[2023.03.23-16.15.10:059][206]LogWorld: Bringing up level for play took: 0.001031
+[2023.03.23-16.15.10:061][206]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.03.23-16.15.10:065][206]PIE: Server logged in
+[2023.03.23-16.15.10:068][206]PIE: Play in editor total start time 0.321 seconds.
+[2023.03.23-16.15.10:088][206]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.03.23-16.15.10:906][276]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.15.13:299][563]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.15.13:709][612]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.15.14:086][657]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.15.14:420][697]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.15.14:789][741]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.15.15:615][840]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.15.17:418][ 56]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.15.17:703][ 90]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.15.17:971][122]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.15.18:274][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.15.18:274][154]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.15.18:274][154]LogSlate: Window 'HC_Prototype3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.03.23-16.15.18:278][154]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.15.18:279][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.15.18:289][154]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-16.15.18:295][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.15.18:343][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.03.23-16.15.18:344][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.03.23-16.15.18:350][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.03.23-16.15.18:375][155]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.03.23-16.15.38:186][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.03.23-16.15.38:289][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.03.23-16.15.38:296][273]LogSavePackage: Moving output files for package: /Game/Maps/TestMap
+[2023.03.23-16.15.38:296][273]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/TestMapAF8C60BA4F1F754BA78C97BF4D01B413.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Maps/TestMap.umap'
+[2023.03.23-16.15.38:304][273]LogFileHelpers: No new changes to save!
+[2023.03.23-16.15.38:304][273]LogFileHelpers: Saving map 'TestMap' took 0.061
+[2023.03.23-16.15.38:334][273]LogSavePackage: Moving output files for package: /Game/Blueprints/MainCharacter_BP
+[2023.03.23-16.15.38:334][273]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/MainCharacter_BP44AF08BF4DE7EE34D03326882CC4B4CF.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/MainCharacter_BP.uasset'
+[2023.03.23-16.15.38:349][273]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.23-16.15.38:349][273]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
+[2023.03.23-16.15.38:349][273]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MainCharacter_BP.MainCharacter_BP
+[2023.03.23-16.15.40:862][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.03.23-16.15.40:957][511]LogSavePackage: Moving output files for package: /Game/Blueprints/MainCharacter_BP
+[2023.03.23-16.15.40:958][511]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/MainCharacter_BP015926044CE67A3C123ECAB122925068.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/MainCharacter_BP.uasset'
+[2023.03.23-16.15.40:972][511]AssetCheck: New page: Asset Save: MainCharacter_BP
+[2023.03.23-16.15.40:972][511]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MainCharacter_BP.MainCharacter_BP
+[2023.03.23-16.15.41:970][603]BlueprintLog: New page: Compile MainCharacter_BP
+[2023.03.23-16.15.42:095][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.03.23-16.15.45:475][913]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.03.23-16.15.45:480][913]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.23-16.15.45:480][913]PIE: New page: PIE session: TestMap (Mar 23, 2023, 8:15:45 AM)
+[2023.03.23-16.15.45:482][913]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.15.45:485][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002060s)
+[2023.03.23-16.15.45:485][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.002138s)
+[2023.03.23-16.15.45:485][913]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.23-16.15.45:485][913]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-16.15.45:485][913]LogAIModule: Creating AISystem for world TestMap
+[2023.03.23-16.15.45:485][913]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2023.03.23-16.15.45:534][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.03.23-16.15.45:537][913]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.03.23-16.15.45:537][913]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-16.15.45:537][913]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-16.15.45:537][913]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-16.15.45:537][913]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-16.15.45:537][913]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-16.15.45:537][913]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.23-16.15.45:537][913]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-16.15.45:537][913]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-16.15.45:537][913]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-16.15.45:537][913]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-16.15.45:537][913]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-16.15.45:539][913]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.23-16.15.45:559][913]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2023.03.23-16.15.45:559][913]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-16.15.45:559][913]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-16.15.45:559][913]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-16.15.45:560][913]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.03.23-16.15.45:560][913]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.03.23-16.15.45:561][913]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.03.23-16.15.45:561][913]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.03.23-16.15.45:561][913]LogInit: FAudioDevice initialized.
+[2023.03.23-16.15.45:561][913]LogAudio: Display: Audio Device (ID: 23) registered with world 'TestMap'.
+[2023.03.23-16.15.45:608][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.15.45:608][913]LogLoad: Game class is 'GameMode_BP_C'
+[2023.03.23-16.15.45:609][913]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.03.23-12.15.45
+[2023.03.23-16.15.45:609][913]LogWorld: Bringing up level for play took: 0.000711
+[2023.03.23-16.15.45:611][913]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.03.23-16.15.45:616][913]PIE: Server logged in
+[2023.03.23-16.15.45:620][913]PIE: Play in editor total start time 0.14 seconds.
+[2023.03.23-16.15.45:649][913]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.03.23-16.15.47:120][ 57]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.15.47:619][110]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.15.48:116][163]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.15.49:244][271]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.15.49:244][271]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_ApplyDamage', from offset 741
+[2023.03.23-16.15.49:244][271]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/MainCharacter_BP.MainCharacter_BP_C:InpActEvt_UseWeapon_K2Node_InputActionEvent_0
+	Function /Game/Blueprints/MainCharacter_BP.MainCharacter_BP_C:ExecuteUbergraph_MainCharacter_BP
+
+[2023.03.23-16.15.49:252][271]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_21.HUD_C_0.WidgetTree.ProgressBar_0.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2023.03.23-16.15.50:369][271]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Blueprints/MainCharacter_BP.MainCharacter_BP without an associated node. The blueprint breakpoint has been removed
+[2023.03.23-16.15.50:369][271]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Blueprints/MainCharacter_BP.MainCharacter_BP without an associated node. The blueprint breakpoint has been removed
+[2023.03.23-16.15.51:728][305]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.15.52:213][358]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.15.52:556][396]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.15.52:944][439]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.15.53:605][511]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.15.54:149][568]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.15.54:433][598]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.15.54:761][633]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.15.55:354][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.15.55:354][693]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.15.55:354][693]LogSlate: Window 'HC_Prototype3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.03.23-16.15.55:359][693]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.15.55:359][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.15.55:372][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-16.15.55:378][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.15.55:424][693]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.23-16.15.55:424][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.03.23-16.15.55:425][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.03.23-16.15.55:431][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.03.23-16.15.55:457][694]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.03.23-16.15.56:197][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.03.23-16.15.56:287][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.03.23-16.15.56:294][770]LogSavePackage: Moving output files for package: /Game/Maps/TestMap
+[2023.03.23-16.15.56:295][770]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/TestMap7DCFA6FC4B1CE26755787F9D6FEAE8B1.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Maps/TestMap.umap'
+[2023.03.23-16.15.56:303][770]LogFileHelpers: No new changes to save!
+[2023.03.23-16.15.56:303][770]LogFileHelpers: Saving map 'TestMap' took 0.062
+[2023.03.23-16.15.56:318][770]AssetCheck: New page: Asset Save: TestMap
+[2023.03.23-16.15.56:318][770]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
+[2023.03.23-16.18.11:747][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.03.23-16.23.06:146][238]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.03.23-16.23.06:241][238]LogSavePackage: Moving output files for package: /Game/Blueprints/MainCharacter_BP
+[2023.03.23-16.23.06:242][238]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/MainCharacter_BP5E12ADA9409ABAB697CF5BA10FC38476.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/MainCharacter_BP.uasset'
+[2023.03.23-16.23.06:257][238]AssetCheck: New page: Asset Save: MainCharacter_BP
+[2023.03.23-16.23.06:257][238]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MainCharacter_BP.MainCharacter_BP
+[2023.03.23-16.25.01:248][304]BlueprintLog: New page: Compile MainCharacter_BP
+[2023.03.23-16.25.01:327][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.03.23-16.25.10:997][285]BlueprintLog: New page: Compile MainCharacter_BP
+[2023.03.23-16.25.11:075][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.03.23-16.25.12:323][393]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.03.23-16.25.12:328][393]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.23-16.25.12:328][393]PIE: New page: PIE session: TestMap (Mar 23, 2023, 8:25:12 AM)
+[2023.03.23-16.25.12:328][393]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.25.12:329][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001491s)
+[2023.03.23-16.25.12:329][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001574s)
+[2023.03.23-16.25.12:329][393]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.23-16.25.12:330][393]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-16.25.12:330][393]LogAIModule: Creating AISystem for world TestMap
+[2023.03.23-16.25.12:330][393]LogPlayLevel: PIE: World Init took: (0.000525s)
+[2023.03.23-16.25.12:379][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.03.23-16.25.12:381][393]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.03.23-16.25.12:381][393]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-16.25.12:381][393]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-16.25.12:381][393]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-16.25.12:381][393]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-16.25.12:381][393]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-16.25.12:381][393]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.23-16.25.12:381][393]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-16.25.12:381][393]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-16.25.12:381][393]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-16.25.12:381][393]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-16.25.12:381][393]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-16.25.12:383][393]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.23-16.25.12:405][393]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2023.03.23-16.25.12:405][393]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-16.25.12:405][393]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-16.25.12:405][393]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-16.25.12:405][393]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.03.23-16.25.12:405][393]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.03.23-16.25.12:407][393]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.03.23-16.25.12:407][393]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.03.23-16.25.12:407][393]LogInit: FAudioDevice initialized.
+[2023.03.23-16.25.12:407][393]LogAudio: Display: Audio Device (ID: 24) registered with world 'TestMap'.
+[2023.03.23-16.25.12:458][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.25.12:458][393]LogLoad: Game class is 'GameMode_BP_C'
+[2023.03.23-16.25.12:459][393]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.03.23-12.25.12
+[2023.03.23-16.25.12:459][393]LogWorld: Bringing up level for play took: 0.000777
+[2023.03.23-16.25.12:461][393]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2023.03.23-16.25.12:467][393]PIE: Server logged in
+[2023.03.23-16.25.12:471][393]PIE: Play in editor total start time 0.143 seconds.
+[2023.03.23-16.25.12:500][393]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.03.23-16.25.13:048][436]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.25.13:848][520]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.25.14:503][589]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.25.15:265][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.25.15:265][666]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.25.15:265][666]LogSlate: Window 'HC_Prototype3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.03.23-16.25.15:270][666]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.25.15:270][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.25.15:281][666]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-16.25.15:288][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.25.15:333][666]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.23-16.25.15:334][666]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.03.23-16.25.15:335][666]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.03.23-16.25.15:341][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.03.23-16.25.15:367][667]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.03.23-16.25.16:335][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.03.23-16.25.16:437][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.03.23-16.25.16:445][768]LogSavePackage: Moving output files for package: /Game/Maps/TestMap
+[2023.03.23-16.25.16:445][768]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/TestMapDAA56C0248C1ACA0631D3283D574D310.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Maps/TestMap.umap'
+[2023.03.23-16.25.16:451][768]LogFileHelpers: No new changes to save!
+[2023.03.23-16.25.16:451][768]LogFileHelpers: Saving map 'TestMap' took 0.059
+[2023.03.23-16.25.16:484][768]LogSavePackage: Moving output files for package: /Game/Blueprints/MainCharacter_BP
+[2023.03.23-16.25.16:484][768]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/MainCharacter_BP843EE1AC4D9161F0EC5842AEA05F7927.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/MainCharacter_BP.uasset'
+[2023.03.23-16.25.16:499][768]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.23-16.25.16:499][768]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
+[2023.03.23-16.25.16:499][768]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MainCharacter_BP.MainCharacter_BP
+[2023.03.23-16.25.52:821][331]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to '/Script/Engine.BlueprintGeneratedClass'"/Game/MainCharacter.MainCharacter_C"',MemberName="RevolverAnimStates",MemberGuid=5D3A0AE04905D9E6F554DCA3B0258E9D)'
+[2023.03.23-16.25.52:827][331]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to '/Script/Engine.BlueprintGeneratedClass'"/Game/MainCharacter.MainCharacter_C"',MemberName="ShowReticle",MemberGuid=7895DEBF4372F95C2BB07E8C55AAA048)'
+[2023.03.23-16.25.52:841][331]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to '/Script/Engine.BlueprintGeneratedClass'"/Game/MainCharacter.MainCharacter_C"',MemberName="UndoZoom",MemberGuid=8A213D6C46646F161BE382AA75821E3F)'
+[2023.03.23-16.25.52:846][331]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to '/Script/Engine.BlueprintGeneratedClass'"/Game/MainCharacter.MainCharacter_C"',MemberName="UpdateArm",MemberGuid=D99583A54BC018F1E32BAEA9EB4E024F)'
+[2023.03.23-16.25.52:853][331]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to '/Script/Engine.BlueprintGeneratedClass'"/Game/MainCharacter.MainCharacter_C"',MemberName="Can Use Ability",MemberGuid=BDE5907A4F01F788756B68A945AFE76F)'
+[2023.03.23-16.25.59:520][331]LogSlate: Window 'Fix Self Context Function References' being destroyed
+[2023.03.23-16.28.49:013][971]BlueprintLog: New page: Compile MainCharacter_BP
+[2023.03.23-16.28.49:020][971]LogBlueprint: Warning: [AssetLog] C:\Users\Logan Weber\Desktop\VR GIT FOLDER\HollowCrestPrototype3\HollowCrestPrototype3\HC_Prototype3\Content\Blueprints\MainCharacter_BP.uasset: [Compiler] Could not find a variable named "AmmoCurrent" in 'MainCharacter_BP_C'.
+Make sure 'MainCharacter_BP_C' has been compiled for  Set AmmoCurrent
+[2023.03.23-16.28.49:021][971]LogBlueprint: Warning: [AssetLog] C:\Users\Logan Weber\Desktop\VR GIT FOLDER\HollowCrestPrototype3\HollowCrestPrototype3\HC_Prototype3\Content\Blueprints\MainCharacter_BP.uasset: [Compiler] Could not find a variable named "ClipSize" in 'MainCharacter_BP_C'.
+Make sure 'MainCharacter_BP_C' has been compiled for  Get ClipSize
+[2023.03.23-16.28.49:021][971]LogBlueprint: Warning: [AssetLog] C:\Users\Logan Weber\Desktop\VR GIT FOLDER\HollowCrestPrototype3\HollowCrestPrototype3\HC_Prototype3\Content\Blueprints\MainCharacter_BP.uasset: [Compiler] Could not find a variable named "ClipSize" in 'MainCharacter_BP_C'.
+Make sure 'MainCharacter_BP_C' has been compiled for  Get ClipSize
+[2023.03.23-16.28.49:021][971]LogBlueprint: Warning: [AssetLog] C:\Users\Logan Weber\Desktop\VR GIT FOLDER\HollowCrestPrototype3\HollowCrestPrototype3\HC_Prototype3\Content\Blueprints\MainCharacter_BP.uasset: [Compiler] Could not find a variable named "AmmoCurrent" in 'MainCharacter_BP_C'.
+Make sure 'MainCharacter_BP_C' has been compiled for  Get AmmoCurrent
+[2023.03.23-16.28.49:021][971]LogBlueprint: Warning: [AssetLog] C:\Users\Logan Weber\Desktop\VR GIT FOLDER\HollowCrestPrototype3\HollowCrestPrototype3\HC_Prototype3\Content\Blueprints\MainCharacter_BP.uasset: [Compiler] Could not find a variable named "ClipSize" in 'MainCharacter_BP_C'.
+Make sure 'MainCharacter_BP_C' has been compiled for  Get ClipSize
+[2023.03.23-16.28.49:021][971]LogBlueprint: Warning: [AssetLog] C:\Users\Logan Weber\Desktop\VR GIT FOLDER\HollowCrestPrototype3\HollowCrestPrototype3\HC_Prototype3\Content\Blueprints\MainCharacter_BP.uasset: [Compiler] Could not find a variable named "AmmoCurrent" in 'MainCharacter_BP_C'.
+Make sure 'MainCharacter_BP_C' has been compiled for  Set AmmoCurrent
+[2023.03.23-16.28.49:021][971]LogBlueprint: Warning: [AssetLog] C:\Users\Logan Weber\Desktop\VR GIT FOLDER\HollowCrestPrototype3\HollowCrestPrototype3\HC_Prototype3\Content\Blueprints\MainCharacter_BP.uasset: [Compiler] Could not find a variable named "AmmoCurrent" in 'MainCharacter_BP_C'.
+Make sure 'MainCharacter_BP_C' has been compiled for  Set AmmoCurrent
+[2023.03.23-16.28.49:022][971]LogBlueprint: Warning: [AssetLog] C:\Users\Logan Weber\Desktop\VR GIT FOLDER\HollowCrestPrototype3\HollowCrestPrototype3\HC_Prototype3\Content\Blueprints\MainCharacter_BP.uasset: [Compiler] Could not find a variable named "ClipSize" in 'MainCharacter_BP_C'.
+Make sure 'MainCharacter_BP_C' has been compiled for  Get ClipSize
+[2023.03.23-16.28.49:024][971]LogBlueprint: Error: [AssetLog] C:\Users\Logan Weber\Desktop\VR GIT FOLDER\HollowCrestPrototype3\HollowCrestPrototype3\HC_Prototype3\Content\Blueprints\MainCharacter_BP.uasset: [Compiler] The property associated with  Clip Size  could not be found in '/Game/Blueprints/MainCharacter_BP.MainCharacter_BP_C'
+[2023.03.23-16.28.49:024][971]LogBlueprint: Error: [AssetLog] C:\Users\Logan Weber\Desktop\VR GIT FOLDER\HollowCrestPrototype3\HollowCrestPrototype3\HC_Prototype3\Content\Blueprints\MainCharacter_BP.uasset: [Compiler] The property associated with  Ammo Current  could not be found in '/Game/Blueprints/MainCharacter_BP.MainCharacter_BP_C'
+[2023.03.23-16.28.49:024][971]LogBlueprint: Error: [AssetLog] C:\Users\Logan Weber\Desktop\VR GIT FOLDER\HollowCrestPrototype3\HollowCrestPrototype3\HC_Prototype3\Content\Blueprints\MainCharacter_BP.uasset: [Compiler] The property associated with  Clip Size  could not be found in '/Game/Blueprints/MainCharacter_BP.MainCharacter_BP_C'
+[2023.03.23-16.28.49:024][971]LogBlueprint: Error: [AssetLog] C:\Users\Logan Weber\Desktop\VR GIT FOLDER\HollowCrestPrototype3\HollowCrestPrototype3\HC_Prototype3\Content\Blueprints\MainCharacter_BP.uasset: [Compiler] The property associated with  Ammo Current  could not be found in '/Game/Blueprints/MainCharacter_BP.MainCharacter_BP_C'
+[2023.03.23-16.28.49:024][971]LogBlueprint: Error: [AssetLog] C:\Users\Logan Weber\Desktop\VR GIT FOLDER\HollowCrestPrototype3\HollowCrestPrototype3\HC_Prototype3\Content\Blueprints\MainCharacter_BP.uasset: [Compiler] The property associated with  Ammo Current  could not be found in '/Game/Blueprints/MainCharacter_BP.MainCharacter_BP_C'
+[2023.03.23-16.28.49:024][971]LogBlueprint: Error: [AssetLog] C:\Users\Logan Weber\Desktop\VR GIT FOLDER\HollowCrestPrototype3\HollowCrestPrototype3\HC_Prototype3\Content\Blueprints\MainCharacter_BP.uasset: [Compiler] The property associated with  Clip Size  could not be found in '/Game/Blueprints/MainCharacter_BP.MainCharacter_BP_C'
+[2023.03.23-16.28.49:024][971]LogBlueprint: Error: [AssetLog] C:\Users\Logan Weber\Desktop\VR GIT FOLDER\HollowCrestPrototype3\HollowCrestPrototype3\HC_Prototype3\Content\Blueprints\MainCharacter_BP.uasset: [Compiler] The property associated with  Clip Size  could not be found in '/Game/Blueprints/MainCharacter_BP.MainCharacter_BP_C'
+[2023.03.23-16.28.49:024][971]LogBlueprint: Error: [AssetLog] C:\Users\Logan Weber\Desktop\VR GIT FOLDER\HollowCrestPrototype3\HollowCrestPrototype3\HC_Prototype3\Content\Blueprints\MainCharacter_BP.uasset: [Compiler] The property associated with  Ammo Current  could not be found in '/Game/Blueprints/MainCharacter_BP.MainCharacter_BP_C'
+[2023.03.23-16.28.49:104][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.03.23-16.28.55:416][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.03.23-16.28.55:523][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.03.23-16.28.55:529][519]LogSavePackage: Moving output files for package: /Game/Maps/TestMap
+[2023.03.23-16.28.55:529][519]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/TestMapE36EBF5A4DF271F70C6B9D807BC3ACB4.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Maps/TestMap.umap'
+[2023.03.23-16.28.55:536][519]LogFileHelpers: No new changes to save!
+[2023.03.23-16.28.55:536][519]LogFileHelpers: Saving map 'TestMap' took 0.059
+[2023.03.23-16.28.55:709][519]LogSavePackage: Moving output files for package: /Game/Blueprints/MainCharacter_BP
+[2023.03.23-16.28.55:710][519]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/MainCharacter_BP1DBCC63449F85E44B8699496CBCAA01F.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/MainCharacter_BP.uasset'
+[2023.03.23-16.28.55:726][519]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.23-16.28.55:726][519]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
+[2023.03.23-16.28.55:726][519]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MainCharacter_BP.MainCharacter_BP
+[2023.03.23-16.35.44:121][891]LogEditorTransaction: Undo Delete current selection
+[2023.03.23-16.35.47:906][272]LogEditorTransaction: Undo Move Node
+[2023.03.23-16.35.48:424][281]LogEditorTransaction: Undo Create Pin Link
+[2023.03.23-16.36.26:246][168]LogSavePackage: Moving output files for package: /Game/Blueprints/MainCharacter_BP
+[2023.03.23-16.36.26:246][168]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/MainCharacter_BPB077737B4D77E4180C544FB027076A08.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/MainCharacter_BP.uasset'
+[2023.03.23-16.36.26:262][168]AssetCheck: New page: Asset Save: MainCharacter_BP
+[2023.03.23-16.36.26:262][168]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MainCharacter_BP.MainCharacter_BP
+[2023.03.23-16.36.46:505][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.03.23-16.36.46:595][219]LogSavePackage: Moving output files for package: /Game/Blueprints/MainCharacter_BP
+[2023.03.23-16.36.46:595][219]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/MainCharacter_BPC1CF53E84E9C75108AC5BC89DF835258.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/MainCharacter_BP.uasset'
+[2023.03.23-16.36.46:610][219]AssetCheck: New page: Asset Save: MainCharacter_BP
+[2023.03.23-16.36.46:610][219]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MainCharacter_BP.MainCharacter_BP
+[2023.03.23-16.36.47:592][309]BlueprintLog: New page: Compile MainCharacter_BP
+[2023.03.23-16.36.47:676][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.03.23-16.36.56:474][120]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.03.23-16.36.56:478][120]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.23-16.36.56:479][120]PIE: New page: PIE session: TestMap (Mar 23, 2023, 8:36:56 AM)
+[2023.03.23-16.36.56:479][120]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.36.56:480][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001526s)
+[2023.03.23-16.36.56:480][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001574s)
+[2023.03.23-16.36.56:480][120]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.23-16.36.56:480][120]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-16.36.56:481][120]LogAIModule: Creating AISystem for world TestMap
+[2023.03.23-16.36.56:481][120]LogPlayLevel: PIE: World Init took: (0.000571s)
+[2023.03.23-16.36.56:528][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.03.23-16.36.56:531][120]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.03.23-16.36.56:531][120]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-16.36.56:531][120]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-16.36.56:531][120]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-16.36.56:531][120]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-16.36.56:531][120]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-16.36.56:531][120]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.23-16.36.56:531][120]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-16.36.56:531][120]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-16.36.56:531][120]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-16.36.56:531][120]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-16.36.56:531][120]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-16.36.56:533][120]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.23-16.36.56:554][120]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2023.03.23-16.36.56:554][120]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-16.36.56:554][120]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-16.36.56:554][120]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-16.36.56:555][120]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2023.03.23-16.36.56:555][120]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2023.03.23-16.36.56:556][120]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2023.03.23-16.36.56:556][120]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2023.03.23-16.36.56:556][120]LogInit: FAudioDevice initialized.
+[2023.03.23-16.36.56:556][120]LogAudio: Display: Audio Device (ID: 25) registered with world 'TestMap'.
+[2023.03.23-16.36.56:590][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.36.56:590][120]LogLoad: Game class is 'GameMode_BP_C'
+[2023.03.23-16.36.56:591][120]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.03.23-12.36.56
+[2023.03.23-16.36.56:591][120]LogWorld: Bringing up level for play took: 0.000655
+[2023.03.23-16.36.56:593][120]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2023.03.23-16.36.56:598][120]PIE: Server logged in
+[2023.03.23-16.36.56:601][120]PIE: Play in editor total start time 0.123 seconds.
+[2023.03.23-16.36.56:629][120]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.03.23-16.37.06:269][ 85]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(802)]!
+[2023.03.23-16.37.06:269][ 85]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.03.23-16.37.06:269][ 85]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.03.23-16.37.07:303][192]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.03.23-16.37.07:303][192]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.03.23-16.37.07:303][192]LogNet: Browse: /Game/Maps/TestMap
+[2023.03.23-16.37.07:304][192]LogLoad: LoadMap: /Game/Maps/TestMap
+[2023.03.23-16.37.07:304][192]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.37.07:304][192]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.37.07:304][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.37.07:372][192]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.23-16.37.07:375][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.03.23-16.37.07:377][192]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.37.07:378][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001412s)
+[2023.03.23-16.37.07:378][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001468s)
+[2023.03.23-16.37.07:378][192]LogAudio: Display: Audio Device (ID: 25) registered with world 'TestMap'.
+[2023.03.23-16.37.07:378][192]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.23-16.37.07:378][192]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-16.37.07:378][192]LogAIModule: Creating AISystem for world TestMap
+[2023.03.23-16.37.07:379][192]LogPlayLevel: PIE: World Init took: (0.000465s)
+[2023.03.23-16.37.07:379][192]LogLoad: Game class is 'GameMode_BP_C'
+[2023.03.23-16.37.07:379][192]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.03.23-12.37.07
+[2023.03.23-16.37.07:379][192]LogWorld: Bringing up level for play took: 0.000437
+[2023.03.23-16.37.07:390][192]LogLoad: Took 0.085998 seconds to LoadMap(/Game/Maps/UEDPIE_0_TestMap)
+[2023.03.23-16.37.09:789][436]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.37.09:984][456]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.37.10:188][478]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.37.10:611][523]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.37.10:878][552]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.37.11:887][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.37.11:887][653]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.37.11:888][653]LogSlate: Window 'HC_Prototype3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.03.23-16.37.11:893][653]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.37.11:893][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.37.11:908][653]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-16.37.11:913][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.37.11:959][653]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.23-16.37.11:959][653]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.03.23-16.37.11:960][653]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.03.23-16.37.11:965][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.03.23-16.37.11:992][654]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.03.23-16.37.13:102][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.03.23-16.37.13:203][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.03.23-16.37.13:210][748]LogSavePackage: Moving output files for package: /Game/Maps/TestMap
+[2023.03.23-16.37.13:210][748]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/TestMapB0075FB54F1B7A277537E391D8D811B0.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Maps/TestMap.umap'
+[2023.03.23-16.37.13:216][748]LogFileHelpers: No new changes to save!
+[2023.03.23-16.37.13:216][748]LogFileHelpers: Saving map 'TestMap' took 0.057
+[2023.03.23-16.37.13:229][748]AssetCheck: New page: Asset Save: TestMap
+[2023.03.23-16.37.13:229][748]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
+[2023.03.23-16.37.37:204][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.03.23-16.37.59:123][179]LogSlate: Took 0.006688 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.03.23-16.38.32:512][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.03.23-16.38.32:583][670]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/HUD
+[2023.03.23-16.38.32:583][670]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/HUDE834AC2C41D8E1E0AD9270801FF4D85D.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/Widgets/HUD.uasset'
+[2023.03.23-16.38.32:598][670]AssetCheck: New page: Asset Save: HUD
+[2023.03.23-16.38.32:598][670]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/HUD.HUD
+[2023.03.23-16.38.33:742][794]BlueprintLog: New page: Compile HUD
+[2023.03.23-16.38.33:809][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.03.23-16.38.35:577][973]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.23-16.38.35:577][973]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.23-16.39.13:054][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.03.23-16.39.13:117][532]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/HUD
+[2023.03.23-16.39.13:119][532]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/HUDDD476AE64771FF06C01A42B8F4F9FC57.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/Widgets/HUD.uasset'
+[2023.03.23-16.39.13:132][532]AssetCheck: New page: Asset Save: HUD
+[2023.03.23-16.39.13:132][532]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/HUD.HUD
+[2023.03.23-16.39.14:125][636]BlueprintLog: New page: Compile HUD
+[2023.03.23-16.39.14:196][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.03.23-16.39.16:426][868]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.03.23-16.39.16:431][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.23-16.39.16:431][868]PIE: New page: PIE session: TestMap (Mar 23, 2023, 8:39:16 AM)
+[2023.03.23-16.39.16:431][868]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.39.16:433][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001696s)
+[2023.03.23-16.39.16:433][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001753s)
+[2023.03.23-16.39.16:433][868]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.23-16.39.16:433][868]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-16.39.16:433][868]LogAIModule: Creating AISystem for world TestMap
+[2023.03.23-16.39.16:433][868]LogPlayLevel: PIE: World Init took: (0.000601s)
+[2023.03.23-16.39.16:481][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.03.23-16.39.16:483][868]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.03.23-16.39.16:483][868]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-16.39.16:483][868]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-16.39.16:483][868]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-16.39.16:483][868]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-16.39.16:483][868]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-16.39.16:483][868]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.23-16.39.16:483][868]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-16.39.16:483][868]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-16.39.16:484][868]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-16.39.16:484][868]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-16.39.16:484][868]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-16.39.16:485][868]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.23-16.39.16:505][868]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2023.03.23-16.39.16:505][868]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-16.39.16:505][868]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-16.39.16:505][868]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-16.39.16:506][868]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2023.03.23-16.39.16:506][868]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2023.03.23-16.39.16:507][868]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2023.03.23-16.39.16:507][868]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2023.03.23-16.39.16:507][868]LogInit: FAudioDevice initialized.
+[2023.03.23-16.39.16:507][868]LogAudio: Display: Audio Device (ID: 26) registered with world 'TestMap'.
+[2023.03.23-16.39.16:558][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.39.16:558][868]LogLoad: Game class is 'GameMode_BP_C'
+[2023.03.23-16.39.16:559][868]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.03.23-12.39.16
+[2023.03.23-16.39.16:559][868]LogWorld: Bringing up level for play took: 0.000839
+[2023.03.23-16.39.16:561][868]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2023.03.23-16.39.16:566][868]PIE: Server logged in
+[2023.03.23-16.39.16:570][868]PIE: Play in editor total start time 0.138 seconds.
+[2023.03.23-16.39.16:598][868]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.03.23-16.39.18:424][ 76]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.39.19:675][226]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.39.19:977][262]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.39.20:257][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.39.20:257][291]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.39.20:259][291]LogSlate: Window 'HC_Prototype3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.03.23-16.39.20:264][291]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.39.20:264][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.39.20:275][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-16.39.20:281][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.39.20:326][291]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.03.23-16.39.20:327][291]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.03.23-16.39.20:334][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.03.23-16.39.20:361][292]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.03.23-16.39.49:539][353]BlueprintLog: New page: Compile MainCharacter_BP
+[2023.03.23-16.39.49:624][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.03.23-16.39.50:635][438]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.03.23-16.39.50:640][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.23-16.39.50:640][438]PIE: New page: PIE session: TestMap (Mar 23, 2023, 8:39:50 AM)
+[2023.03.23-16.39.50:640][438]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.39.50:641][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001690s)
+[2023.03.23-16.39.50:641][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001742s)
+[2023.03.23-16.39.50:642][438]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.23-16.39.50:642][438]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-16.39.50:642][438]LogAIModule: Creating AISystem for world TestMap
+[2023.03.23-16.39.50:643][438]LogPlayLevel: PIE: World Init took: (0.000515s)
+[2023.03.23-16.39.50:689][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.03.23-16.39.50:692][438]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.03.23-16.39.50:692][438]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-16.39.50:692][438]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-16.39.50:692][438]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-16.39.50:692][438]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-16.39.50:692][438]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-16.39.50:692][438]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.23-16.39.50:692][438]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-16.39.50:692][438]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-16.39.50:692][438]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-16.39.50:692][438]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-16.39.50:692][438]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-16.39.50:694][438]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.23-16.39.50:713][438]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2023.03.23-16.39.50:713][438]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-16.39.50:713][438]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-16.39.50:713][438]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-16.39.50:714][438]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2023.03.23-16.39.50:714][438]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2023.03.23-16.39.50:715][438]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2023.03.23-16.39.50:715][438]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2023.03.23-16.39.50:715][438]LogInit: FAudioDevice initialized.
+[2023.03.23-16.39.50:715][438]LogAudio: Display: Audio Device (ID: 27) registered with world 'TestMap'.
+[2023.03.23-16.39.50:774][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.39.50:775][438]LogLoad: Game class is 'GameMode_BP_C'
+[2023.03.23-16.39.50:775][438]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.03.23-12.39.50
+[2023.03.23-16.39.50:775][438]LogWorld: Bringing up level for play took: 0.000712
+[2023.03.23-16.39.50:777][438]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2023.03.23-16.39.50:783][438]PIE: Server logged in
+[2023.03.23-16.39.50:785][438]PIE: Play in editor total start time 0.145 seconds.
+[2023.03.23-16.39.50:815][438]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.03.23-16.39.51:591][499]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.39.51:990][537]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.39.52:316][567]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.39.52:641][598]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.39.53:064][638]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.39.57:068][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.39.57:068][ 20]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.39.57:069][ 20]LogSlate: Window 'HC_Prototype3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.03.23-16.39.57:077][ 20]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.39.57:077][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.39.57:087][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-16.39.57:093][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.39.57:138][ 20]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.23-16.39.57:138][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.03.23-16.39.57:140][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.03.23-16.39.57:146][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.03.23-16.39.57:173][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.03.23-16.40.07:612][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.03.23-16.40.07:701][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.03.23-16.40.07:709][ 63]LogSavePackage: Moving output files for package: /Game/Maps/TestMap
+[2023.03.23-16.40.07:709][ 63]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/TestMap5FE1800F4BCD286EEC4E4D80D5EC4C2C.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Maps/TestMap.umap'
+[2023.03.23-16.40.07:717][ 63]LogFileHelpers: No new changes to save!
+[2023.03.23-16.40.07:717][ 63]LogFileHelpers: Saving map 'TestMap' took 0.059
+[2023.03.23-16.40.07:754][ 63]LogSavePackage: Moving output files for package: /Game/Blueprints/MainCharacter_BP
+[2023.03.23-16.40.07:754][ 63]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/MainCharacter_BP4F779A2940DB1FC3FBCAB79D3B1CF4FE.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/MainCharacter_BP.uasset'
+[2023.03.23-16.40.07:768][ 63]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.23-16.40.07:768][ 63]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
+[2023.03.23-16.40.07:768][ 63]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MainCharacter_BP.MainCharacter_BP
+[2023.03.23-16.40.09:544][224]BlueprintLog: New page: Compile MainCharacter_BP
+[2023.03.23-16.40.09:628][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.03.23-16.40.10:725][327]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.03.23-16.40.10:730][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.23-16.40.10:730][327]PIE: New page: PIE session: TestMap (Mar 23, 2023, 8:40:10 AM)
+[2023.03.23-16.40.10:730][327]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.40.10:733][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002038s)
+[2023.03.23-16.40.10:733][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.002096s)
+[2023.03.23-16.40.10:733][327]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.23-16.40.10:733][327]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-16.40.10:733][327]LogAIModule: Creating AISystem for world TestMap
+[2023.03.23-16.40.10:733][327]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2023.03.23-16.40.10:781][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.03.23-16.40.10:785][327]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2023.03.23-16.40.10:785][327]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-16.40.10:785][327]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-16.40.10:785][327]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-16.40.10:785][327]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-16.40.10:785][327]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-16.40.10:785][327]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.23-16.40.10:785][327]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-16.40.10:785][327]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-16.40.10:785][327]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-16.40.10:785][327]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-16.40.10:785][327]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-16.40.10:786][327]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.23-16.40.10:805][327]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2023.03.23-16.40.10:805][327]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-16.40.10:806][327]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-16.40.10:806][327]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-16.40.10:806][327]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2023.03.23-16.40.10:806][327]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2023.03.23-16.40.10:807][327]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2023.03.23-16.40.10:807][327]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2023.03.23-16.40.10:807][327]LogInit: FAudioDevice initialized.
+[2023.03.23-16.40.10:807][327]LogAudio: Display: Audio Device (ID: 28) registered with world 'TestMap'.
+[2023.03.23-16.40.10:858][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.40.10:858][327]LogLoad: Game class is 'GameMode_BP_C'
+[2023.03.23-16.40.10:859][327]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.03.23-12.40.10
+[2023.03.23-16.40.10:859][327]LogWorld: Bringing up level for play took: 0.000591
+[2023.03.23-16.40.10:861][327]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2023.03.23-16.40.10:866][327]PIE: Server logged in
+[2023.03.23-16.40.10:868][327]PIE: Play in editor total start time 0.139 seconds.
+[2023.03.23-16.40.10:896][327]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.03.23-16.40.11:360][369]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.40.11:866][423]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.40.12:020][439]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.40.12:165][455]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.40.12:312][470]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.40.15:308][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.40.15:308][802]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.40.15:309][802]LogSlate: Window 'HC_Prototype3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.03.23-16.40.15:314][802]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.40.15:314][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.40.15:325][802]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-16.40.15:331][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.40.15:376][802]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.23-16.40.15:376][802]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.03.23-16.40.15:378][802]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.03.23-16.40.15:382][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.03.23-16.40.15:414][803]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.03.23-16.40.56:359][769]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.03.23-16.40.56:364][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.23-16.40.56:364][769]PIE: New page: PIE session: TestMap (Mar 23, 2023, 8:40:56 AM)
+[2023.03.23-16.40.56:364][769]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.40.56:365][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001593s)
+[2023.03.23-16.40.56:365][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001644s)
+[2023.03.23-16.40.56:365][769]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.23-16.40.56:365][769]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-16.40.56:365][769]LogAIModule: Creating AISystem for world TestMap
+[2023.03.23-16.40.56:366][769]LogPlayLevel: PIE: World Init took: (0.000515s)
+[2023.03.23-16.40.56:413][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.03.23-16.40.56:417][769]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.03.23-16.40.56:417][769]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-16.40.56:417][769]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-16.40.56:417][769]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-16.40.56:417][769]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-16.40.56:417][769]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-16.40.56:417][769]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.23-16.40.56:417][769]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-16.40.56:417][769]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-16.40.56:417][769]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-16.40.56:417][769]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-16.40.56:417][769]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-16.40.56:418][769]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.23-16.40.56:438][769]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2023.03.23-16.40.56:438][769]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-16.40.56:438][769]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-16.40.56:438][769]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-16.40.56:439][769]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2023.03.23-16.40.56:439][769]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2023.03.23-16.40.56:439][769]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2023.03.23-16.40.56:439][769]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2023.03.23-16.40.56:439][769]LogInit: FAudioDevice initialized.
+[2023.03.23-16.40.56:439][769]LogAudio: Display: Audio Device (ID: 29) registered with world 'TestMap'.
+[2023.03.23-16.40.56:492][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.40.56:492][769]LogLoad: Game class is 'GameMode_BP_C'
+[2023.03.23-16.40.56:493][769]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.03.23-12.40.56
+[2023.03.23-16.40.56:493][769]LogWorld: Bringing up level for play took: 0.000741
+[2023.03.23-16.40.56:494][769]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2023.03.23-16.40.56:500][769]PIE: Server logged in
+[2023.03.23-16.40.56:503][769]PIE: Play in editor total start time 0.14 seconds.
+[2023.03.23-16.40.56:530][769]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.03.23-16.40.57:022][814]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.40.57:183][831]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.40.58:144][943]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 172
+[2023.03.23-16.40.58:144][943]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/MainCharacter_BP.MainCharacter_BP_C:InpActEvt_Reload_K2Node_InputActionEvent_0
+	Function /Game/Blueprints/MainCharacter_BP.MainCharacter_BP_C:ExecuteUbergraph_MainCharacter_BP
+	Function /Game/Blueprints/MainCharacter_BP.MainCharacter_BP_C:Reload
+
+[2023.03.23-16.40.58:153][943]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_27.HUD_C_0.WidgetTree.ProgressBar_0.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2023.03.23-16.41.03:168][322]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Blueprints/MainCharacter_BP.MainCharacter_BP without an associated node. The blueprint breakpoint has been removed
+[2023.03.23-16.41.03:168][322]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Blueprints/MainCharacter_BP.MainCharacter_BP without an associated node. The blueprint breakpoint has been removed
+[2023.03.23-16.41.06:169][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.41.06:169][655]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.41.06:170][655]LogSlate: Window 'HC_Prototype3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.03.23-16.41.06:172][655]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.41.06:172][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.41.06:184][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-16.41.06:190][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.41.06:234][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.03.23-16.41.06:235][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.03.23-16.41.06:241][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.03.23-16.41.06:268][656]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.03.23-16.41.22:266][419]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.03.23-16.41.22:271][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.23-16.41.22:271][419]PIE: New page: PIE session: TestMap (Mar 23, 2023, 8:41:22 AM)
+[2023.03.23-16.41.22:272][419]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.41.22:273][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001721s)
+[2023.03.23-16.41.22:273][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001778s)
+[2023.03.23-16.41.22:273][419]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.23-16.41.22:273][419]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-16.41.22:274][419]LogAIModule: Creating AISystem for world TestMap
+[2023.03.23-16.41.22:274][419]LogPlayLevel: PIE: World Init took: (0.000609s)
+[2023.03.23-16.41.22:322][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.03.23-16.41.22:324][419]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.03.23-16.41.22:324][419]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-16.41.22:325][419]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-16.41.22:325][419]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-16.41.22:325][419]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-16.41.22:325][419]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-16.41.22:325][419]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.23-16.41.22:325][419]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-16.41.22:325][419]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-16.41.22:325][419]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-16.41.22:325][419]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-16.41.22:325][419]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-16.41.22:327][419]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.23-16.41.22:346][419]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2023.03.23-16.41.22:346][419]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-16.41.22:346][419]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-16.41.22:346][419]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-16.41.22:347][419]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2023.03.23-16.41.22:347][419]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2023.03.23-16.41.22:347][419]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2023.03.23-16.41.22:347][419]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2023.03.23-16.41.22:347][419]LogInit: FAudioDevice initialized.
+[2023.03.23-16.41.22:347][419]LogAudio: Display: Audio Device (ID: 30) registered with world 'TestMap'.
+[2023.03.23-16.41.22:394][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.41.22:394][419]LogLoad: Game class is 'GameMode_BP_C'
+[2023.03.23-16.41.22:395][419]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.03.23-12.41.22
+[2023.03.23-16.41.22:395][419]LogWorld: Bringing up level for play took: 0.000904
+[2023.03.23-16.41.22:397][419]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2023.03.23-16.41.22:402][419]PIE: Server logged in
+[2023.03.23-16.41.22:405][419]PIE: Play in editor total start time 0.134 seconds.
+[2023.03.23-16.41.22:433][419]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.03.23-16.41.22:926][464]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.41.23:109][484]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.41.23:267][501]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.41.23:423][518]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.41.24:981][694]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 172
+[2023.03.23-16.41.24:981][694]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/MainCharacter_BP.MainCharacter_BP_C:InpActEvt_Reload_K2Node_InputActionEvent_0
+	Function /Game/Blueprints/MainCharacter_BP.MainCharacter_BP_C:ExecuteUbergraph_MainCharacter_BP
+	Function /Game/Blueprints/MainCharacter_BP.MainCharacter_BP_C:Reload
+
+[2023.03.23-16.41.24:998][694]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_28.HUD_C_0.WidgetTree.ProgressBar_0.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2023.03.23-16.41.40:602][855]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Blueprints/MainCharacter_BP.MainCharacter_BP without an associated node. The blueprint breakpoint has been removed
+[2023.03.23-16.41.40:602][855]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Blueprints/MainCharacter_BP.MainCharacter_BP without an associated node. The blueprint breakpoint has been removed
+[2023.03.23-16.41.42:178][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.41.42:179][ 31]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.41.42:179][ 31]LogSlate: Window 'HC_Prototype3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.03.23-16.41.42:180][ 31]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.41.42:181][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.41.42:190][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-16.41.42:196][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.41.42:241][ 31]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.23-16.41.42:242][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.03.23-16.41.42:243][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.03.23-16.41.42:248][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.03.23-16.41.42:276][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.03.23-16.41.47:113][518]BlueprintLog: New page: Compile MainCharacter_BP
+[2023.03.23-16.41.47:193][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.03.23-16.41.48:243][606]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.03.23-16.41.48:248][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.23-16.41.48:249][606]PIE: New page: PIE session: TestMap (Mar 23, 2023, 8:41:48 AM)
+[2023.03.23-16.41.48:249][606]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.41.48:250][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001651s)
+[2023.03.23-16.41.48:250][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001705s)
+[2023.03.23-16.41.48:250][606]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.23-16.41.48:250][606]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-16.41.48:251][606]LogAIModule: Creating AISystem for world TestMap
+[2023.03.23-16.41.48:251][606]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2023.03.23-16.41.48:300][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.03.23-16.41.48:303][606]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2023.03.23-16.41.48:303][606]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-16.41.48:303][606]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-16.41.48:303][606]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-16.41.48:303][606]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-16.41.48:303][606]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-16.41.48:303][606]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.23-16.41.48:303][606]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-16.41.48:303][606]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-16.41.48:304][606]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-16.41.48:304][606]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-16.41.48:304][606]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-16.41.48:305][606]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.23-16.41.48:324][606]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2023.03.23-16.41.48:324][606]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-16.41.48:324][606]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-16.41.48:324][606]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-16.41.48:324][606]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2023.03.23-16.41.48:324][606]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2023.03.23-16.41.48:325][606]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2023.03.23-16.41.48:325][606]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2023.03.23-16.41.48:325][606]LogInit: FAudioDevice initialized.
+[2023.03.23-16.41.48:325][606]LogAudio: Display: Audio Device (ID: 31) registered with world 'TestMap'.
+[2023.03.23-16.41.48:358][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.41.48:358][606]LogLoad: Game class is 'GameMode_BP_C'
+[2023.03.23-16.41.48:359][606]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.03.23-12.41.48
+[2023.03.23-16.41.48:359][606]LogWorld: Bringing up level for play took: 0.000804
+[2023.03.23-16.41.48:360][606]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2023.03.23-16.41.48:366][606]PIE: Server logged in
+[2023.03.23-16.41.48:369][606]PIE: Play in editor total start time 0.121 seconds.
+[2023.03.23-16.41.48:396][606]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.03.23-16.41.49:709][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.41.49:709][737]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.41.49:710][737]LogSlate: Window 'HC_Prototype3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.03.23-16.41.49:712][737]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.41.49:712][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.41.49:721][737]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-16.41.49:726][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.41.49:771][737]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.23-16.41.49:771][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.03.23-16.41.49:773][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.03.23-16.41.49:778][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.03.23-16.41.49:803][738]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.03.23-16.41.52:103][989]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.03.23-16.41.52:108][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.23-16.41.52:108][989]PIE: New page: PIE session: TestMap (Mar 23, 2023, 8:41:52 AM)
+[2023.03.23-16.41.52:108][989]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.41.52:109][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001471s)
+[2023.03.23-16.41.52:109][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001519s)
+[2023.03.23-16.41.52:109][989]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.23-16.41.52:109][989]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-16.41.52:110][989]LogAIModule: Creating AISystem for world TestMap
+[2023.03.23-16.41.52:110][989]LogPlayLevel: PIE: World Init took: (0.000506s)
+[2023.03.23-16.41.52:156][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.03.23-16.41.52:158][989]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2023.03.23-16.41.52:158][989]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-16.41.52:158][989]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-16.41.52:158][989]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-16.41.52:158][989]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-16.41.52:158][989]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-16.41.52:158][989]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.23-16.41.52:158][989]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-16.41.52:158][989]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-16.41.52:158][989]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-16.41.52:158][989]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-16.41.52:158][989]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-16.41.52:160][989]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.23-16.41.52:179][989]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2023.03.23-16.41.52:179][989]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-16.41.52:179][989]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-16.41.52:179][989]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-16.41.52:180][989]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2023.03.23-16.41.52:180][989]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2023.03.23-16.41.52:181][989]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2023.03.23-16.41.52:181][989]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2023.03.23-16.41.52:181][989]LogInit: FAudioDevice initialized.
+[2023.03.23-16.41.52:181][989]LogAudio: Display: Audio Device (ID: 32) registered with world 'TestMap'.
+[2023.03.23-16.41.52:225][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.41.52:225][989]LogLoad: Game class is 'GameMode_BP_C'
+[2023.03.23-16.41.52:226][989]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.03.23-12.41.52
+[2023.03.23-16.41.52:226][989]LogWorld: Bringing up level for play took: 0.000728
+[2023.03.23-16.41.52:228][989]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2023.03.23-16.41.52:233][989]PIE: Server logged in
+[2023.03.23-16.41.52:236][989]PIE: Play in editor total start time 0.129 seconds.
+[2023.03.23-16.41.52:265][989]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.03.23-16.41.53:898][155]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.41.54:288][198]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.41.54:458][212]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.41.55:281][300]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 112
+[2023.03.23-16.41.55:281][300]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/MainCharacter_BP.MainCharacter_BP_C:InpActEvt_Reload_K2Node_InputActionEvent_0
+	Function /Game/Blueprints/MainCharacter_BP.MainCharacter_BP_C:ExecuteUbergraph_MainCharacter_BP
+	Function /Game/Blueprints/MainCharacter_BP.MainCharacter_BP_C:Reload
+
+[2023.03.23-16.41.55:290][300]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_0.WidgetTree.ProgressBar_0.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2023.03.23-16.41.56:812][300]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_0.WidgetTree.ProgressBar_0.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2023.03.23-16.41.57:670][300]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_0.WidgetTree.ProgressBar_0.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2023.03.23-16.41.58:408][300]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_0.WidgetTree.ProgressBar_0.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2023.03.23-16.41.58:985][300]LogScriptCore: Warning: Cannot call UnrealScript (FloatBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_30.HUD_C_0.WidgetTree.ProgressBar_0.FloatBinding_0 - Function /Script/UMG.FloatBinding:GetValue) while stopped at a breakpoint.
+[2023.03.23-16.42.00:946][300]LogBlueprintUserMessages: [MainCharacter_BP_C_0] 17
+[2023.03.23-16.42.03:129][540]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.42.03:129][540]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.42.03:129][540]LogSlate: Window 'HC_Prototype3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.03.23-16.42.03:131][540]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.42.03:131][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.42.03:139][540]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-16.42.03:145][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.42.03:191][540]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.03.23-16.42.03:192][540]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.03.23-16.42.03:196][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.03.23-16.42.03:222][541]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.03.23-16.42.03:711][591]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.03.23-16.42.03:716][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.23-16.42.03:716][591]PIE: New page: PIE session: TestMap (Mar 23, 2023, 8:42:03 AM)
+[2023.03.23-16.42.03:716][591]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.42.03:718][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001808s)
+[2023.03.23-16.42.03:718][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001867s)
+[2023.03.23-16.42.03:718][591]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.23-16.42.03:718][591]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-16.42.03:719][591]LogAIModule: Creating AISystem for world TestMap
+[2023.03.23-16.42.03:719][591]LogPlayLevel: PIE: World Init took: (0.000583s)
+[2023.03.23-16.42.03:766][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.03.23-16.42.03:770][591]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2023.03.23-16.42.03:770][591]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-16.42.03:770][591]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-16.42.03:770][591]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-16.42.03:770][591]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-16.42.03:770][591]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-16.42.03:770][591]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.23-16.42.03:770][591]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-16.42.03:770][591]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-16.42.03:770][591]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-16.42.03:770][591]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-16.42.03:770][591]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-16.42.03:772][591]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.23-16.42.03:790][591]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2023.03.23-16.42.03:790][591]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-16.42.03:790][591]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-16.42.03:790][591]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-16.42.03:791][591]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2023.03.23-16.42.03:791][591]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2023.03.23-16.42.03:792][591]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2023.03.23-16.42.03:792][591]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2023.03.23-16.42.03:792][591]LogInit: FAudioDevice initialized.
+[2023.03.23-16.42.03:792][591]LogAudio: Display: Audio Device (ID: 33) registered with world 'TestMap'.
+[2023.03.23-16.42.03:824][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.42.03:825][591]LogLoad: Game class is 'GameMode_BP_C'
+[2023.03.23-16.42.03:825][591]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.03.23-12.42.03
+[2023.03.23-16.42.03:826][591]LogWorld: Bringing up level for play took: 0.000825
+[2023.03.23-16.42.03:827][591]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2023.03.23-16.42.03:832][591]PIE: Server logged in
+[2023.03.23-16.42.03:835][591]PIE: Play in editor total start time 0.119 seconds.
+[2023.03.23-16.42.03:863][591]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.03.23-16.42.04:555][660]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.42.05:419][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.42.05:419][756]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.42.05:419][756]LogSlate: Window 'HC_Prototype3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.03.23-16.42.05:423][756]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.42.05:423][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.42.05:434][756]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-16.42.05:440][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.42.05:485][756]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.03.23-16.42.05:486][756]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.03.23-16.42.05:492][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.03.23-16.42.05:518][757]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.03.23-16.42.08:648][ 85]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Blueprints/MainCharacter_BP.MainCharacter_BP without an associated node. The blueprint breakpoint has been removed
+[2023.03.23-16.42.08:648][ 85]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Blueprints/MainCharacter_BP.MainCharacter_BP without an associated node. The blueprint breakpoint has been removed
+[2023.03.23-16.42.10:340][268]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.03.23-16.42.10:345][268]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.23-16.42.10:345][268]PIE: New page: PIE session: TestMap (Mar 23, 2023, 8:42:10 AM)
+[2023.03.23-16.42.10:345][268]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.42.10:347][268]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001541s)
+[2023.03.23-16.42.10:347][268]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001591s)
+[2023.03.23-16.42.10:347][268]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.23-16.42.10:347][268]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-16.42.10:347][268]LogAIModule: Creating AISystem for world TestMap
+[2023.03.23-16.42.10:347][268]LogPlayLevel: PIE: World Init took: (0.000513s)
+[2023.03.23-16.42.10:393][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.03.23-16.42.10:396][268]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2023.03.23-16.42.10:396][268]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-16.42.10:396][268]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-16.42.10:396][268]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-16.42.10:396][268]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-16.42.10:396][268]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-16.42.10:396][268]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.23-16.42.10:396][268]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-16.42.10:396][268]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-16.42.10:396][268]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-16.42.10:396][268]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-16.42.10:396][268]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-16.42.10:398][268]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.23-16.42.10:416][268]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2023.03.23-16.42.10:417][268]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-16.42.10:417][268]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-16.42.10:417][268]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-16.42.10:417][268]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2023.03.23-16.42.10:417][268]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2023.03.23-16.42.10:418][268]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2023.03.23-16.42.10:418][268]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2023.03.23-16.42.10:418][268]LogInit: FAudioDevice initialized.
+[2023.03.23-16.42.10:418][268]LogAudio: Display: Audio Device (ID: 34) registered with world 'TestMap'.
+[2023.03.23-16.42.10:475][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.42.10:476][268]LogLoad: Game class is 'GameMode_BP_C'
+[2023.03.23-16.42.10:476][268]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.03.23-12.42.10
+[2023.03.23-16.42.10:477][268]LogWorld: Bringing up level for play took: 0.000786
+[2023.03.23-16.42.10:478][268]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2023.03.23-16.42.10:483][268]PIE: Server logged in
+[2023.03.23-16.42.10:485][268]PIE: Play in editor total start time 0.141 seconds.
+[2023.03.23-16.42.10:512][268]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.03.23-16.42.12:214][445]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.42.12:380][463]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.42.12:536][480]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.42.13:001][519]LogBlueprintUserMessages: [MainCharacter_BP_C_0] 17
+[2023.03.23-16.42.13:644][585]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.42.13:802][602]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.42.13:968][620]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.42.14:120][637]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.42.15:391][777]LogBlueprintUserMessages: [MainCharacter_BP_C_0] 13
+[2023.03.23-16.42.15:971][839]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.42.16:155][858]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.42.16:282][872]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.42.16:429][888]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.42.16:564][903]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.42.17:406][994]LogBlueprintUserMessages: [MainCharacter_BP_C_0] 8
+[2023.03.23-16.42.17:808][ 36]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.42.17:992][ 56]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.42.18:174][ 76]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.42.18:345][ 94]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.42.18:515][112]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.42.18:864][150]LogBlueprintUserMessages: [MainCharacter_BP_C_0] 3
+[2023.03.23-16.42.19:358][202]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.42.19:526][221]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.42.19:694][239]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.42.19:865][258]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.42.20:106][284]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.42.20:937][374]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.42.21:103][391]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.42.21:279][410]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.42.21:909][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.42.21:909][476]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.42.21:909][476]LogSlate: Window 'HC_Prototype3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.03.23-16.42.21:914][476]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.42.21:914][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.42.21:924][476]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-16.42.21:930][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.42.21:976][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.03.23-16.42.21:978][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.03.23-16.42.21:984][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.03.23-16.42.22:009][477]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.03.23-16.42.22:871][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.03.23-16.42.22:954][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.03.23-16.42.22:960][569]LogSavePackage: Moving output files for package: /Game/Maps/TestMap
+[2023.03.23-16.42.22:960][569]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/TestMapD991E1324957D2493BDC5F8200E98D8F.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Maps/TestMap.umap'
+[2023.03.23-16.42.22:966][569]LogFileHelpers: No new changes to save!
+[2023.03.23-16.42.22:966][569]LogFileHelpers: Saving map 'TestMap' took 0.058
+[2023.03.23-16.42.23:003][569]LogSavePackage: Moving output files for package: /Game/Blueprints/MainCharacter_BP
+[2023.03.23-16.42.23:004][569]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/MainCharacter_BPAC46F248482EE369BD18BC827D222DCC.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/MainCharacter_BP.uasset'
+[2023.03.23-16.42.23:019][569]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.23-16.42.23:019][569]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
+[2023.03.23-16.42.23:019][569]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MainCharacter_BP.MainCharacter_BP
+[2023.03.23-16.42.25:299][797]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.23-16.42.25:299][797]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.23-16.42.29:805][187]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 367187
+[2023.03.23-16.42.29:805][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.42.29:821][188]LogSlate: Took 0.004570 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.23-16.42.29:830][188]LogSlate: Took 0.005505 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.23-16.42.29:837][188]LogSlate: Took 0.003848 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.23-16.42.29:843][188]LogSlate: Took 0.003979 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.23-16.42.29:848][188]LogSlate: Took 0.004278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.23-16.42.29:855][188]LogSlate: Took 0.000629 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.03.23-16.42.29:859][188]LogSlate: Took 0.004200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.23-16.42.29:923][191]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 4
+[2023.03.23-16.42.29:923][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.42.29:929][192]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.23-16.42.29:933][192]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.23-16.42.29:938][192]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.23-16.42.29:940][192]LogSlate: Took 0.000082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.23-16.42.29:940][192]LogSlate: Took 0.000077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.23-16.42.29:947][192]LogSlate: Took 0.000075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.23-16.42.29:994][194]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 3
+[2023.03.23-16.42.29:994][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.42.29:998][195]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.23-16.42.30:001][195]LogSlate: Took 0.000097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.23-16.42.30:004][195]LogSlate: Took 0.000084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.23-16.42.30:005][195]LogSlate: Took 0.000073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.23-16.42.30:006][195]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.23-16.42.30:013][195]LogSlate: Took 0.000073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.23-16.42.30:141][206]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 12
+[2023.03.23-16.42.30:142][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.42.30:150][207]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.23-16.42.30:154][207]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.23-16.42.30:159][207]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.23-16.42.30:160][207]LogSlate: Took 0.000083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.23-16.42.30:161][207]LogSlate: Took 0.000573 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.23-16.42.30:168][207]LogSlate: Took 0.000084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.23-16.42.30:229][210]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 4
+[2023.03.23-16.42.30:229][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.42.30:233][211]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.23-16.42.30:236][211]LogSlate: Took 0.000086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.23-16.42.30:239][211]LogSlate: Took 0.000082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.23-16.42.30:241][211]LogSlate: Took 0.000072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.23-16.42.30:241][211]LogSlate: Took 0.000067 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.23-16.42.30:247][211]LogSlate: Took 0.000074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.23-16.42.30:321][215]LogSlate: Took 0.000586 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.03.23-16.42.30:324][215]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 5
+[2023.03.23-16.42.30:324][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.42.30:330][216]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.23-16.42.30:333][216]LogSlate: Took 0.000074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.23-16.42.30:336][216]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.23-16.42.30:340][216]LogSlate: Took 0.000089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.23-16.42.30:340][216]LogSlate: Took 0.000068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.23-16.42.30:347][216]LogSlate: Took 0.000509 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.03.23-16.42.30:347][216]LogSlate: Took 0.000064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.23-16.42.46:159][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.03.23-16.42.46:220][723]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/HUD
+[2023.03.23-16.42.46:221][723]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/HUD38F30EE4449B7D3F8AD4B59CEF69191C.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/Widgets/HUD.uasset'
+[2023.03.23-16.42.46:235][723]AssetCheck: New page: Asset Save: HUD
+[2023.03.23-16.42.46:235][723]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/HUD.HUD
+[2023.03.23-16.42.48:260][831]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.03.23-16.42.49:580][931]LogEditorTransaction: Undo Remove Widget
+[2023.03.23-16.42.54:419][249]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.03.23-16.42.54:424][249]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.23-16.42.54:425][249]LogPlayLevel: [PlayLevel] Compiling HUD before play...
+[2023.03.23-16.42.54:549][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.03.23-16.42.54:552][249]LogPlayLevel: PlayLevel: Blueprint regeneration took 127 ms (1 blueprints)
+[2023.03.23-16.42.54:552][249]PIE: New page: PIE session: TestMap (Mar 23, 2023, 8:42:54 AM)
+[2023.03.23-16.42.54:552][249]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.42.54:553][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001510s)
+[2023.03.23-16.42.54:553][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001561s)
+[2023.03.23-16.42.54:553][249]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.23-16.42.54:553][249]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-16.42.54:554][249]LogAIModule: Creating AISystem for world TestMap
+[2023.03.23-16.42.54:554][249]LogPlayLevel: PIE: World Init took: (0.000551s)
+[2023.03.23-16.42.54:600][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.03.23-16.42.54:601][249]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2023.03.23-16.42.54:601][249]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-16.42.54:601][249]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-16.42.54:601][249]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-16.42.54:601][249]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-16.42.54:601][249]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-16.42.54:601][249]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.23-16.42.54:601][249]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-16.42.54:601][249]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-16.42.54:602][249]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-16.42.54:602][249]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-16.42.54:602][249]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-16.42.54:603][249]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.23-16.42.54:623][249]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2023.03.23-16.42.54:623][249]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-16.42.54:623][249]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-16.42.54:623][249]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-16.42.54:624][249]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2023.03.23-16.42.54:624][249]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2023.03.23-16.42.54:625][249]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2023.03.23-16.42.54:625][249]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2023.03.23-16.42.54:625][249]LogInit: FAudioDevice initialized.
+[2023.03.23-16.42.54:625][249]LogAudio: Display: Audio Device (ID: 35) registered with world 'TestMap'.
+[2023.03.23-16.42.54:674][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.42.54:674][249]LogLoad: Game class is 'GameMode_BP_C'
+[2023.03.23-16.42.54:675][249]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.03.23-12.42.54
+[2023.03.23-16.42.54:675][249]LogWorld: Bringing up level for play took: 0.000754
+[2023.03.23-16.42.54:677][249]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2023.03.23-16.42.54:683][249]PIE: Server logged in
+[2023.03.23-16.42.54:685][249]PIE: Play in editor total start time 0.261 seconds.
+[2023.03.23-16.42.54:695][249]LogSlate: Took 0.004256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.23-16.42.54:731][249]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.03.23-16.42.56:249][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.42.56:249][379]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.42.56:249][379]LogSlate: Window 'HC_Prototype3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.03.23-16.42.56:254][379]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.42.56:254][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.42.56:265][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-16.42.56:271][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.42.56:317][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.03.23-16.42.56:319][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.03.23-16.42.56:324][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.03.23-16.42.56:354][380]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.03.23-16.42.57:720][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.03.23-16.42.57:768][492]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/HUD
+[2023.03.23-16.42.57:768][492]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/HUD807B580F4EDD42F4DF4E66A80A6A7865.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/Widgets/HUD.uasset'
+[2023.03.23-16.42.57:781][492]AssetCheck: New page: Asset Save: HUD
+[2023.03.23-16.42.57:782][492]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/HUD.HUD
+[2023.03.23-16.45.30:304][471]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.03.23-16.45.30:309][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.23-16.45.30:310][471]PIE: New page: PIE session: TestMap (Mar 23, 2023, 8:45:30 AM)
+[2023.03.23-16.45.30:310][471]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.45.30:312][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002052s)
+[2023.03.23-16.45.30:312][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.002110s)
+[2023.03.23-16.45.30:312][471]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.23-16.45.30:312][471]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.23-16.45.30:312][471]LogAIModule: Creating AISystem for world TestMap
+[2023.03.23-16.45.30:312][471]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2023.03.23-16.45.30:365][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.03.23-16.45.30:369][471]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2023.03.23-16.45.30:369][471]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.23-16.45.30:369][471]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.23-16.45.30:369][471]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.23-16.45.30:369][471]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.23-16.45.30:370][471]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.23-16.45.30:370][471]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.23-16.45.30:370][471]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.23-16.45.30:370][471]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.23-16.45.30:370][471]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.23-16.45.30:370][471]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.23-16.45.30:370][471]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.23-16.45.30:372][471]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.23-16.45.30:390][471]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2023.03.23-16.45.30:390][471]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.23-16.45.30:391][471]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.23-16.45.30:391][471]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.23-16.45.30:391][471]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2023.03.23-16.45.30:391][471]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2023.03.23-16.45.30:392][471]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2023.03.23-16.45.30:392][471]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2023.03.23-16.45.30:392][471]LogInit: FAudioDevice initialized.
+[2023.03.23-16.45.30:392][471]LogAudio: Display: Audio Device (ID: 36) registered with world 'TestMap'.
+[2023.03.23-16.45.30:445][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.45.30:445][471]LogLoad: Game class is 'GameMode_BP_C'
+[2023.03.23-16.45.30:446][471]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.03.23-12.45.30
+[2023.03.23-16.45.30:447][471]LogWorld: Bringing up level for play took: 0.001242
+[2023.03.23-16.45.30:448][471]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2023.03.23-16.45.30:454][471]PIE: Server logged in
+[2023.03.23-16.45.30:458][471]PIE: Play in editor total start time 0.148 seconds.
+[2023.03.23-16.45.30:509][471]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.03.23-16.45.33:495][701]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.45.33:819][728]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.45.34:022][745]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.45.34:204][761]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.45.34:385][777]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.03.23-16.45.35:109][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.23-16.45.35:109][839]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2023.03.23-16.45.35:110][839]LogSlate: Window 'HC_Prototype3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.03.23-16.45.35:114][839]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.23-16.45.35:115][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.45.35:122][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.23-16.45.35:127][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.23-16.45.35:173][839]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.23-16.45.35:173][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2023.03.23-16.45.35:175][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2023.03.23-16.45.35:181][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.03.23-16.45.35:211][840]LogPlayLevel: Display: Destroying online subsystem :Context_46
