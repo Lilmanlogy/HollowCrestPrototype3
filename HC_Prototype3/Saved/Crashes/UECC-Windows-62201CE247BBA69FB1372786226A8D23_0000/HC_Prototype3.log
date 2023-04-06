@@ -1,0 +1,1176 @@
+﻿Log file open, 04/06/23 12:43:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=18764)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: HC_Prototype3
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\clari\OneDrive\Documents\GitHub\HollowCrestPrototype3\HC_Prototype3\HC_Prototype3.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.2728] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="c67ad4ad4a31c266db3d9ab9d72b8eda"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.213492
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-62201CE247BBA69FB1372786226A8D23
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogPluginManager: Warning: Engine version string in ../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Plugins/DlgSystem-master/DlgSystem.uplugin could not be parsed ("ANY_VERSION")
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Project plugin DlgSystem
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Plugins/DlgSystem-master/Content/' mounted to '/DlgSystem/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (22H2) [10.0.19045.2728] (), CPU: 11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz, GPU: NVIDIA GeForce RTX 3060 Ti
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.04.06-16.43.05:228][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.04.06-16.43.05:228][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.04.06-16.43.05:228][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.04.06-16.43.05:231][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.04.06-16.43.05:231][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.04.06-16.43.05:231][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.04.06-16.43.05:231][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.04.06-16.43.05:231][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.04.06-16.43.05:231][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.04.06-16.43.05:231][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.04.06-16.43.05:231][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.04.06-16.43.05:231][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.04.06-16.43.05:231][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.04.06-16.43.05:231][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.04.06-16.43.05:241][  0]LogD3D12RHI: Aftermath initialized
+[2023.04.06-16.43.05:241][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.04.06-16.43.05:347][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3060 Ti (Max supported Feature Level 12_1, shader model 6.6)
+[2023.04.06-16.43.05:347][  0]LogD3D12RHI: Adapter has 8050MB of dedicated video memory, 0MB of dedicated system memory, and 8110MB of shared system memory, 2 output[s]
+[2023.04.06-16.43.05:351][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.04.06-16.43.05:351][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8110MB of shared system memory, 0 output[s]
+[2023.04.06-16.43.05:351][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.04.06-16.43.05:351][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.04.06-16.43.05:351][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.04.06-16.43.05:351][  0]LogHAL: Display: Platform has ~ 16 GB [17009274880 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.04.06-16.43.05:351][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.04.06-16.43.05:351][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.04.06-16.43.05:351][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.04.06-16.43.05:351][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.04.06-16.43.05:351][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/Config/WindowsEditor/Editor.ini]
+[2023.04.06-16.43.05:352][  0]LogInit: Computer: DESKTOP-NBFLU1H
+[2023.04.06-16.43.05:352][  0]LogInit: User: clari
+[2023.04.06-16.43.05:352][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.04.06-16.43.05:352][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.04.06-16.43.05:352][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2023.04.06-16.43.05:352][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.04.06-16.43.05:352][  0]LogMemory: Process Physical Memory: 279.92 MB used, 289.20 MB peak
+[2023.04.06-16.43.05:352][  0]LogMemory: Process Virtual Memory: 249.96 MB used, 249.96 MB peak
+[2023.04.06-16.43.05:352][  0]LogMemory: Physical Memory: 6865.13 MB used,  9356.18 MB free, 16221.31 MB total
+[2023.04.06-16.43.05:352][  0]LogMemory: Virtual Memory: 10458.17 MB used,  8629.80 MB free, 19087.98 MB total
+[2023.04.06-16.43.05:352][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.04.06-16.43.05:355][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.04.06-16.43.05:364][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.04.06-16.43.05:366][  0]LogInit: Using OS detected language (en-US).
+[2023.04.06-16.43.05:366][  0]LogInit: Using OS detected locale (en-US).
+[2023.04.06-16.43.05:370][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.04.06-16.43.05:487][  0]LogInit: Setting process to per monitor DPI aware
+[2023.04.06-16.43.05:499][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.04.06-16.43.05:499][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.04.06-16.43.05:499][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.04.06-16.43.05:499][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2023.04.06-16.43.05:499][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.04.06-16.43.05:512][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.04.06-16.43.05:512][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.04.06-16.43.05:597][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.04.06-16.43.05:599][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.04.06-16.43.05:599][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.04.06-16.43.05:653][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.04.06-16.43.05:653][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.04.06-16.43.05:653][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.04.06-16.43.05:653][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.04.06-16.43.05:653][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.04.06-16.43.05:653][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.04.06-16.43.05:653][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.04.06-16.43.05:653][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.04.06-16.43.05:653][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.04.06-16.43.05:653][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.04.06-16.43.05:653][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.04.06-16.43.05:653][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.04.06-16.43.05:653][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.04.06-16.43.05:653][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.04.06-16.43.05:653][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.04.06-16.43.05:653][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.04.06-16.43.05:710][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.04.06-16.43.05:715][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.04.06-16.43.05:724][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.04.06-16.43.05:742][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.04.06-16.43.05:742][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.04.06-16.43.05:759][  0]LogD3D12RHI:     GPU DeviceId: 0x2489 (for the marketing name, search the web for "GPU Device Id")
+[2023.04.06-16.43.05:759][  0]LogWindows: Attached monitors:
+[2023.04.06-16.43.05:759][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.04.06-16.43.05:759][  0]LogWindows:     resolution: 1920x1080, work area: (1920, 0) -> (3840, 1040), device: '\\.\DISPLAY2'
+[2023.04.06-16.43.05:759][  0]LogWindows: Found 2 attached monitors.
+[2023.04.06-16.43.05:760][  0]LogWindows: EnumDisplayDevices:
+[2023.04.06-16.43.05:760][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060 Ti' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.04.06-16.43.05:760][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:1), name: '\\.\DISPLAY2'
+[2023.04.06-16.43.05:760][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.04.06-16.43.05:760][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.04.06-16.43.05:760][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.04.06-16.43.05:760][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Ti
+[2023.04.06-16.43.05:760][  0]LogD3D12RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2023.04.06-16.43.05:760][  0]LogD3D12RHI:      Driver Date: 7-21-2022
+[2023.04.06-16.43.05:760][  0]LogRHI: Texture pool is 4587 MB (70% of 6553 MB)
+[2023.04.06-16.43.05:760][  0]LogD3D12RHI: Async texture creation enabled
+[2023.04.06-16.43.05:760][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.04.06-16.43.05:769][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.04.06-16.43.05:773][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/HC_Prototype3.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Intermediate/TurnkeyReport_0.log" -log="C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Intermediate/TurnkeyLog_0.log" -project="C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/HC_Prototype3.uproject"  -platform=all'
+[2023.04.06-16.43.05:773][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/HC_Prototype3.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Intermediate/TurnkeyReport_0.log" -log="C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Intermediate/TurnkeyLog_0.log" -project="C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/HC_Prototype3.uproject"  -platform=all" ]
+[2023.04.06-16.43.05:789][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.04.06-16.43.05:794][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.04.06-16.43.05:794][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.04.06-16.43.05:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.04.06-16.43.05:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.04.06-16.43.05:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.04.06-16.43.05:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.04.06-16.43.05:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.04.06-16.43.05:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.04.06-16.43.05:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.04.06-16.43.05:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.04.06-16.43.05:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.04.06-16.43.05:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.04.06-16.43.05:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.04.06-16.43.05:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.04.06-16.43.05:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.04.06-16.43.05:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.04.06-16.43.05:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.04.06-16.43.05:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.04.06-16.43.05:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.04.06-16.43.05:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.04.06-16.43.05:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.04.06-16.43.05:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.04.06-16.43.05:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.04.06-16.43.05:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.04.06-16.43.05:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.04.06-16.43.05:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.04.06-16.43.05:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.04.06-16.43.05:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.04.06-16.43.05:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.04.06-16.43.05:825][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.04.06-16.43.05:830][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.04.06-16.43.05:831][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.04.06-16.43.05:832][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.04.06-16.43.05:832][  0]LogTargetPlatformManager:   ADPCM
+[2023.04.06-16.43.05:832][  0]LogTargetPlatformManager:   PCM
+[2023.04.06-16.43.05:833][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.04.06-16.43.05:833][  0]LogTargetPlatformManager:   BINKA
+[2023.04.06-16.43.05:833][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.04.06-16.43.05:833][  0]LogTargetPlatformManager:   OGG
+[2023.04.06-16.43.05:833][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.04.06-16.43.05:833][  0]LogTargetPlatformManager:   OPUS
+[2023.04.06-16.43.05:863][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.04.06-16.43.05:866][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.04.06-16.43.05:866][  0]LogTargetPlatformManager:   SF_METAL
+[2023.04.06-16.43.05:866][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.04.06-16.43.05:866][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.04.06-16.43.05:866][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.04.06-16.43.05:866][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.04.06-16.43.05:866][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.04.06-16.43.05:866][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.04.06-16.43.05:866][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.04.06-16.43.05:866][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.04.06-16.43.05:866][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.04.06-16.43.05:866][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.04.06-16.43.05:866][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.04.06-16.43.05:866][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.04.06-16.43.05:866][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.04.06-16.43.05:866][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.04.06-16.43.05:868][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.04.06-16.43.05:868][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.04.06-16.43.05:868][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.04.06-16.43.05:868][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.04.06-16.43.05:868][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.04.06-16.43.05:868][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.04.06-16.43.05:868][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.04.06-16.43.05:868][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.04.06-16.43.05:869][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.04.06-16.43.05:869][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.04.06-16.43.05:869][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.04.06-16.43.05:869][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.04.06-16.43.05:871][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.04.06-16.43.05:871][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.04.06-16.43.05:871][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.06-16.43.05:871][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.04.06-16.43.05:886][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.04.06-16.43.05:887][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.06-16.43.05:887][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.04.06-16.43.05:893][  0]LogDerivedDataCache: Speed tests for C:/Users/clari/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.04.06-16.43.05:893][  0]LogDerivedDataCache: Display: Performance to C:/Users/clari/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1203.79MBs, RandomWriteSpeed=169.67MBs. Assigned SpeedClass 'Local'
+[2023.04.06-16.43.05:894][  0]LogDerivedDataCache: Using Local data cache path C:/Users/clari/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.04.06-16.43.05:894][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.04.06-16.43.05:894][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.04.06-16.43.05:900][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.04.06-16.43.05:900][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.04.06-16.43.05:901][  0]LogShaderCompilers: Guid format shader working directory is -45 characters bigger than the processId version (../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Intermediate/Shaders/WorkingDirectory/8756/).
+[2023.04.06-16.43.05:901][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/clari/AppData/Local/Temp/UnrealShaderWorkingDir/4B87C88749A4A390D9AA9BB9D6B2C3FA/'.
+[2023.04.06-16.43.05:901][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.04.06-16.43.05:901][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2023.04.06-16.43.07:059][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.04.06-16.43.07:059][  0]LogSlate: Using FreeType 2.10.0
+[2023.04.06-16.43.07:060][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.04.06-16.43.07:087][  0]LogAssetRegistry: FAssetRegistry took 0.0092 seconds to start up
+[2023.04.06-16.43.07:092][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.04.06-16.43.07:238][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.04.06-16.43.07:238][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.04.06-16.43.07:458][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.04.06-16.43.07:458][  0]LogDeviceProfileManager: Active device profile: [000008BEE9389F40][000008BEDDFE0000 50] WindowsEditor
+[2023.04.06-16.43.07:458][  0]LogDeviceProfileManager: Profiles: [000008BEE9389BC0][000008BEDDFE5000 50] Windows, [000008BEE9389F40][000008BEDDFE0000 50] WindowsEditor, [000008BEE9385E80][000008BEDDF87800 50] WindowsServer, [000008BEE9389A00][000008BEDDF2C800 50] WindowsClient, [000008BEE9386740][000008BEDDFE2800 50] IOS, [000008BEE9389680][000008BECE24A000 50] iPadAir2, [000008BEE9389300][000008BEE97C2800 50] IPadPro, [000008BEE9386E40][000008BEE97C0000 50] iPadAir3, [000008BEE9388A40][000008BEE97C7800 50] iPadAir4, [000008BEE93863C0][000008BEE97CA000 50] iPadMini4, [000008BEE9386580][000008BEE97CC800 50] iPadMini5, [000008BEE9387700][000008BEE18CC800 50] iPadMini6, [000008BEE938D040][000008BEE9745000 50] iPhone6S, [000008BEE938D3C0][000008BEE9742800 50] iPhone7, [000008BEE938D740][000008BEE9740000 50] iPodTouch7, [000008BEE9385080][000008BEE974A000 50] iPhone6SPlus, [000008BEE938CB00][000008BEE974C800 50] iPhone7Plus, [000008BEE9385780][000008BEE97C5000 50] iPhoneSE, [000008BEE9388880][000008BEE97F0000 50] iPhone8, [000008BEE938B280][000008BEE97F5000 50] iPhone8Plus, [000008BEE9388500][000008BEE97F7800 50] iPhoneX, [000008BEE938A640][000008BEE97FA000 50] iPhoneXS, [000008BEE938C400][000008BEE97FC800 50] iPhoneXSMax, [000008BEE9387E00][000008BEE9747800 50] iPhoneXR, [000008BEE9388DC0][000008BEE97A0000 50] iPhone11, [000008BEE938CCC0][000008BEE97A5000 50] iPhone11Pro, [000008BEE938A9C0][000008BEE97A7800 50] iPhone11ProMax, [000008BEE9387C40][000008BEE97AA000 50] iPhoneSE2, [000008BEE938BB40][000008BEE97AC800 50] iPhone12Mini, [000008BEE938A2C0][000008BEE97F2800 50] iPhone12, [000008BEE938C080][000008BEE9760000 50] iPhone12Pro, [000008BEE9385B00][000008BEE9765000 50] iPhone12ProMax, [000008BEE9386C80][000008BEE9767800 50] iPhone13Mini, [000008BEE9388C00][000008BEE976A000 50] iPhone13, [000008BEE93894C0][000008BEE976C800 50] iPhone13Pro, [000008BEE938A800][000008BEE97A2800 50] iPhone13ProMax, [000008BEE9388F80][000008BEE9770000 50] iPadPro105, [000008BEE938C240][000008BEE9775000 50] iPadPro129, [000008BEE9387380][000008BEE9777800 50] iPadPro97, [000008BEE93886C0][000008BEE977A000 50] iPadPro2_129, [000008BEE93847C0][000008BEE977C800 50] iPad5, [000008BEE9388340][000008BEE9762800 50] iPad6, [000008BEE9385940][000008BEE9820000 50] iPad7, [000008BEE938AF00][000008BEE9825000 50] iPad8, [000008BEE938A480][000008BEE9827800 50] iPad9, [000008BEE938CE80][000008BEE982A000 50] iPadPro11, [000008BEE93871C0][000008BEE982C800 50] iPadPro2_11, [000008BEE938B600][000008BEE9772800 50] iPadPro3_11, [000008BEE9385CC0][000008BEE9830000 50] iPadPro3_129, [000008BEE938AB80][000008BEE9835000 50] iPadPro4_129, [000008BEE938DAC0][000008BEE9837800 50] iPadPro5_129, [000008BEE938C940][000008BEE983A000 50] AppleTV, [000008BEE9386200][000008BEE983C800 50] AppleTV4K, [000008BEE9389140][000008BEE9822800 50] TVOS, [000008BEE938F6C0][000008BEE9842800 50] Mac, [000008BEE938FA40][000008BEE9840000 50] MacEditor, [000008BEE938C5C0][000008BEE9847800 50] MacClient, [000008BEE938EE00][000008BEE984A000 50] MacServer, [000008BEE938FDC0][000008BEE9832800 50] Linux, [000008BEE938FC00][000008BEE984C800 50] LinuxEditor, [000008BEE938EFC0][000008BEE9850000 50] LinuxArm64Editor, [000008BEE9387FC0][000008BEE9855000 50] LinuxArm64, [000008BEE938DE40][000008BEE9857800 50] LinuxClient, [000008BEE9386AC0][000008BEE985A000 50] LinuxArm64Client, [000008BEE938BEC0][000008BEE985C800 50] LinuxServer, [000008BEE938EC40][000008BEE9845000 50] LinuxArm64Server, [000008BEE938B7C0][000008BEE9860000 50] Android, [000008BEE938D200][000008BEE9865000 50] Android_Preview_OpenGL, [000008BEE938F880][000008BEE9867800 50] Android_Preview_Vulkan, [000008BEE938E540][000008BEE986A000 50] Android_Low, [000008BEE938EA80][000008BEE986C800 50] Android_Mid, [000008BEE938B0C0][000008BEE9852800 50] Android_High, [000008BEE9387540][000008BEE9870000 50] Android_Default, [000008BEE9384EC0][000008BEE9875000 50] Android_Adreno4xx, [000008BEE9389D80][000008BEE9877800 50] Android_Adreno5xx_Low, [000008BEE938E000][000008BEE987A000 50] Android_Adreno5xx, [000008BEE938B440][000008BEE987C800 50] Android_Adreno6xx, [000008BEE9389840][000008BEE9862800 50] Android_Adreno6xx_Vulkan, [000008BEE9387000][000008BEE9880000 50] Android_Adreno7xx, [000008BEE8F9FDC0][000008BEE9885000 50] Android_Adreno7xx_Vulkan, [000008BEE9892300][000008BEE9887800 50] Android_Mali_T6xx, [000008BEE98901C0][000008BEE988A000 50] Android_Mali_T7xx, [000008BEE9892140][000008BEE988C800 50] Android_Mali_T8xx, [000008BEE9892680][000008BEE9872800 50] Android_Mali_G71, [000008BEE9891340][000008BEE98A0000 50] Android_Mali_G72, [000008BEE98924C0][000008BEE98A5000 50] Android_Mali_G72_Vulkan, [000008BEE9890380][000008BEE98A7800 50] Android_Mali_G76, [000008BEE9891500][000008BEE98AA000 50] Android_Mali_G76_Vulkan, [000008BEE9891880][000008BEE98AC800 50] Android_Mali_G77, [000008BEE9890A80][000008BEE9882800 50] Android_Mali_G77_Vulkan, [000008BEE9890C40][000008BEE98B0000 50] Android_Mali_G78, [000008BEE9890700][000008BEE98B5000 50] Android_Mali_G78_Vulkan, [000008BEE9892D80][000008BEE98B7800 50] Android_Mali_G710, [000008BEE9891C00][000008BEE98BA000 50] Android_Mali_G710_Vulkan, [000008BEE9891A40][000008BEE98BC800 50] Android_Xclipse_920, [000008BEE9892A00][000008BEE98A2800 50] Android_Xclipse_920_Vulkan, [000008BEE98908C0][000008BEE98C0000 50] Android_Vulkan_SM5, [000008BEE9890000][000008BEE98C5000 50] Android_PowerVR_G6xxx, [000008BEE9892F40][000008BEE98C7800 50] Android_PowerVR_GT7xxx, [000008BEE98916C0][000008BEE98CA000 50] Android_PowerVR_GE8xxx, [000008BEE9894B40][000008BEE98CC800 50] Android_PowerVR_GM9xxx, [000008BEE9890FC0][000008BEE98B2800 50] Android_PowerVR_GM9xxx_Vulkan, [000008BEE9894600][000008BEE98D0000 50] Android_TegraK1, [000008BEE9893800][000008BEE98D5000 50] Android_Unknown_Vulkan, [000008BEE9894280][000008BEE98D7800 50] Oculus_Quest, [000008BEE9894440][000008BEE98DA000 50] Oculus_Quest2, [000008BEE9892BC0][000008BEE98DC800 50] HoloLens, 
+[2023.04.06-16.43.07:458][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.04.06-16.43.07:461][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.04.06-16.43.07:461][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.04.06-16.43.07:461][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.04.06-16.43.07:461][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.04.06-16.43.07:461][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.04.06-16.43.07:479][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.04.06-16.43.07:631][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.04.06-16.43.07:632][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.04.06-16.43.07:632][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.04.06-16.43.07:632][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.04.06-16.43.07:632][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.04.06-16.43.07:643][  0]LogNetVersion: HC_Prototype3 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2625199499)
+[2023.04.06-16.43.07:733][  0]LogSlate: Border
+[2023.04.06-16.43.07:733][  0]LogSlate: BreadcrumbButton
+[2023.04.06-16.43.07:733][  0]LogSlate: Default
+[2023.04.06-16.43.07:733][  0]LogSlate: Icons.Save
+[2023.04.06-16.43.07:733][  0]LogSlate: Icons.Toolbar.Settings
+[2023.04.06-16.43.07:733][  0]LogSlate: ListView
+[2023.04.06-16.43.07:733][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.04.06-16.43.07:733][  0]LogSlate: SoftwareCursor_Grab
+[2023.04.06-16.43.07:733][  0]LogSlate: TableView.DarkRow
+[2023.04.06-16.43.07:733][  0]LogSlate: TableView.Row
+[2023.04.06-16.43.07:733][  0]LogSlate: TreeView
+[2023.04.06-16.43.07:861][  0]SourceControl: Source control is disabled
+[2023.04.06-16.43.07:882][  0]SourceControl: Source control is disabled
+[2023.04.06-16.43.07:882][  0]SourceControl: Source control is disabled
+[2023.04.06-16.43.07:977][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.04.06-16.43.07:977][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2023.04.06-16.43.07:977][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.04.06-16.43.08:218][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 0EEC0C954B5A7BA9C39748B88E108669 | Instance: 853A677E4EEEE8F86BCF63BDA4FFF49B (DESKTOP-NBFLU1H-8756).
+[2023.04.06-16.43.08:241][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.04.06-16.43.08:247][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.04.06-16.43.08:255][  0]LogPython: Using Python 3.9.7
+[2023.04.06-16.43.08:852][  0]LogDlgSystem: DlgSystemModule: StartupModule
+[2023.04.06-16.43.08:861][  0]LogDlgSystemEditor: DlgSystemEditorModule: StartupModule
+[2023.04.06-16.43.08:907][  0]SourceControl: Source control is disabled
+[2023.04.06-16.43.08:909][  0]SourceControl: Source control is disabled
+[2023.04.06-16.43.08:931][  0]SourceControl: Source control is disabled
+[2023.04.06-16.43.09:049][  0]LogUProjectInfo: Found projects:
+[2023.04.06-16.43.09:119][  0]LogOpenImageDenoise: OIDN starting up
+[2023.04.06-16.43.09:141][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.04.06-16.43.09:157][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.06-16.43.09:157][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.06-16.43.09:226][  0]LogCollectionManager: Loaded 0 collections in 0.001368 seconds
+[2023.04.06-16.43.09:282][  0]LogFileCache: Scanning file cache for directory 'C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/Collections/' took 0.00s
+[2023.04.06-16.43.09:282][  0]LogFileCache: Scanning file cache for directory 'C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Developers/clari/Collections/' took 0.00s
+[2023.04.06-16.43.09:282][  0]LogFileCache: Scanning file cache for directory 'C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Collections/' took 0.00s
+[2023.04.06-16.43.09:504][  0]LogEngine: Initializing Engine...
+[2023.04.06-16.43.09:514][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.04.06-16.43.09:514][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.04.06-16.43.09:717][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.04.06-16.43.09:717][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.06-16.43.09:725][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.06-16.43.09:742][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.04.06-16.43.09:742][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.04.06-16.43.09:757][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.04.06-16.43.09:758][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.04.06-16.43.09:758][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.04.06-16.43.09:758][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.04.06-16.43.09:758][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.04.06-16.43.09:758][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.06-16.43.09:758][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.06-16.43.09:758][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.06-16.43.09:758][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.06-16.43.09:758][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.06-16.43.09:759][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.06-16.43.09:759][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.06-16.43.09:759][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.06-16.43.09:759][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.06-16.43.09:759][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.06-16.43.09:759][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.06-16.43.09:764][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.06-16.43.09:801][  0]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2023.04.06-16.43.09:801][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.06-16.43.09:802][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.06-16.43.09:802][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.06-16.43.09:803][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.04.06-16.43.09:803][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.04.06-16.43.09:804][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.04.06-16.43.09:804][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.04.06-16.43.09:804][  0]LogInit: FAudioDevice initialized.
+[2023.04.06-16.43.09:804][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.04.06-16.43.09:804][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.04.06-16.43.09:804][  0]LogInit: Texture streaming: Enabled
+[2023.04.06-16.43.09:836][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.04.06-16.43.09:843][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.04.06-16.43.09:860][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.04.06-16.43.09:865][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.04.06-16.43.09:865][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.04.06-16.43.10:667][  0]LogLiveCoding: Display: First instance in process group "UE_HC_Prototype3_0x70ee195d", spawning console
+[2023.04.06-16.43.10:667][  0]LogLiveCoding: Display: Waiting for server
+[2023.04.06-16.43.10:667][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.04.06-16.43.10:700][  0]LogInit: Transaction tracking system initialized
+[2023.04.06-16.43.10:769][  0]BlueprintLog: New page: Editor Load
+[2023.04.06-16.43.10:916][  0]LocalizationService: Localization service is disabled
+[2023.04.06-16.43.10:952][  0]TimingProfiler: Initialize
+[2023.04.06-16.43.10:952][  0]TimingProfiler: OnSessionChanged
+[2023.04.06-16.43.10:952][  0]LoadingProfiler: Initialize
+[2023.04.06-16.43.10:952][  0]LoadingProfiler: OnSessionChanged
+[2023.04.06-16.43.10:952][  0]NetworkingProfiler: Initialize
+[2023.04.06-16.43.10:952][  0]NetworkingProfiler: OnSessionChanged
+[2023.04.06-16.43.10:952][  0]MemoryProfiler: Initialize
+[2023.04.06-16.43.10:952][  0]MemoryProfiler: OnSessionChanged
+[2023.04.06-16.43.11:250][  0]LogFileCache: Scanning file cache for directory 'C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/' took 0.00s
+[2023.04.06-16.43.11:250][  0]LogDlgSystemEditor: DlgSystemEditorModule::HandleOnPostEngineInit
+[2023.04.06-16.43.11:433][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.04.06-16.43.11:498][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.04.06-16.43.11:499][  0]SourceControl: Source control is disabled
+[2023.04.06-16.43.11:499][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.076
+[2023.04.06-16.43.11:499][  0]Cmd: MAP LOAD FILE="../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Maps/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.06-16.43.11:499][  0]LightingResults: New page: Lighting Build
+[2023.04.06-16.43.11:504][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-16.43.11:504][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-16.43.11:504][  0]MapCheck: New page: Map Check
+[2023.04.06-16.43.11:504][  0]LightingResults: New page: Lighting Build
+[2023.04.06-16.43.11:509][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.06-16.43.11:512][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.04.06-16.43.11:667][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestMap'.
+[2023.04.06-16.43.11:667][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.06-16.43.11:667][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.06-16.43.11:667][  0]LogAIModule: Creating AISystem for world TestMap
+[2023.04.06-16.43.11:672][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.06-16.43.11:684][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.04.06-16.43.11:684][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.06-16.43.11:684][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2023.04.06-16.43.11:684][  0]LogFileHelpers: Loading map 'TestMap' took 0.186
+[2023.04.06-16.43.11:695][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.273
+[2023.04.06-16.43.11:695][  0]LogShaderCompilers: Display: ================================================
+[2023.04.06-16.43.11:695][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.06-16.43.11:695][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.04.06-16.43.11:695][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.04.06-16.43.11:695][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.04.06-16.43.11:695][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.06-16.43.11:695][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.04.06-16.43.11:695][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.04.06-16.43.11:695][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.04.06-16.43.11:695][  0]LogShaderCompilers: Display: ================================================
+[2023.04.06-16.43.11:795][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.04.06-16.43.11:795][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.04.06-16.43.11:795][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.04.06-16.43.11:802][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.06-16.43.11:806][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.06-16.43.11:810][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.06-16.43.11:814][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.06-16.43.11:831][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.04.06-16.43.11:831][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.06-16.43.11:831][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.04.06-16.43.11:832][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.06-16.43.11:832][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.04.06-16.43.11:832][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.06-16.43.11:832][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.04.06-16.43.11:832][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.06-16.43.11:833][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.04.06-16.43.11:833][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.06-16.43.11:833][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.04.06-16.43.11:833][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.06-16.43.11:834][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.04.06-16.43.11:834][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.06-16.43.11:834][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.04.06-16.43.11:834][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.06-16.43.11:834][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.04.06-16.43.11:834][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.06-16.43.11:835][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.04.06-16.43.11:835][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.04.06-16.43.11:835][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.04.06-16.43.12:011][  0]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.04.06-16.43.12:012][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.04.06-16.43.12:014][  0]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.04.06-16.43.12:015][  0]LogSlate: Took 0.000086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.04.06-16.43.12:016][  0]LogSlate: Took 0.000060 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.04.06-16.43.12:039][  0]LogViewport: Scene viewport resized to 1266x600, mode Windowed.
+[2023.04.06-16.43.12:539][  0]LogStall: Startup...
+[2023.04.06-16.43.12:541][  0]LogStall: Startup complete.
+[2023.04.06-16.43.12:553][  0]LogLoad: (Engine Initialization) Total time: 8.13 seconds
+[2023.04.06-16.43.12:553][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.04.06-16.43.12:587][  0]LogAssetRegistry: Asset discovery search completed in 5.5000 seconds
+[2023.04.06-16.43.12:591][  0]LogDlgSystemEditor: UDlgManager::LoadAllDialoguesIntoMemory loaded 1 Dialogues into Memory
+[2023.04.06-16.43.12:594][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.04.06-16.43.12:614][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.04.06-16.43.12:712][  2]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.06-16.43.17:693][452]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/' took 5.12s
+[2023.04.06-16.43.22:175][949]LogLinker: Warning: [AssetLog] C:\Users\clari\OneDrive\Documents\GitHub\HollowCrestPrototype3\HC_Prototype3\Content\CHangesky.uasset: Failed to load '/Game/NotForCC': Can't find file.
+[2023.04.06-16.43.22:175][949]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/NotForCC'
+[2023.04.06-16.43.22:178][949]LogBlueprint: Error: [AssetLog] C:\Users\clari\OneDrive\Documents\GitHub\HollowCrestPrototype3\HC_Prototype3\Content\CHangesky.uasset: [Compiler] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.04.06-16.43.22:178][949]LogBlueprint: Error: [AssetLog] C:\Users\clari\OneDrive\Documents\GitHub\HollowCrestPrototype3\HC_Prototype3\Content\CHangesky.uasset: [Compiler] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.04.06-16.43.24:234][152]LogPackageLocalizationCache: Processed 31 localized package path(s) for 1 prioritized culture(s) in 0.003076 seconds
+[2023.04.06-16.43.24:392][152]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel_BuiltData
+[2023.04.06-16.43.24:392][152]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/MainLevel_BuiltData525A2F89423B0F0086D5779A3992144E.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Maps/MainLevel_BuiltData.uasset'
+[2023.04.06-16.43.24:393][152]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.06-16.43.24:411][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.04.06-16.43.24:452][152]LogSavePackage: Moving output files for package: /Game/Maps/MainLevel
+[2023.04.06-16.43.24:452][152]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/MainLevel7DEB14D34AAE4AB9BCEAEF9B8BED33B7.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Maps/MainLevel.umap'
+[2023.04.06-16.43.24:458][152]LogFileHelpers: No new changes to save!
+[2023.04.06-16.43.24:464][152]LogFileHelpers: Saving map 'MainLevel' took 0.071
+[2023.04.06-16.43.24:488][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.04.06-16.43.24:494][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.04.06-16.43.24:500][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.04.06-16.43.24:510][152]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.06-16.43.24:511][152]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainLevel_BuiltData.MainLevel_BuiltData
+[2023.04.06-16.43.24:511][152]LogContentValidation: Display: Validating World /Game/Maps/MainLevel.MainLevel
+[2023.04.06-16.43.30:224][789]LogMetaData: Removing '/Game/Blueprints/CHangesky.CHangesky:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/CHangesky.PackageMetaData'
+[2023.04.06-16.43.30:224][789]LogMetaData: Removing '/Game/Blueprints/CHangesky.CHangesky_C' ref from Metadata '/Game/CHangesky.PackageMetaData'
+[2023.04.06-16.43.30:224][789]LogMetaData: Removing '/Game/Blueprints/CHangesky.SKEL_CHangesky_C:BndEvt__CHangesky_yeesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/CHangesky.PackageMetaData'
+[2023.04.06-16.43.30:224][789]LogMetaData: Removing '/Game/Blueprints/CHangesky.SKEL_CHangesky_C:UserConstructionScript' ref from Metadata '/Game/CHangesky.PackageMetaData'
+[2023.04.06-16.43.30:224][789]LogMetaData: Removing '/Game/Blueprints/CHangesky.SKEL_CHangesky_C' ref from Metadata '/Game/CHangesky.PackageMetaData'
+[2023.04.06-16.43.30:254][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CHangesky" FILE="../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/CHangesky.uasset" SILENT=true
+[2023.04.06-16.43.30:259][789]LogSavePackage: Moving output files for package: /Game/Blueprints/CHangesky
+[2023.04.06-16.43.30:259][789]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/CHangesky4DF3C775427B9287F0750AB8227EA53A.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/CHangesky.uasset'
+[2023.04.06-16.43.30:261][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CHangesky" FILE="../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/CHangesky.uasset" SILENT=true
+[2023.04.06-16.43.30:261][789]LogSavePackage: Moving output files for package: /Game/CHangesky
+[2023.04.06-16.43.30:262][789]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/CHangeskyD8978C3C4F75B2BF6C1499873ADB86C3.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/CHangesky.uasset'
+[2023.04.06-16.43.30:277][789]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.06-16.43.30:277][789]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CHangesky.CHangesky
+[2023.04.06-16.43.30:277][789]LogContentValidation: Display: Validating ObjectRedirector /Game/CHangesky.CHangesky
+[2023.04.06-16.43.30:277][789]LogContentValidation: Display: Validating ObjectRedirector /Game/CHangesky.Default__CHangesky_C
+[2023.04.06-16.43.30:277][789]LogContentValidation: Display: Validating ObjectRedirector /Game/CHangesky.CHangesky_C
+[2023.04.06-16.43.32:100][988]LogMetaData: Removing '/Game/Blueprints/House.House:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/House.PackageMetaData'
+[2023.04.06-16.43.32:100][988]LogMetaData: Removing '/Game/Blueprints/House.House_C' ref from Metadata '/Game/House.PackageMetaData'
+[2023.04.06-16.43.32:100][988]LogMetaData: Removing '/Game/Blueprints/House.SKEL_House_C:CheckLight' ref from Metadata '/Game/House.PackageMetaData'
+[2023.04.06-16.43.32:100][988]LogMetaData: Removing '/Game/Blueprints/House.SKEL_House_C:UserConstructionScript' ref from Metadata '/Game/House.PackageMetaData'
+[2023.04.06-16.43.32:100][988]LogMetaData: Removing '/Game/Blueprints/House.SKEL_House_C' ref from Metadata '/Game/House.PackageMetaData'
+[2023.04.06-16.43.32:100][988]LogMetaData: Removing '/Game/Blueprints/House.House_C:UserConstructionScript' ref from Metadata '/Game/House.PackageMetaData'
+[2023.04.06-16.43.32:156][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/House" FILE="../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/House.uasset" SILENT=true
+[2023.04.06-16.43.32:159][988]LogSavePackage: Moving output files for package: /Game/Blueprints/House
+[2023.04.06-16.43.32:160][988]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/House2D3E80934BB91CFB9B8E0E89257805AA.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/House.uasset'
+[2023.04.06-16.43.32:161][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/House" FILE="../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/House.uasset" SILENT=true
+[2023.04.06-16.43.32:161][988]LogSavePackage: Moving output files for package: /Game/House
+[2023.04.06-16.43.32:162][988]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/House8092C71D4DBD4040C891339D32A27A5A.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/House.uasset'
+[2023.04.06-16.43.32:177][988]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.06-16.43.32:177][988]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/House.House
+[2023.04.06-16.43.32:177][988]LogContentValidation: Display: Validating ObjectRedirector /Game/House.House
+[2023.04.06-16.43.32:177][988]LogContentValidation: Display: Validating ObjectRedirector /Game/House.Default__House_C
+[2023.04.06-16.43.32:177][988]LogContentValidation: Display: Validating ObjectRedirector /Game/House.House_C
+[2023.04.06-16.43.38:865][695]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/CHangesky.CHangesky
+[2023.04.06-16.43.38:866][695]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.06-16.43.40:363][695]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.04.06-16.44.53:100][588]BlueprintLog: New page: Compile CHangesky
+[2023.04.06-16.44.53:137][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.04.06-16.44.53:608][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CHangesky" FILE="../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/CHangesky.uasset" SILENT=true
+[2023.04.06-16.44.53:612][621]LogSavePackage: Moving output files for package: /Game/Blueprints/CHangesky
+[2023.04.06-16.44.53:612][621]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/CHangeskyC03BF39F4EA1D532CBDB82A8520C4DF7.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/CHangesky.uasset'
+[2023.04.06-16.44.53:623][621]AssetCheck: New page: Asset Save: CHangesky
+[2023.04.06-16.44.53:623][621]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CHangesky.CHangesky
+[2023.04.06-16.45.02:483][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CHangesky" FILE="../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/CHangesky.uasset" SILENT=true
+[2023.04.06-16.45.02:487][472]LogSavePackage: Moving output files for package: /Game/Blueprints/CHangesky
+[2023.04.06-16.45.02:488][472]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/CHangesky3CF95A90463C8A70D10334A6AE4A3F2B.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/CHangesky.uasset'
+[2023.04.06-16.45.02:496][472]AssetCheck: New page: Asset Save: CHangesky
+[2023.04.06-16.45.02:496][472]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CHangesky.CHangesky
+[2023.04.06-16.45.12:851][463]BlueprintLog: New page: Compile CHangesky
+[2023.04.06-16.45.12:891][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.04.06-16.45.18:939][ 32]LogDerivedDataCache: C:/Users/clari/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.037 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.06-16.45.29:848][ 94]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/MainCharacter_BP.MainCharacter_BP
+[2023.04.06-16.45.29:849][ 94]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.06-16.45.33:101][284]LogSlate: Window 'MainCharacter_BP' being destroyed
+[2023.04.06-16.45.33:107][284]LogSlate: Window 'MainCharacter_BP' being destroyed
+[2023.04.06-16.45.33:110][284]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-16.45.33:110][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-16.45.33:147][284]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.06-16.45.33:147][284]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-16.45.33:147][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-16.45.37:597][757]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.06-16.45.37:597][757]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.06-16.45.38:419][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CHangesky" FILE="../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/CHangesky.uasset" SILENT=true
+[2023.04.06-16.45.38:424][845]LogSavePackage: Moving output files for package: /Game/Blueprints/CHangesky
+[2023.04.06-16.45.38:424][845]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/CHangesky8639D418446661C03F503D977D50FB54.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/CHangesky.uasset'
+[2023.04.06-16.45.38:434][845]AssetCheck: New page: Asset Save: CHangesky
+[2023.04.06-16.45.38:434][845]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CHangesky.CHangesky
+[2023.04.06-16.45.44:288][497]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky
+[2023.04.06-16.45.44:288][497]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.06-16.45.45:596][565]LogSlate: Took 0.007347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.04.06-16.46.14:785][699]LogSlate: Window 'BP_GoodSky' being destroyed
+[2023.04.06-16.46.14:792][699]LogSlate: Window 'BP_GoodSky' being destroyed
+[2023.04.06-16.46.14:794][699]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.04.06-16.46.14:794][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.06-16.46.29:266][327]LogMetaData: Removing '/Game/Blueprints/TestBlueprints/CHangesky.CHangesky_C' ref from Metadata '/Game/Blueprints/CHangesky.PackageMetaData'
+[2023.04.06-16.46.29:266][327]LogMetaData: Removing '/Game/Blueprints/TestBlueprints/CHangesky.SKEL_CHangesky_C' ref from Metadata '/Game/Blueprints/CHangesky.PackageMetaData'
+[2023.04.06-16.46.29:266][327]LogMetaData: Removing '/Game/Blueprints/TestBlueprints/CHangesky.CHangesky:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/CHangesky.PackageMetaData'
+[2023.04.06-16.46.29:266][327]LogMetaData: Removing '/Game/Blueprints/TestBlueprints/CHangesky.SKEL_CHangesky_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/CHangesky.PackageMetaData'
+[2023.04.06-16.46.29:266][327]LogMetaData: Removing '/Game/Blueprints/TestBlueprints/CHangesky.SKEL_CHangesky_C:BndEvt__CHangesky_yeesh_K2Node_ComponentBoundEvent_1_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/CHangesky.PackageMetaData'
+[2023.04.06-16.46.29:320][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CHangesky" FILE="../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/CHangesky.uasset" SILENT=true
+[2023.04.06-16.46.29:320][327]LogSavePackage: Moving output files for package: /Game/CHangesky
+[2023.04.06-16.46.29:321][327]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/CHangesky9A8B79574519C4C7945FA697A889B351.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/CHangesky.uasset'
+[2023.04.06-16.46.29:326][327]LogSavePackage: Moving output files for package: /Game/Blueprints/TestBlueprints/CHangesky
+[2023.04.06-16.46.29:326][327]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/CHangeskyC237903A45BEFA0C857C89B3F0710B05.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/TestBlueprints/CHangesky.uasset'
+[2023.04.06-16.46.29:363][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.04.06-16.46.29:382][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.04.06-16.46.29:399][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.04.06-16.46.29:415][327]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.06-16.46.29:415][327]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TestBlueprints/CHangesky.CHangesky
+[2023.04.06-16.46.29:415][327]LogContentValidation: Display: Validating ObjectRedirector /Game/CHangesky.CHangesky
+[2023.04.06-16.46.29:415][327]LogContentValidation: Display: Validating ObjectRedirector /Game/CHangesky.CHangesky_C
+[2023.04.06-16.46.35:389][  5]AssetReimport: New page: Outstanding source content changes 8:46:35 AM
+[2023.04.06-16.46.35:390][  5]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/crate_low.fbx)
+[2023.04.06-16.46.35:395][  5]LogFbx: Loading FBX Scene from C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/crate_low.fbx
+[2023.04.06-16.46.35:398][  5]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.06-16.46.35:516][  5]LogSlate: Took 0.000113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.06-16.46.37:167][  5]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.06-16.46.37:216][  5]LogStaticMesh: Built static mesh [0.01s] /Game/Art/crate_low.crate_low
+[2023.04.06-16.46.37:258][  6]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/crate_low_lambert1_BaseColor.png)
+[2023.04.06-16.46.37:352][  7]LogTexture: Display: Building textures: /Game/Art/crate_low_lambert1_BaseColor.crate_low_lambert1_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.46.37:360][  7]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/crate_low_lambert1_Normal.png)
+[2023.04.06-16.46.37:504][  8]LogTexture: Display: Building textures: /Game/Art/crate_low_lambert1_Normal.crate_low_lambert1_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.46.37:507][  8]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/crate_low_lambert1_OcclusionRoughnessMetallic.png)
+[2023.04.06-16.46.37:624][  8]LogTexture: Display: Building textures: /Game/Art/crate_low_lambert1_OcclusionRoughnessMetallic.crate_low_lambert1_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.46.37:630][  9]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Health_Potion_Final.fbx)
+[2023.04.06-16.46.37:636][  9]LogFbx: Loading FBX Scene from C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Health_Potion_Final.fbx
+[2023.04.06-16.46.37:647][  9]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.06-16.46.38:481][  9]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.06-16.46.38:557][  9]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Health_Potion_Final.Health_Potion_Final
+[2023.04.06-16.46.38:566][  9]FBXImport: FBX File Loading: Found name clash, node 'pCylinder1' was renamed to 'pCylinder11' 
+[2023.04.06-16.46.38:566][  9]FBXImport: FBX File Loading: Found name clash, node 'pCylinder1' was renamed to 'pCylinder12' 
+[2023.04.06-16.46.38:566][  9]FBXImport: FBX File Loading: Found name clash, node 'pasted__pCylinder1' was renamed to 'pasted__pCylinder13' 
+[2023.04.06-16.46.38:665][ 10]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Landbearer_statue_low.fbx)
+[2023.04.06-16.46.38:671][ 10]LogFbx: Loading FBX Scene from C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Landbearer_statue_low.fbx
+[2023.04.06-16.46.38:684][ 10]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.06-16.46.38:931][ 10]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.06-16.46.38:954][ 10]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Landbearer_statue_low_Pedestal_low.Landbearer_statue_low_Pedestal_low
+[2023.04.06-16.46.39:264][ 10]LogStaticMesh: Built static mesh [0.21s] /Game/Art/Landbearer_statue_low_Statue_low.Landbearer_statue_low_Statue_low
+[2023.04.06-16.46.40:157][ 11]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Relic_Compass.fbx)
+[2023.04.06-16.46.40:170][ 11]LogFbx: Loading FBX Scene from C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Relic_Compass.fbx
+[2023.04.06-16.46.40:183][ 11]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.06-16.46.40:875][ 11]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.06-16.46.40:938][ 11]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Relic_Compass.Relic_Compass
+[2023.04.06-16.46.40:950][ 11]FBXImport: FBX File Loading: Found name clash, node 'polySurface1' was renamed to 'polySurface11' 
+[2023.04.06-16.46.40:965][ 12]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Resident_low.fbx)
+[2023.04.06-16.46.40:970][ 12]LogFbx: Loading FBX Scene from C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Resident_low.fbx
+[2023.04.06-16.46.40:974][ 12]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.06-16.46.41:566][ 12]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.06-16.46.41:585][ 12]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Resident_low_Body_low.Resident_low_Body_low
+[2023.04.06-16.46.41:604][ 12]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Resident_low_Head_low.Resident_low_Head_low
+[2023.04.06-16.46.41:720][ 13]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/stone_alter_low.fbx)
+[2023.04.06-16.46.41:726][ 13]LogFbx: Loading FBX Scene from C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/stone_alter_low.fbx
+[2023.04.06-16.46.41:731][ 13]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.06-16.46.42:321][ 13]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.06-16.46.42:341][ 13]LogStaticMesh: Built static mesh [0.00s] /Game/Art/stone_alter_low.stone_alter_low
+[2023.04.06-16.46.42:368][ 14]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/stone_alter_low_lambert1_BaseColor.png)
+[2023.04.06-16.46.42:474][ 15]LogTexture: Display: Building textures: /Game/Art/stone_alter_low_lambert1_BaseColor.stone_alter_low_lambert1_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.46.42:497][ 15]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/stone_alter_low_lambert1_Normal.png)
+[2023.04.06-16.46.42:660][ 16]LogTexture: Display: Building textures: /Game/Art/stone_alter_low_lambert1_Normal.stone_alter_low_lambert1_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.46.42:667][ 16]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/stone_alter_low_lambert1_OcclusionRoughnessMetallic.png)
+[2023.04.06-16.46.42:795][ 16]LogTexture: Display: Building textures: /Game/Art/stone_alter_low_lambert1_OcclusionRoughnessMetallic.stone_alter_low_lambert1_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.46.42:804][ 17]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/StunGUN_low.fbx)
+[2023.04.06-16.46.42:810][ 17]LogFbx: Loading FBX Scene from C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/StunGUN_low.fbx
+[2023.04.06-16.46.42:815][ 17]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.06-16.46.43:339][ 17]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.06-16.46.43:358][ 17]LogStaticMesh: Built static mesh [0.01s] /Game/Art/StunGUN_low_Barrel_low.StunGUN_low_Barrel_low
+[2023.04.06-16.46.43:371][ 17]LogStaticMesh: Built static mesh [0.00s] /Game/Art/StunGUN_low_StunGunGrip_low.StunGUN_low_StunGunGrip_low
+[2023.04.06-16.46.43:388][ 17]LogStaticMesh: Built static mesh [0.01s] /Game/Art/StunGUN_low_StunGun_low.StunGUN_low_StunGun_low
+[2023.04.06-16.46.43:467][ 18]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Ancient_Book_Relic_W_Textures/Ancient Book Relic.fbx)
+[2023.04.06-16.46.43:471][ 18]LogFbx: Loading FBX Scene from C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Ancient_Book_Relic_W_Textures/Ancient Book Relic.fbx
+[2023.04.06-16.46.43:475][ 18]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.06-16.46.43:905][ 18]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.06-16.46.43:931][ 18]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic.Ancient_Book_Relic
+[2023.04.06-16.46.43:956][ 19]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Ancient_Book_Relic_W_Textures/Ancient Book Relic_aiStandardSurface2_BaseColor.png)
+[2023.04.06-16.46.44:033][ 20]LogTexture: Display: Building textures: /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic_aiStandardSurface2_BaseColor.Ancient_Book_Relic_aiStandardSurface2_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.46.44:040][ 20]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Ancient_Book_Relic_W_Textures/Ancient Book Relic_aiStandardSurface2_Height.png)
+[2023.04.06-16.46.44:085][ 21]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Ancient_Book_Relic_W_Textures/Ancient Book Relic_aiStandardSurface2_Metallic.png)
+[2023.04.06-16.46.44:137][ 22]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Ancient_Book_Relic_W_Textures/Ancient Book Relic_aiStandardSurface2_Normal.png)
+[2023.04.06-16.46.44:278][ 23]LogTexture: Display: Building textures: /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic_aiStandardSurface2_Normal.Ancient_Book_Relic_aiStandardSurface2_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.46.44:285][ 23]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Ancient_Book_Relic_W_Textures/Ancient Book Relic_aiStandardSurface2_Roughness.png)
+[2023.04.06-16.46.44:364][ 24]LogTexture: Display: Building textures: /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic_aiStandardSurface2_Roughness.Ancient_Book_Relic_aiStandardSurface2_Roughness (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.46.44:374][ 24]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_BACKUP_version.fbx)
+[2023.04.06-16.46.44:384][ 24]LogFbx: Loading FBX Scene from C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_BACKUP_version.fbx
+[2023.04.06-16.46.44:394][ 24]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.06-16.46.44:907][ 24]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.06-16.46.44:928][ 24]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_BACKUP_version.Ancient_Book_BACKUP_version
+[2023.04.06-16.46.44:953][ 25]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Eldritch Statue Textures/Landbearer_statue_low_DefaultMaterial_BaseColor.png)
+[2023.04.06-16.46.45:061][ 26]LogTexture: Display: Building textures: /Game/Art/Eldritch_Statue_Textures/Landbearer_statue_low_DefaultMaterial_BaseColor.Landbearer_statue_low_DefaultMaterial_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.46.45:073][ 26]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Eldritch Statue Textures/Landbearer_statue_low_DefaultMaterial_Normal.png)
+[2023.04.06-16.46.45:214][ 27]LogTexture: Display: Building textures: /Game/Art/Eldritch_Statue_Textures/Landbearer_statue_low_DefaultMaterial_Normal.Landbearer_statue_low_DefaultMaterial_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.46.45:222][ 27]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Eldritch Statue Textures/Landbearer_statue_low_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2023.04.06-16.46.45:330][ 27]LogTexture: Display: Building textures: /Game/Art/Eldritch_Statue_Textures/Landbearer_statue_low_DefaultMaterial_OcclusionRoughnessMetallic.Landbearer_statue_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.46.45:340][ 28]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/relic sipher textures/relic1.0_aiStandardSurface1_BaseColor.png)
+[2023.04.06-16.46.45:446][ 28]LogTexture: Display: Building textures: /Game/Art/relic_sipher_textures/relic1_0_aiStandardSurface1_BaseColor.relic1_0_aiStandardSurface1_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.46.45:459][ 29]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/relic sipher textures/relic1.0_aiStandardSurface1_Height.png)
+[2023.04.06-16.46.45:470][ 29]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/relic sipher textures/relic1.0_aiStandardSurface1_Metallic.png)
+[2023.04.06-16.46.45:533][ 29]LogTexture: Display: Building textures: /Game/Art/relic_sipher_textures/relic1_0_aiStandardSurface1_Metallic.relic1_0_aiStandardSurface1_Metallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.46.45:546][ 30]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/relic sipher textures/relic1.0_aiStandardSurface1_Normal.png)
+[2023.04.06-16.46.45:713][ 30]LogTexture: Display: Building textures: /Game/Art/relic_sipher_textures/relic1_0_aiStandardSurface1_Normal.relic1_0_aiStandardSurface1_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.46.45:723][ 31]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/relic sipher textures/relic1.0_aiStandardSurface1_Roughness.png)
+[2023.04.06-16.46.45:795][ 32]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/relic sipher textures/relic_sipher_final.fbx)
+[2023.04.06-16.46.45:801][ 32]LogFbx: Loading FBX Scene from C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/relic sipher textures/relic_sipher_final.fbx
+[2023.04.06-16.46.45:807][ 32]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.06-16.46.46:112][ 32]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.06-16.46.46:135][ 32]LogStaticMesh: Built static mesh [0.01s] /Game/Art/relic_sipher_textures/relic_sipher_final.relic_sipher_final
+[2023.04.06-16.46.46:157][ 33]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_BaseColor.png)
+[2023.04.06-16.46.46:233][ 34]LogTexture: Display: Building textures: /Game/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_BaseColor.relic_Staff_aiStandardSurface4_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.46.46:241][ 34]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_Height.png)
+[2023.04.06-16.46.46:271][ 35]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_Metallic.png)
+[2023.04.06-16.46.46:320][ 36]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_Normal.png)
+[2023.04.06-16.46.46:463][ 37]LogTexture: Display: Building textures: /Game/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_Normal.relic_Staff_aiStandardSurface4_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.46.46:466][ 37]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_Roughness.png)
+[2023.04.06-16.46.46:547][ 38]LogTexture: Display: Building textures: /Game/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_Roughness.relic_Staff_aiStandardSurface4_Roughness (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.46.46:549][ 38]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/relic_Staff_final_with_textures/relic_Staff_final.fbx)
+[2023.04.06-16.46.46:554][ 38]LogFbx: Loading FBX Scene from C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/relic_Staff_final_with_textures/relic_Staff_final.fbx
+[2023.04.06-16.46.46:559][ 38]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.06-16.46.55:283][ 38]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.06-16.46.55:303][ 38]LogStaticMesh: Built static mesh [0.01s] /Game/Art/relic_Staff_final_with_textures/relic_Staff_final.relic_Staff_final
+[2023.04.06-16.46.55:326][ 39]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Textures/Resident_low_DefaultMaterial_BaseColor.png)
+[2023.04.06-16.46.55:428][ 40]LogTexture: Display: Building textures: /Game/Art/Textures/Resident_low_DefaultMaterial_BaseColor.Resident_low_DefaultMaterial_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.46.55:436][ 40]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Textures/Resident_low_DefaultMaterial_Normal.png)
+[2023.04.06-16.46.55:607][ 41]LogTexture: Display: Building textures: /Game/Art/Textures/Resident_low_DefaultMaterial_Normal.Resident_low_DefaultMaterial_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.46.55:610][ 41]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Textures/Resident_low_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2023.04.06-16.46.55:722][ 41]LogTexture: Display: Building textures: /Game/Art/Textures/Resident_low_DefaultMaterial_OcclusionRoughnessMetallic.Resident_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.46.55:735][ 42]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Textures/StunGUN_low_DefaultMaterial_BaseColor.png)
+[2023.04.06-16.46.55:874][ 42]LogTexture: Display: Building textures: /Game/Art/Textures/StunGUN_low_DefaultMaterial_BaseColor.StunGUN_low_DefaultMaterial_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.46.55:881][ 43]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Textures/StunGUN_low_DefaultMaterial_Emissive.png)
+[2023.04.06-16.46.55:974][ 43]LogTexture: Display: Building textures: /Game/Art/Textures/StunGUN_low_DefaultMaterial_Emissive.StunGUN_low_DefaultMaterial_Emissive (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.46.55:982][ 44]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Textures/StunGUN_low_DefaultMaterial_Normal.png)
+[2023.04.06-16.46.56:092][ 45]LogTexture: Display: Building textures: /Game/Art/Textures/StunGUN_low_DefaultMaterial_Normal.StunGUN_low_DefaultMaterial_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.46.56:101][ 45]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Textures/StunGUN_low_DefaultMaterial_OcclusionRoughnessMetallic.png)
+[2023.04.06-16.46.56:241][ 45]LogTexture: Display: Building textures: /Game/Art/Textures/StunGUN_low_DefaultMaterial_OcclusionRoughnessMetallic.StunGUN_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.46.56:520][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.04.06-16.46.56:578][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/crate_low" FILE="../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/crate_low.uasset" SILENT=true
+[2023.04.06-16.46.56:580][ 46]LogSavePackage: Moving output files for package: /Game/Art/crate_low
+[2023.04.06-16.46.56:580][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/crate_low632ADFB64B3073A7C9D1D1BAC773404C.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/crate_low.uasset'
+[2023.04.06-16.46.56:906][ 46]LogSavePackage: Moving output files for package: /Game/Art/crate_low_lambert1_BaseColor
+[2023.04.06-16.46.56:906][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/crate_low_lambert1_BaseColor9E29C5AB4CA5845F3B72F8A2F3BFED4C.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/crate_low_lambert1_BaseColor.uasset'
+[2023.04.06-16.46.57:210][ 46]LogSavePackage: Moving output files for package: /Game/Art/crate_low_lambert1_Normal
+[2023.04.06-16.46.57:210][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/crate_low_lambert1_Normal7094A42A4DBF5A0CA01A8EA8B4C23AD0.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/crate_low_lambert1_Normal.uasset'
+[2023.04.06-16.46.57:318][ 46]LogSavePackage: Moving output files for package: /Game/Art/crate_low_lambert1_OcclusionRoughnessMetallic
+[2023.04.06-16.46.57:318][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/crate_low_lambert1_OcclusionRougAFC7F53640AAB9328D555AAF2BE5930D.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/crate_low_lambert1_OcclusionRoughnessMetallic.uasset'
+[2023.04.06-16.46.57:349][ 46]LogSavePackage: Moving output files for package: /Game/Art/Health_Potion_Final
+[2023.04.06-16.46.57:350][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/Health_Potion_FinalB11B988C41DE5137E98CF59D4E714029.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Health_Potion_Final.uasset'
+[2023.04.06-16.46.57:369][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Relic_Compass" FILE="../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Relic_Compass.uasset" SILENT=true
+[2023.04.06-16.46.57:373][ 46]LogSavePackage: Moving output files for package: /Game/Art/Relic_Compass
+[2023.04.06-16.46.57:373][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/Relic_Compass796FD43E4E705C33D2791D8EBC07A4D3.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Relic_Compass.uasset'
+[2023.04.06-16.46.57:380][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/stone_alter_low" FILE="../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/stone_alter_low.uasset" SILENT=true
+[2023.04.06-16.46.57:382][ 46]LogSavePackage: Moving output files for package: /Game/Art/stone_alter_low
+[2023.04.06-16.46.57:382][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/stone_alter_lowF72FA7074762558DE2ADC28CA0997626.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/stone_alter_low.uasset'
+[2023.04.06-16.46.57:972][ 46]LogSavePackage: Moving output files for package: /Game/Art/stone_alter_low_lambert1_BaseColor
+[2023.04.06-16.46.57:972][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/stone_alter_low_lambert1_BaseCol31B9ABDC4E69627C1DA79991A6009713.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/stone_alter_low_lambert1_BaseColor.uasset'
+[2023.04.06-16.46.58:435][ 46]LogSavePackage: Moving output files for package: /Game/Art/stone_alter_low_lambert1_Normal
+[2023.04.06-16.46.58:436][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/stone_alter_low_lambert1_Normal6F140E7645F9ACED8411EE84185A2409.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/stone_alter_low_lambert1_Normal.uasset'
+[2023.04.06-16.46.58:707][ 46]LogSavePackage: Moving output files for package: /Game/Art/stone_alter_low_lambert1_OcclusionRoughnessMetallic
+[2023.04.06-16.46.58:707][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/stone_alter_low_lambert1_Occlusi109067D94409E897B369F5A78D6FF0BE.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/stone_alter_low_lambert1_OcclusionRoughnessMetallic.uasset'
+[2023.04.06-16.46.58:740][ 46]LogSavePackage: Moving output files for package: /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic
+[2023.04.06-16.46.58:740][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/Ancient_Book_Relic14D1857B42B8CCAAA162928113680547.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic.uasset'
+[2023.04.06-16.46.59:090][ 46]LogSavePackage: Moving output files for package: /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic_aiStandardSurface2_BaseColor
+[2023.04.06-16.46.59:090][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/Ancient_Book_Relic_aiStandardSurEF74F56B48592D40BFC0359C570581EA.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic_aiStandardSurface2_BaseColor.uasset'
+[2023.04.06-16.46.59:172][ 46]LogSavePackage: Moving output files for package: /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic_aiStandardSurface2_Height
+[2023.04.06-16.46.59:173][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/Ancient_Book_Relic_aiStandardSur533124BC43EF2A7BE7B0518DA7CB26BE.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic_aiStandardSurface2_Height.uasset'
+[2023.04.06-16.46.59:214][ 46]LogSavePackage: Moving output files for package: /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic_aiStandardSurface2_Metallic
+[2023.04.06-16.46.59:214][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/Ancient_Book_Relic_aiStandardSur471A56DC455899A8A67C50B9894EE632.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic_aiStandardSurface2_Metallic.uasset'
+[2023.04.06-16.46.59:541][ 46]LogSavePackage: Moving output files for package: /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic_aiStandardSurface2_Normal
+[2023.04.06-16.46.59:541][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/Ancient_Book_Relic_aiStandardSur175D5BC945C777EF7B0A6EBF400F2FDF.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic_aiStandardSurface2_Normal.uasset'
+[2023.04.06-16.46.59:644][ 46]LogSavePackage: Moving output files for package: /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic_aiStandardSurface2_Roughness
+[2023.04.06-16.46.59:645][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/Ancient_Book_Relic_aiStandardSur8AFE05784BAF7ED5BEACDEACA353F4B6.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic_aiStandardSurface2_Roughness.uasset'
+[2023.04.06-16.46.59:675][ 46]LogSavePackage: Moving output files for package: /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_BACKUP_version
+[2023.04.06-16.46.59:675][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/Ancient_Book_BACKUP_versionFB9B7FBA4FA897404836A3BDB9F0A2A9.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_BACKUP_version.uasset'
+[2023.04.06-16.47.00:127][ 46]LogSavePackage: Moving output files for package: /Game/Art/Eldritch_Statue_Textures/Landbearer_statue_low_DefaultMaterial_BaseColor
+[2023.04.06-16.47.00:127][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/Landbearer_statue_low_DefaultMat4F082B7B4DE4917149B86B9EF2148DC2.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Eldritch_Statue_Textures/Landbearer_statue_low_DefaultMaterial_BaseColor.uasset'
+[2023.04.06-16.47.00:434][ 46]LogSavePackage: Moving output files for package: /Game/Art/Eldritch_Statue_Textures/Landbearer_statue_low_DefaultMaterial_Normal
+[2023.04.06-16.47.00:434][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/Landbearer_statue_low_DefaultMatE34EFFA24A4D825190A3BBB1106F8949.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Eldritch_Statue_Textures/Landbearer_statue_low_DefaultMaterial_Normal.uasset'
+[2023.04.06-16.47.00:629][ 46]LogSavePackage: Moving output files for package: /Game/Art/Eldritch_Statue_Textures/Landbearer_statue_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.04.06-16.47.00:629][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/Landbearer_statue_low_DefaultMat7D9F80114A529DF9353D0BA60F111A06.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Eldritch_Statue_Textures/Landbearer_statue_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2023.04.06-16.47.00:747][ 46]LogSavePackage: Moving output files for package: /Game/Art/relic_sipher_textures/relic1_0_aiStandardSurface1_BaseColor
+[2023.04.06-16.47.00:747][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/relic1_0_aiStandardSurface1_BaseC02AFD4B4AB71844036707B55EEA1AF9.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/relic_sipher_textures/relic1_0_aiStandardSurface1_BaseColor.uasset'
+[2023.04.06-16.47.00:771][ 46]LogSavePackage: Moving output files for package: /Game/Art/relic_sipher_textures/relic1_0_aiStandardSurface1_Height
+[2023.04.06-16.47.00:771][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/relic1_0_aiStandardSurface1_Heig8982540D4256D6F1D115B8A8AC898745.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/relic_sipher_textures/relic1_0_aiStandardSurface1_Height.uasset'
+[2023.04.06-16.47.00:796][ 46]LogSavePackage: Moving output files for package: /Game/Art/relic_sipher_textures/relic1_0_aiStandardSurface1_Metallic
+[2023.04.06-16.47.00:796][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/relic1_0_aiStandardSurface1_MetaC7AD41694DB09AA879E2FD99F81B40F6.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/relic_sipher_textures/relic1_0_aiStandardSurface1_Metallic.uasset'
+[2023.04.06-16.47.00:945][ 46]LogSavePackage: Moving output files for package: /Game/Art/relic_sipher_textures/relic1_0_aiStandardSurface1_Normal
+[2023.04.06-16.47.00:945][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/relic1_0_aiStandardSurface1_Norm14E424844CBC6814A506F48136F5608B.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/relic_sipher_textures/relic1_0_aiStandardSurface1_Normal.uasset'
+[2023.04.06-16.47.00:985][ 46]LogSavePackage: Moving output files for package: /Game/Art/relic_sipher_textures/relic1_0_aiStandardSurface1_Roughness
+[2023.04.06-16.47.00:985][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/relic1_0_aiStandardSurface1_Roug6A77BC73498E4E34A5F671B332C50E41.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/relic_sipher_textures/relic1_0_aiStandardSurface1_Roughness.uasset'
+[2023.04.06-16.47.01:009][ 46]LogSavePackage: Moving output files for package: /Game/Art/relic_sipher_textures/relic_sipher_final
+[2023.04.06-16.47.01:010][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/relic_sipher_final8DD5EA46478F84840D374E88D2587080.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/relic_sipher_textures/relic_sipher_final.uasset'
+[2023.04.06-16.47.01:145][ 46]LogSavePackage: Moving output files for package: /Game/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_BaseColor
+[2023.04.06-16.47.01:145][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/relic_Staff_aiStandardSurface4_B72A7762949D33AB099BB99B1F95FA6BC.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_BaseColor.uasset'
+[2023.04.06-16.47.01:188][ 46]LogSavePackage: Moving output files for package: /Game/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_Height
+[2023.04.06-16.47.01:188][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/relic_Staff_aiStandardSurface4_HF533CEA6418EA4B5542BBD8A2E70EEFA.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_Height.uasset'
+[2023.04.06-16.47.01:211][ 46]LogSavePackage: Moving output files for package: /Game/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_Metallic
+[2023.04.06-16.47.01:211][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/relic_Staff_aiStandardSurface4_MFD38A0F64157B902EF4CB387431793CE.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_Metallic.uasset'
+[2023.04.06-16.47.01:406][ 46]LogSavePackage: Moving output files for package: /Game/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_Normal
+[2023.04.06-16.47.01:406][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/relic_Staff_aiStandardSurface4_N9FE056DC4D2C4DDF30ED4D86904B77A8.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_Normal.uasset'
+[2023.04.06-16.47.01:462][ 46]LogSavePackage: Moving output files for package: /Game/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_Roughness
+[2023.04.06-16.47.01:462][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/relic_Staff_aiStandardSurface4_R256F9F94418414C7D77065BAE442D112.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_Roughness.uasset'
+[2023.04.06-16.47.01:486][ 46]LogSavePackage: Moving output files for package: /Game/Art/relic_Staff_final_with_textures/relic_Staff_final
+[2023.04.06-16.47.01:486][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/relic_Staff_finalBE28837B462A8ACB57EF59AB4C8CA961.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/relic_Staff_final_with_textures/relic_Staff_final.uasset'
+[2023.04.06-16.47.01:630][ 46]LogSavePackage: Moving output files for package: /Game/Art/Textures/Resident_low_DefaultMaterial_BaseColor
+[2023.04.06-16.47.01:630][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/Resident_low_DefaultMaterial_Bas1BABF22A4B0C5D66CC9B788D78BDAD0D.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Textures/Resident_low_DefaultMaterial_BaseColor.uasset'
+[2023.04.06-16.47.01:770][ 46]LogSavePackage: Moving output files for package: /Game/Art/Textures/Resident_low_DefaultMaterial_Normal
+[2023.04.06-16.47.01:770][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/Resident_low_DefaultMaterial_Nor3B22270C4C7FB1CC1AF9449CB87A114A.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Textures/Resident_low_DefaultMaterial_Normal.uasset'
+[2023.04.06-16.47.01:884][ 46]LogSavePackage: Moving output files for package: /Game/Art/Textures/Resident_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.04.06-16.47.01:884][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/Resident_low_DefaultMaterial_OccAA36EF7C46ACAD0EE2B599ACC2C551A6.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Textures/Resident_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2023.04.06-16.47.02:124][ 46]LogSavePackage: Moving output files for package: /Game/Art/Textures/StunGUN_low_DefaultMaterial_BaseColor
+[2023.04.06-16.47.02:124][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/StunGUN_low_DefaultMaterial_Base57BCD86149AB49B7608C1ABF58F02955.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Textures/StunGUN_low_DefaultMaterial_BaseColor.uasset'
+[2023.04.06-16.47.02:214][ 46]LogSavePackage: Moving output files for package: /Game/Art/Textures/StunGUN_low_DefaultMaterial_Emissive
+[2023.04.06-16.47.02:214][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/StunGUN_low_DefaultMaterial_EmisA7DBC1A940D5ADC2BCCBED873B69B75F.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Textures/StunGUN_low_DefaultMaterial_Emissive.uasset'
+[2023.04.06-16.47.02:368][ 46]LogSavePackage: Moving output files for package: /Game/Art/Textures/StunGUN_low_DefaultMaterial_Normal
+[2023.04.06-16.47.02:369][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/StunGUN_low_DefaultMaterial_Norm69D9DE3D4D6828A4B216A7B5E783F98E.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Textures/StunGUN_low_DefaultMaterial_Normal.uasset'
+[2023.04.06-16.47.02:567][ 46]LogSavePackage: Moving output files for package: /Game/Art/Textures/StunGUN_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.04.06-16.47.02:567][ 46]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/StunGUN_low_DefaultMaterial_Occl9905673B4FAD7332A518DF811D579358.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Textures/StunGUN_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2023.04.06-16.47.02:585][ 46]LogShaderCompilers: Display: ================================================
+[2023.04.06-16.47.02:585][ 46]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.06-16.47.02:585][ 46]LogShaderCompilers: Display: Total job queries 36, among them cache hits 2 (5.56%)
+[2023.04.06-16.47.02:585][ 46]LogShaderCompilers: Display: Tracking 32 distinct input hashes that result in 3 distinct outputs (9.38%)
+[2023.04.06-16.47.02:585][ 46]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.04.06-16.47.02:585][ 46]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.06-16.47.02:585][ 46]LogShaderCompilers: Display: Shaders Compiled: 18
+[2023.04.06-16.47.02:585][ 46]LogShaderCompilers: Display: Jobs assigned 32, completed 32 (100.00%)
+[2023.04.06-16.47.02:585][ 46]LogShaderCompilers: Display: Average time worker was idle: 0.02 s
+[2023.04.06-16.47.02:585][ 46]LogShaderCompilers: Display: Time job spent in pending queue: average 1.19 s, longest 2.74 s
+[2023.04.06-16.47.02:585][ 46]LogShaderCompilers: Display: Job execution time: average 0.89 s, max 1.24 s
+[2023.04.06-16.47.02:585][ 46]LogShaderCompilers: Display: Job life time (pending + execution): average 2.08 s, max 3.45
+[2023.04.06-16.47.02:585][ 46]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.26 s
+[2023.04.06-16.47.02:585][ 46]LogShaderCompilers: Display: Jobs were issued in 32 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.06-16.47.02:585][ 46]LogShaderCompilers: Display: Average processing rate: 7.50 jobs/sec
+[2023.04.06-16.47.02:585][ 46]LogShaderCompilers: Display: Effective parallelization: 5.76 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.06-16.47.02:585][ 46]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.04.06-16.47.02:585][ 46]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    8 times, average 0.97 sec, max 1.12 sec, min 0.64 sec)
+[2023.04.06-16.47.02:585][ 46]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 0.90 sec, max 1.04 sec, min 0.59 sec)
+[2023.04.06-16.47.02:585][ 46]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    8 times, average 0.87 sec, max 1.03 sec, min 0.61 sec)
+[2023.04.06-16.47.02:585][ 46]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    8 times, average 0.33 sec, max 0.40 sec, min 0.25 sec)
+[2023.04.06-16.47.02:585][ 46]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.04.06-16.47.02:585][ 46]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 31.70% of total time (compiled    8 times, average 0.97 sec, max 1.12 sec, min 0.64 sec)
+[2023.04.06-16.47.02:585][ 46]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.23% of total time (compiled    8 times, average 0.90 sec, max 1.04 sec, min 0.59 sec)
+[2023.04.06-16.47.02:585][ 46]LogShaderCompilers: Display:                                                 FLumenCardVS - 28.33% of total time (compiled    8 times, average 0.87 sec, max 1.03 sec, min 0.61 sec)
+[2023.04.06-16.47.02:585][ 46]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.74% of total time (compiled    8 times, average 0.33 sec, max 0.40 sec, min 0.25 sec)
+[2023.04.06-16.47.02:585][ 46]LogShaderCompilers: Display: ================================================
+[2023.04.06-16.47.02:599][ 47]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.06-16.47.02:599][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/StunGUN_low_DefaultMaterial_OcclusionRoughnessMetallic.StunGUN_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.04.06-16.47.02:599][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/StunGUN_low_DefaultMaterial_Normal.StunGUN_low_DefaultMaterial_Normal
+[2023.04.06-16.47.02:599][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/StunGUN_low_DefaultMaterial_Emissive.StunGUN_low_DefaultMaterial_Emissive
+[2023.04.06-16.47.02:599][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/StunGUN_low_DefaultMaterial_BaseColor.StunGUN_low_DefaultMaterial_BaseColor
+[2023.04.06-16.47.02:599][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/Resident_low_DefaultMaterial_OcclusionRoughnessMetallic.Resident_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.04.06-16.47.02:599][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/Resident_low_DefaultMaterial_Normal.Resident_low_DefaultMaterial_Normal
+[2023.04.06-16.47.02:599][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/Resident_low_DefaultMaterial_BaseColor.Resident_low_DefaultMaterial_BaseColor
+[2023.04.06-16.47.02:599][ 47]LogContentValidation: Display: Validating StaticMesh /Game/Art/relic_Staff_final_with_textures/relic_Staff_final.relic_Staff_final
+[2023.04.06-16.47.02:599][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_Roughness.relic_Staff_aiStandardSurface4_Roughness
+[2023.04.06-16.47.02:599][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_Normal.relic_Staff_aiStandardSurface4_Normal
+[2023.04.06-16.47.02:599][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_Metallic.relic_Staff_aiStandardSurface4_Metallic
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_Height.relic_Staff_aiStandardSurface4_Height
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_BaseColor.relic_Staff_aiStandardSurface4_BaseColor
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating StaticMesh /Game/Art/relic_sipher_textures/relic_sipher_final.relic_sipher_final
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/relic_sipher_textures/relic1_0_aiStandardSurface1_Roughness.relic1_0_aiStandardSurface1_Roughness
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/relic_sipher_textures/relic1_0_aiStandardSurface1_Normal.relic1_0_aiStandardSurface1_Normal
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/relic_sipher_textures/relic1_0_aiStandardSurface1_Metallic.relic1_0_aiStandardSurface1_Metallic
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/relic_sipher_textures/relic1_0_aiStandardSurface1_Height.relic1_0_aiStandardSurface1_Height
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/relic_sipher_textures/relic1_0_aiStandardSurface1_BaseColor.relic1_0_aiStandardSurface1_BaseColor
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/Eldritch_Statue_Textures/Landbearer_statue_low_DefaultMaterial_OcclusionRoughnessMetallic.Landbearer_statue_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/Eldritch_Statue_Textures/Landbearer_statue_low_DefaultMaterial_Normal.Landbearer_statue_low_DefaultMaterial_Normal
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/Eldritch_Statue_Textures/Landbearer_statue_low_DefaultMaterial_BaseColor.Landbearer_statue_low_DefaultMaterial_BaseColor
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating StaticMesh /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_BACKUP_version.Ancient_Book_BACKUP_version
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic_aiStandardSurface2_Roughness.Ancient_Book_Relic_aiStandardSurface2_Roughness
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic_aiStandardSurface2_Normal.Ancient_Book_Relic_aiStandardSurface2_Normal
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic_aiStandardSurface2_Metallic.Ancient_Book_Relic_aiStandardSurface2_Metallic
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating StaticMesh /Game/Art/Health_Potion_Final.Health_Potion_Final
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/crate_low_lambert1_OcclusionRoughnessMetallic.crate_low_lambert1_OcclusionRoughnessMetallic
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/crate_low_lambert1_Normal.crate_low_lambert1_Normal
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/crate_low_lambert1_BaseColor.crate_low_lambert1_BaseColor
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating StaticMesh /Game/Art/crate_low.crate_low
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic_aiStandardSurface2_Height.Ancient_Book_Relic_aiStandardSurface2_Height
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic_aiStandardSurface2_BaseColor.Ancient_Book_Relic_aiStandardSurface2_BaseColor
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating StaticMesh /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic.Ancient_Book_Relic
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/stone_alter_low_lambert1_OcclusionRoughnessMetallic.stone_alter_low_lambert1_OcclusionRoughnessMetallic
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/stone_alter_low_lambert1_Normal.stone_alter_low_lambert1_Normal
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating Texture2D /Game/Art/stone_alter_low_lambert1_BaseColor.stone_alter_low_lambert1_BaseColor
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating StaticMesh /Game/Art/stone_alter_low.stone_alter_low
+[2023.04.06-16.47.02:600][ 47]LogContentValidation: Display: Validating StaticMesh /Game/Art/Relic_Compass.Relic_Compass
+[2023.04.06-16.47.05:583][322]AssetReimport: Importing new asset /Game/Art/crate_low.
+[2023.04.06-16.47.05:583][322]AssetReimport: Importing new asset /Game/Art/crate_low_lambert1_BaseColor.
+[2023.04.06-16.47.05:583][322]AssetReimport: Importing new asset /Game/Art/crate_low_lambert1_Normal.
+[2023.04.06-16.47.05:583][322]AssetReimport: Importing new asset /Game/Art/crate_low_lambert1_OcclusionRoughnessMetallic.
+[2023.04.06-16.47.05:583][322]AssetReimport: Importing new asset /Game/Art/Health_Potion_Final.
+[2023.04.06-16.47.05:583][322]AssetReimport: Importing new asset /Game/Art/Landbearer_statue_low.
+[2023.04.06-16.47.05:583][322]AssetReimport: Importing new asset /Game/Art/Relic_Compass.
+[2023.04.06-16.47.05:583][322]AssetReimport: Importing new asset /Game/Art/Resident_low.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/stone_alter_low.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/stone_alter_low_lambert1_BaseColor.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/stone_alter_low_lambert1_Normal.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/stone_alter_low_lambert1_OcclusionRoughnessMetallic.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/StunGUN_low.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic_aiStandardSurface2_BaseColor.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic_aiStandardSurface2_Height.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic_aiStandardSurface2_Metallic.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic_aiStandardSurface2_Normal.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_Relic_aiStandardSurface2_Roughness.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_BACKUP_version.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/Eldritch_Statue_Textures/Landbearer_statue_low_DefaultMaterial_BaseColor.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/Eldritch_Statue_Textures/Landbearer_statue_low_DefaultMaterial_Normal.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/Eldritch_Statue_Textures/Landbearer_statue_low_DefaultMaterial_OcclusionRoughnessMetallic.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/relic_sipher_textures/relic1_0_aiStandardSurface1_BaseColor.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/relic_sipher_textures/relic1_0_aiStandardSurface1_Height.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/relic_sipher_textures/relic1_0_aiStandardSurface1_Metallic.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/relic_sipher_textures/relic1_0_aiStandardSurface1_Normal.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/relic_sipher_textures/relic1_0_aiStandardSurface1_Roughness.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/relic_sipher_textures/relic_sipher_final.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_BaseColor.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_Height.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_Metallic.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_Normal.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/relic_Staff_final_with_textures/relic_Staff_aiStandardSurface4_Roughness.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/relic_Staff_final_with_textures/relic_Staff_final.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/Textures/Resident_low_DefaultMaterial_BaseColor.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/Textures/Resident_low_DefaultMaterial_Normal.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/Textures/Resident_low_DefaultMaterial_OcclusionRoughnessMetallic.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/Textures/StunGUN_low_DefaultMaterial_BaseColor.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/Textures/StunGUN_low_DefaultMaterial_Emissive.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/Textures/StunGUN_low_DefaultMaterial_Normal.
+[2023.04.06-16.47.05:584][322]AssetReimport: Importing new asset /Game/Art/Textures/StunGUN_low_DefaultMaterial_OcclusionRoughnessMetallic.
+[2023.04.06-16.47.24:289][557]AssetReimport: New page: Outstanding source content changes 8:47:24 AM
+[2023.04.06-16.47.24:324][558]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_BACKUP_version.fbm/Ancient Book Relic_aiStandardSurface2_BaseColor.png)
+[2023.04.06-16.47.24:419][559]LogTexture: Display: Building textures: /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_BACKUP_version_fbm/Ancient_Book_Relic_aiStandardSurface2_BaseColor.Ancient_Book_Relic_aiStandardSurface2_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.47.24:422][559]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Relic_Compass.fbm/compass-face-allan-swart.jpg)
+[2023.04.06-16.47.24:436][559]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Relic_Compass.fbm/wood_table_worn_diff_2k.jpg)
+[2023.04.06-16.47.24:520][559]LogTexture: Display: Building textures: /Game/Art/Relic_Compass_fbm/wood_table_worn_diff_2k.wood_table_worn_diff_2k (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.47.24:531][560]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Health_Potion_Final.fbm/testpotion89_aiStandardSurface4_BaseColor.png)
+[2023.04.06-16.47.24:670][560]LogTexture: Display: Building textures: /Game/Art/Health_Potion_Final_fbm/testpotion89_aiStandardSurface4_BaseColor.testpotion89_aiStandardSurface4_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.06-16.47.24:964][561]LogSavePackage: Moving output files for package: /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_BACKUP_version_fbm/Ancient_Book_Relic_aiStandardSurface2_BaseColor
+[2023.04.06-16.47.24:964][561]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/Ancient_Book_Relic_aiStandardSur7DEF14494D5A28214F6D1491159017D4.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_BACKUP_version_fbm/Ancient_Book_Relic_aiStandardSurface2_BaseColor.uasset'
+[2023.04.06-16.47.24:968][561]LogSavePackage: Moving output files for package: /Game/Art/Relic_Compass_fbm/compass-face-allan-swart
+[2023.04.06-16.47.24:968][561]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/compass-face-allan-swartD5AC9D23404D7EE64F7888B8506FD7A1.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Relic_Compass_fbm/compass-face-allan-swart.uasset'
+[2023.04.06-16.47.24:973][561]LogSavePackage: Moving output files for package: /Game/Art/Relic_Compass_fbm/wood_table_worn_diff_2k
+[2023.04.06-16.47.24:973][561]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/wood_table_worn_diff_2k0E98954247AD40C69CC7079818F5E2B0.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Relic_Compass_fbm/wood_table_worn_diff_2k.uasset'
+[2023.04.06-16.47.25:077][561]LogSavePackage: Moving output files for package: /Game/Art/Health_Potion_Final_fbm/testpotion89_aiStandardSurface4_BaseColor
+[2023.04.06-16.47.25:077][561]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/testpotion89_aiStandardSurface4_FE6EF54B4221BD55BF2C339A19FC1386.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Art/Health_Potion_Final_fbm/testpotion89_aiStandardSurface4_BaseColor.uasset'
+[2023.04.06-16.47.25:107][562]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.06-16.47.25:107][562]LogContentValidation: Display: Validating Texture2D /Game/Art/Health_Potion_Final_fbm/testpotion89_aiStandardSurface4_BaseColor.testpotion89_aiStandardSurface4_BaseColor
+[2023.04.06-16.47.25:107][562]LogContentValidation: Display: Validating Texture2D /Game/Art/Relic_Compass_fbm/wood_table_worn_diff_2k.wood_table_worn_diff_2k
+[2023.04.06-16.47.25:107][562]LogContentValidation: Display: Validating Texture2D /Game/Art/Relic_Compass_fbm/compass-face-allan-swart.compass-face-allan-swart
+[2023.04.06-16.47.25:107][562]LogContentValidation: Display: Validating Texture2D /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_BACKUP_version_fbm/Ancient_Book_Relic_aiStandardSurface2_BaseColor.Ancient_Book_Relic_aiStandardSurface2_BaseColor
+[2023.04.06-16.47.28:092][911]AssetReimport: Importing new asset /Game/Art/Ancient_Book_Relic_W_Textures/Ancient_Book_BACKUP_version_fbm/Ancient_Book_Relic_aiStandardSurface2_BaseColor.
+[2023.04.06-16.47.28:092][911]AssetReimport: Importing new asset /Game/Art/Relic_Compass_fbm/compass-face-allan-swart.
+[2023.04.06-16.47.28:092][911]AssetReimport: Importing new asset /Game/Art/Relic_Compass_fbm/wood_table_worn_diff_2k.
+[2023.04.06-16.47.28:092][911]AssetReimport: Importing new asset /Game/Art/Health_Potion_Final_fbm/testpotion89_aiStandardSurface4_BaseColor.
+[2023.04.06-16.47.29:874][125]LogSlate: Window 'Message Log' being destroyed
+[2023.04.06-16.47.29:879][125]LogSlate: Window 'Message Log' being destroyed
+[2023.04.06-16.47.49:152][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.04.06-16.47.49:160][460]LogSavePackage: Moving output files for package: /Game/Maps/TestMap
+[2023.04.06-16.47.49:160][460]LogSavePackage: Moving '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Saved/TestMap9B1C1F2F41C9CC7804C55CBF6CC98EAD.tmp' to '../../../../../../Users/clari/OneDrive/Documents/GitHub/HollowCrestPrototype3/HC_Prototype3/Content/Maps/TestMap.umap'
+[2023.04.06-16.47.49:170][460]LogFileHelpers: No new changes to save!
+[2023.04.06-16.47.49:181][460]AssetCheck: New page: Asset Save: TestMap
+[2023.04.06-16.47.49:181][460]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
+[2023.04.06-16.47.55:874][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.04.06-16.47.57:449][243]LogSlate: Window 'Save Content' being destroyed
