@@ -6827,6 +6827,26 @@
 		{
 			"Path": "$(EngineDir)/Plugins/XGEController/Binaries/Win64/UnrealEditor-XGEController.dll",
 			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/DlgSystem-master/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/DlgSystem-master/Binaries/Win64/UnrealEditor-DlgSystem.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/DlgSystem-master/Binaries/Win64/UnrealEditor-DlgSystem.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/DlgSystem-master/Binaries/Win64/UnrealEditor-DlgSystemEditor.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/DlgSystem-master/Binaries/Win64/UnrealEditor-DlgSystemEditor.pdb",
+			"Type": "SymbolFile"
 		}
 	],
 	"RuntimeDependencies": [
@@ -28460,6 +28480,10 @@
 		},
 		{
 			"Path": "$(ProjectDir)/HC_Prototype3.uproject",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/DlgSystem-master/DlgSystem.uplugin",
 			"Type": "UFS"
 		}
 	],
