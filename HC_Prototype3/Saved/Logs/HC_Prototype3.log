@@ -2028,3 +2028,364 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.04.10-02.32.08:717][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
 [2023.04.10-02.32.25:698][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
 [2023.04.10-02.32.30:752][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.04.10-02.32.51:299][318]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.10-02.32.51:299][318]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.10-02.33.32:690][362]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.10-02.33.32:709][362]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.10-02.33.32:714][363]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.04.10-02.33.34:119][532]LogContentBrowser: Attempting asset rename: NewFolder -> Sounds
+[2023.04.10-02.33.34:120][532]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.10-02.33.39:322][983]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:\Users\Logan Weber\Downloads\blaster-2-81267.mp3)
+[2023.04.10-02.33.41:171][  6]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:\Users\Logan Weber\Downloads\power-down-7103.mp3)
+[2023.04.10-02.33.44:346][134]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.10-02.33.44:346][134]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.04.10-02.33.45:891][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.04.10-02.33.46:836][302]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.10-02.33.46:876][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.04.10-02.33.46:909][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.04.10-02.33.46:942][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.04.10-02.33.46:946][302]LogLinker: Warning: Failed to load '/Game/ArtAssets/Sounds/power-down-7103': Can't find file.
+[2023.04.10-02.33.46:947][302]LogLinker: Warning: Failed to load '/Game/ArtAssets/Sounds/power-down-7103': Can't find file.
+[2023.04.10-02.33.46:947][302]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/ArtAssets/Sounds/power-down-7103.power-down-7103'
+[2023.04.10-02.33.47:502][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.04.10-02.33.48:370][362]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.10-02.33.48:408][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.04.10-02.33.48:443][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.04.10-02.33.48:476][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.04.10-02.34.14:593][557]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Logan Weber\Downloads\power-down-7103.wav)
+[2023.04.10-02.34.14:599][557]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave power-down-7103...
+[2023.04.10-02.34.14:599][557]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/ArtAssets/Sounds/power-down-7103.power-down-7103 will be modified from 40 to 40.
+[2023.04.10-02.34.14:607][557]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 175104 while cooking SoundWave /Game/ArtAssets/Sounds/power-down-7103.power-down-7103.
+[2023.04.10-02.34.14:607][557]LogAudio: Display: Chunk size for SoundWave /Game/ArtAssets/Sounds/power-down-7103.power-down-7103: 262144
+[2023.04.10-02.35.10:889][752]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Logan Weber\Downloads\blaster-2-81267.wav)
+[2023.04.10-02.35.10:895][752]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave blaster-2-81267...
+[2023.04.10-02.35.10:895][752]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/ArtAssets/Sounds/blaster-2-81267.blaster-2-81267 will be modified from 40 to 40.
+[2023.04.10-02.35.10:902][752]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 184320 while cooking SoundWave /Game/ArtAssets/Sounds/blaster-2-81267.blaster-2-81267.
+[2023.04.10-02.35.10:902][752]LogAudio: Display: Chunk size for SoundWave /Game/ArtAssets/Sounds/blaster-2-81267.blaster-2-81267: 262144
+[2023.04.10-02.35.46:884][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.04.10-02.35.46:987][128]LogSavePackage: Moving output files for package: /Game/Blueprints/MainCharacter_BP
+[2023.04.10-02.35.46:987][128]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/MainCharacter_BP500A71204C50186303945F9CEF84DEAC.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/MainCharacter_BP.uasset'
+[2023.04.10-02.35.46:990][128]LogSavePackage: Moving output files for package: /Game/ArtAssets/Sounds/power-down-7103
+[2023.04.10-02.35.46:990][128]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/power-down-710350A3CC4E4FD3E53A51D3D595BA7A6CE0.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/ArtAssets/Sounds/power-down-7103.uasset'
+[2023.04.10-02.35.46:994][128]LogSavePackage: Moving output files for package: /Game/ArtAssets/Sounds/blaster-2-81267
+[2023.04.10-02.35.46:994][128]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/blaster-2-8126781E3977D4E400D96642E35ADD17B9296.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/ArtAssets/Sounds/blaster-2-81267.uasset'
+[2023.04.10-02.35.47:008][128]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.10-02.35.47:008][128]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MainCharacter_BP.MainCharacter_BP
+[2023.04.10-02.35.47:008][128]LogContentValidation: Display: Validating SoundWave /Game/ArtAssets/Sounds/blaster-2-81267.blaster-2-81267
+[2023.04.10-02.35.47:008][128]LogContentValidation: Display: Validating SoundWave /Game/ArtAssets/Sounds/power-down-7103.power-down-7103
+[2023.04.10-02.35.48:479][257]BlueprintLog: New page: Compile MainCharacter_BP
+[2023.04.10-02.35.48:573][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.04.10-02.35.49:562][344]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.04.10-02.35.49:568][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.10-02.35.49:568][344]PIE: New page: PIE session: MainMenu (Apr 9, 2023, 6:35:49 PM)
+[2023.04.10-02.35.49:568][344]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2023.04.10-02.35.49:569][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000948s)
+[2023.04.10-02.35.49:569][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001000s)
+[2023.04.10-02.35.49:569][344]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.10-02.35.49:569][344]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.10-02.35.49:569][344]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.10-02.35.49:569][344]LogPlayLevel: PIE: World Init took: (0.000569s)
+[2023.04.10-02.35.49:606][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.04.10-02.35.49:609][344]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.04.10-02.35.49:609][344]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.10-02.35.49:609][344]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.10-02.35.49:609][344]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.10-02.35.49:609][344]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.10-02.35.49:609][344]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.10-02.35.49:609][344]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.10-02.35.49:609][344]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.10-02.35.49:609][344]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.10-02.35.49:609][344]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.10-02.35.49:609][344]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.10-02.35.49:609][344]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.10-02.35.49:611][344]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.10-02.35.49:630][344]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2023.04.10-02.35.49:630][344]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.10-02.35.49:630][344]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.10-02.35.49:630][344]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.10-02.35.49:631][344]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.04.10-02.35.49:631][344]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.04.10-02.35.49:632][344]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.04.10-02.35.49:632][344]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.04.10-02.35.49:632][344]LogInit: FAudioDevice initialized.
+[2023.04.10-02.35.49:632][344]LogAudio: Display: Audio Device (ID: 18) registered with world 'MainMenu'.
+[2023.04.10-02.35.49:681][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.10-02.35.49:682][344]LogLoad: Game class is 'GameMode_BP_C'
+[2023.04.10-02.35.49:682][344]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.04.09-22.35.49
+[2023.04.10-02.35.49:682][344]LogWorld: Bringing up level for play took: 0.000502
+[2023.04.10-02.35.49:684][344]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2023.04.10-02.35.49:685][344]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.10-02.35.49:685][344]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.04.10-02.35.49:692][344]PIE: Server logged in
+[2023.04.10-02.35.49:697][344]PIE: Play in editor total start time 0.13 seconds.
+[2023.04.10-02.35.49:698][344]LogDlgSystem: Verbose: BeginPIE(bIsSimulating = 0). Clearing Dialogue History
+[2023.04.10-02.35.49:698][344]LogDlgSystem: Verbose: BeginPIE(bIsSimulating = 0). Registering Console commands
+[2023.04.10-02.35.49:723][344]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.04.10-02.35.50:664][424]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.04.10-02.35.50:664][424]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.04.10-02.35.50:667][424]LogNet: Browse: /Game/Maps/MainLevel
+[2023.04.10-02.35.50:667][424]LogDlgSystem: Verbose: PreLoadMap = /Game/Maps/MainLevel. Clearing Dialogue History
+[2023.04.10-02.35.50:667][424]LogLoad: LoadMap: /Game/Maps/MainLevel
+[2023.04.10-02.35.50:667][424]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2023.04.10-02.35.50:668][424]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-02.35.50:668][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-02.35.50:711][424]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.10-02.35.50:714][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.04.10-02.35.50:864][424]LogAudio: Display: Audio Device (ID: 18) registered with world 'MainLevel'.
+[2023.04.10-02.35.50:864][424]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.10-02.35.50:865][424]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.10-02.35.50:865][424]LogAIModule: Creating AISystem for world MainLevel
+[2023.04.10-02.35.50:865][424]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2023.04.10-02.35.50:865][424]LogLoad: Game class is 'GameMode_BP_C'
+[2023.04.10-02.35.50:921][424]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.04.09-22.35.50
+[2023.04.10-02.35.50:925][424]LogWorld: Bringing up level for play took: 0.059482
+[2023.04.10-02.35.50:928][424]LogDlgSystem: Verbose: PostLoadMapWithWorld = UEDPIE_0_MainLevel. Registering Console commands
+[2023.04.10-02.35.50:928][424]LogLoad: Took 0.261641 seconds to LoadMap(/Game/Maps/MainLevel)
+[2023.04.10-02.35.51:568][474]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.10-02.36.00:312][141]LogDlgSystem: Verbose: EndPIE(bIsSimulating = 0). Unregistering Console commands
+[2023.04.10-02.36.00:313][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.10-02.36.00:313][141]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2023.04.10-02.36.00:313][141]LogSlate: Window 'HC_Prototype3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.04.10-02.36.00:319][141]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-02.36.00:320][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-02.36.00:333][141]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.10-02.36.00:338][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-02.36.00:373][141]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.10-02.36.00:373][141]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.04.10-02.36.00:374][141]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.04.10-02.36.00:390][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.04.10-02.36.00:417][142]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.04.10-02.36.23:216][596]BlueprintLog: New page: Compile MainCharacter_BP
+[2023.04.10-02.36.23:305][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.04.10-02.36.23:943][648]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.04.10-02.36.23:948][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.10-02.36.23:949][648]PIE: New page: PIE session: MainMenu (Apr 9, 2023, 6:36:23 PM)
+[2023.04.10-02.36.23:949][648]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2023.04.10-02.36.23:950][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000959s)
+[2023.04.10-02.36.23:950][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001010s)
+[2023.04.10-02.36.23:950][648]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.10-02.36.23:950][648]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.10-02.36.23:950][648]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.10-02.36.23:950][648]LogPlayLevel: PIE: World Init took: (0.000547s)
+[2023.04.10-02.36.23:987][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.04.10-02.36.23:989][648]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.04.10-02.36.23:989][648]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.10-02.36.23:989][648]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.10-02.36.23:989][648]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.10-02.36.23:989][648]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.10-02.36.23:989][648]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.10-02.36.23:989][648]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.10-02.36.23:989][648]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.10-02.36.23:989][648]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.10-02.36.23:989][648]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.10-02.36.23:989][648]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.10-02.36.23:989][648]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.10-02.36.23:991][648]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.10-02.36.24:010][648]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2023.04.10-02.36.24:010][648]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.10-02.36.24:010][648]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.10-02.36.24:010][648]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.10-02.36.24:012][648]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.04.10-02.36.24:012][648]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.04.10-02.36.24:013][648]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.04.10-02.36.24:013][648]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.04.10-02.36.24:013][648]LogInit: FAudioDevice initialized.
+[2023.04.10-02.36.24:013][648]LogAudio: Display: Audio Device (ID: 19) registered with world 'MainMenu'.
+[2023.04.10-02.36.24:047][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.10-02.36.24:048][648]LogLoad: Game class is 'GameMode_BP_C'
+[2023.04.10-02.36.24:048][648]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.04.09-22.36.24
+[2023.04.10-02.36.24:049][648]LogWorld: Bringing up level for play took: 0.000764
+[2023.04.10-02.36.24:050][648]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.04.10-02.36.24:052][648]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.10-02.36.24:052][648]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.04.10-02.36.24:059][648]PIE: Server logged in
+[2023.04.10-02.36.24:065][648]PIE: Play in editor total start time 0.117 seconds.
+[2023.04.10-02.36.24:065][648]LogDlgSystem: Verbose: BeginPIE(bIsSimulating = 0). Clearing Dialogue History
+[2023.04.10-02.36.24:065][648]LogDlgSystem: Verbose: BeginPIE(bIsSimulating = 0). Registering Console commands
+[2023.04.10-02.36.24:090][648]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.04.10-02.36.24:944][721]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.04.10-02.36.24:944][721]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.04.10-02.36.24:945][721]LogNet: Browse: /Game/Maps/MainLevel
+[2023.04.10-02.36.24:945][721]LogDlgSystem: Verbose: PreLoadMap = /Game/Maps/MainLevel. Clearing Dialogue History
+[2023.04.10-02.36.24:945][721]LogLoad: LoadMap: /Game/Maps/MainLevel
+[2023.04.10-02.36.24:945][721]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2023.04.10-02.36.24:945][721]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-02.36.24:945][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-02.36.25:006][721]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.10-02.36.25:009][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.04.10-02.36.25:128][721]LogAudio: Display: Audio Device (ID: 19) registered with world 'MainLevel'.
+[2023.04.10-02.36.25:128][721]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.10-02.36.25:128][721]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.10-02.36.25:128][721]LogAIModule: Creating AISystem for world MainLevel
+[2023.04.10-02.36.25:128][721]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2023.04.10-02.36.25:128][721]LogLoad: Game class is 'GameMode_BP_C'
+[2023.04.10-02.36.25:166][721]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.04.09-22.36.25
+[2023.04.10-02.36.25:169][721]LogWorld: Bringing up level for play took: 0.039966
+[2023.04.10-02.36.25:171][721]LogDlgSystem: Verbose: PostLoadMapWithWorld = UEDPIE_0_MainLevel. Registering Console commands
+[2023.04.10-02.36.25:172][721]LogLoad: Took 0.225841 seconds to LoadMap(/Game/Maps/MainLevel)
+[2023.04.10-02.36.25:867][772]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.10-02.36.28:484][987]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.10-02.36.30:463][135]LogDlgSystem: Verbose: EndPIE(bIsSimulating = 0). Unregistering Console commands
+[2023.04.10-02.36.30:463][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.10-02.36.30:463][135]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2023.04.10-02.36.30:464][135]LogSlate: Window 'HC_Prototype3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.04.10-02.36.30:468][135]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-02.36.30:470][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-02.36.30:481][135]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.10-02.36.30:486][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-02.36.30:520][135]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.04.10-02.36.30:522][135]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.04.10-02.36.30:537][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.04.10-02.36.30:558][136]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.04.10-02.36.37:360][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.04.10-02.36.37:515][291]LogSavePackage: Moving output files for package: /Game/Blueprints/MainCharacter_BP
+[2023.04.10-02.36.37:515][291]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/MainCharacter_BPE88675794CD60D3487933C9FC6B5A7FF.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/MainCharacter_BP.uasset'
+[2023.04.10-02.36.37:529][291]AssetCheck: New page: Asset Save: MainCharacter_BP
+[2023.04.10-02.36.37:529][291]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MainCharacter_BP.MainCharacter_BP
+[2023.04.10-02.37.48:073][649]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Logan Weber\Downloads\ough-47202.wav)
+[2023.04.10-02.37.48:080][649]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave ough-47202...
+[2023.04.10-02.37.48:080][649]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/ArtAssets/Sounds/ough-47202.ough-47202 will be modified from 40 to 40.
+[2023.04.10-02.37.48:084][649]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 108288 while cooking SoundWave /Game/ArtAssets/Sounds/ough-47202.ough-47202.
+[2023.04.10-02.37.48:084][649]LogAudio: Display: Chunk size for SoundWave /Game/ArtAssets/Sounds/ough-47202.ough-47202: 262144
+[2023.04.10-02.38.24:362][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.04.10-02.38.24:476][771]LogSavePackage: Moving output files for package: /Game/Blueprints/MainCharacter_BP
+[2023.04.10-02.38.24:476][771]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/MainCharacter_BP136DC52D4BAAB210CDAE8B84A045DF3A.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/MainCharacter_BP.uasset'
+[2023.04.10-02.38.24:479][771]LogSavePackage: Moving output files for package: /Game/ArtAssets/Sounds/ough-47202
+[2023.04.10-02.38.24:479][771]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/ough-47202FA7BD3FF45014A65B15A6D98DEFD82F9.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/ArtAssets/Sounds/ough-47202.uasset'
+[2023.04.10-02.38.24:493][771]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.10-02.38.24:493][771]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MainCharacter_BP.MainCharacter_BP
+[2023.04.10-02.38.24:493][771]LogContentValidation: Display: Validating SoundWave /Game/ArtAssets/Sounds/ough-47202.ough-47202
+[2023.04.10-02.38.25:246][850]BlueprintLog: New page: Compile MainCharacter_BP
+[2023.04.10-02.38.25:333][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.04.10-02.39.25:305][259]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Logan Weber\Downloads\stunned_04-99823.wav)
+[2023.04.10-02.39.25:312][259]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave stunned_04-99823...
+[2023.04.10-02.39.25:312][259]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/ArtAssets/Sounds/stunned_04-99823.stunned_04-99823 will be modified from 40 to 40.
+[2023.04.10-02.39.25:318][259]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 135936 while cooking SoundWave /Game/ArtAssets/Sounds/stunned_04-99823.stunned_04-99823.
+[2023.04.10-02.39.25:319][259]LogAudio: Display: Chunk size for SoundWave /Game/ArtAssets/Sounds/stunned_04-99823.stunned_04-99823: 262144
+[2023.04.10-02.39.40:272][540]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AI/NPC_Wander_Attack_BP.NPC_Wander_Attack_BP
+[2023.04.10-02.39.40:272][540]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.10-02.39.57:420][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.04.10-02.39.57:500][388]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/NPC_Wander_Attack_BP
+[2023.04.10-02.39.57:502][388]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/NPC_Wander_Attack_BP42482A73463C6369F957FD985D9EA977.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/AI/NPC_Wander_Attack_BP.uasset'
+[2023.04.10-02.39.57:504][388]LogSavePackage: Moving output files for package: /Game/ArtAssets/Sounds/stunned_04-99823
+[2023.04.10-02.39.57:504][388]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/stunned_04-99823E2DB85EB4A45D7B53918FA9688B8AD7D.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/ArtAssets/Sounds/stunned_04-99823.uasset'
+[2023.04.10-02.39.57:519][388]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.10-02.39.57:519][388]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AI/NPC_Wander_Attack_BP.NPC_Wander_Attack_BP
+[2023.04.10-02.39.57:519][388]LogContentValidation: Display: Validating SoundWave /Game/ArtAssets/Sounds/stunned_04-99823.stunned_04-99823
+[2023.04.10-02.39.58:087][447]BlueprintLog: New page: Compile NPC_Wander_Attack_BP
+[2023.04.10-02.39.58:176][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.04.10-02.40.03:621][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.04.10-02.40.13:153][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.04.10-02.40.13:247][781]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/NPC_Wander_Attack_BP
+[2023.04.10-02.40.13:248][781]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/NPC_Wander_Attack_BP5D8CC03E486D78D64309578ABE047D2D.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/AI/NPC_Wander_Attack_BP.uasset'
+[2023.04.10-02.40.13:263][781]AssetCheck: New page: Asset Save: NPC_Wander_Attack_BP
+[2023.04.10-02.40.13:263][781]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AI/NPC_Wander_Attack_BP.NPC_Wander_Attack_BP
+[2023.04.10-02.40.19:836][548]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Widgets/Death_WIdget.Death_WIdget
+[2023.04.10-02.40.19:836][548]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.10-02.40.19:842][548]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.10-02.40.20:124][548]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.10-02.40.20:124][548]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.10-02.40.25:471][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.04.10-02.40.25:541][127]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/Death_WIdget
+[2023.04.10-02.40.25:542][127]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/Death_WIdgetFCC81D5944CDA63B3FAFC4BAB05ECFC7.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/Widgets/Death_WIdget.uasset'
+[2023.04.10-02.40.25:555][127]AssetCheck: New page: Asset Save: Death_WIdget
+[2023.04.10-02.40.25:555][127]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/Death_WIdget.Death_WIdget
+[2023.04.10-02.40.33:668][ 13]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.10-02.40.41:163][867]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.10-02.40.47:070][520]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.10-02.41.42:680][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.04.10-02.41.42:740][665]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/Death_WIdget
+[2023.04.10-02.41.42:740][665]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/Death_WIdgetE7CD2EB947806163436A80ADD9B8F2D9.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/Widgets/Death_WIdget.uasset'
+[2023.04.10-02.41.42:753][665]AssetCheck: New page: Asset Save: Death_WIdget
+[2023.04.10-02.41.42:753][665]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/Death_WIdget.Death_WIdget
+[2023.04.10-02.41.43:804][781]BlueprintLog: New page: Compile Death_WIdget
+[2023.04.10-02.41.43:869][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.04.10-02.41.44:734][869]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.04.10-02.41.44:739][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.10-02.41.44:740][869]PIE: New page: PIE session: MainMenu (Apr 9, 2023, 6:41:44 PM)
+[2023.04.10-02.41.44:740][869]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2023.04.10-02.41.44:740][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001022s)
+[2023.04.10-02.41.44:740][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001077s)
+[2023.04.10-02.41.44:740][869]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.10-02.41.44:740][869]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.10-02.41.44:742][869]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.10-02.41.44:742][869]LogPlayLevel: PIE: World Init took: (0.000590s)
+[2023.04.10-02.41.44:784][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.04.10-02.41.44:787][869]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.04.10-02.41.44:787][869]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.10-02.41.44:787][869]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.10-02.41.44:787][869]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.10-02.41.44:787][869]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.10-02.41.44:787][869]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.10-02.41.44:787][869]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.10-02.41.44:787][869]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.10-02.41.44:787][869]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.10-02.41.44:787][869]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.10-02.41.44:787][869]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.10-02.41.44:787][869]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.10-02.41.44:789][869]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.10-02.41.44:810][869]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2023.04.10-02.41.44:810][869]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.10-02.41.44:810][869]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.10-02.41.44:810][869]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.10-02.41.44:811][869]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.04.10-02.41.44:811][869]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.04.10-02.41.44:812][869]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.04.10-02.41.44:812][869]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.04.10-02.41.44:812][869]LogInit: FAudioDevice initialized.
+[2023.04.10-02.41.44:812][869]LogAudio: Display: Audio Device (ID: 20) registered with world 'MainMenu'.
+[2023.04.10-02.41.44:862][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.10-02.41.44:862][869]LogLoad: Game class is 'GameMode_BP_C'
+[2023.04.10-02.41.44:863][869]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.04.09-22.41.44
+[2023.04.10-02.41.44:864][869]LogWorld: Bringing up level for play took: 0.001047
+[2023.04.10-02.41.44:865][869]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2023.04.10-02.41.44:867][869]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.10-02.41.44:867][869]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.04.10-02.41.44:870][869]PIE: Server logged in
+[2023.04.10-02.41.44:871][869]PIE: Play in editor total start time 0.132 seconds.
+[2023.04.10-02.41.44:871][869]LogDlgSystem: Verbose: BeginPIE(bIsSimulating = 0). Clearing Dialogue History
+[2023.04.10-02.41.44:871][869]LogDlgSystem: Verbose: BeginPIE(bIsSimulating = 0). Registering Console commands
+[2023.04.10-02.41.44:892][869]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.04.10-02.41.45:954][983]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.04.10-02.41.45:954][983]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.04.10-02.41.45:956][983]LogNet: Browse: /Game/Maps/MainLevel
+[2023.04.10-02.41.45:956][983]LogDlgSystem: Verbose: PreLoadMap = /Game/Maps/MainLevel. Clearing Dialogue History
+[2023.04.10-02.41.45:956][983]LogLoad: LoadMap: /Game/Maps/MainLevel
+[2023.04.10-02.41.45:956][983]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2023.04.10-02.41.45:957][983]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-02.41.45:957][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-02.41.46:036][983]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.10-02.41.46:038][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.04.10-02.41.46:194][983]LogAudio: Display: Audio Device (ID: 20) registered with world 'MainLevel'.
+[2023.04.10-02.41.46:194][983]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.10-02.41.46:194][983]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.10-02.41.46:195][983]LogAIModule: Creating AISystem for world MainLevel
+[2023.04.10-02.41.46:195][983]LogPlayLevel: PIE: World Init took: (0.000603s)
+[2023.04.10-02.41.46:195][983]LogLoad: Game class is 'GameMode_BP_C'
+[2023.04.10-02.41.46:232][983]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.04.09-22.41.46
+[2023.04.10-02.41.46:234][983]LogWorld: Bringing up level for play took: 0.039186
+[2023.04.10-02.41.46:237][983]LogDlgSystem: Verbose: PostLoadMapWithWorld = UEDPIE_0_MainLevel. Registering Console commands
+[2023.04.10-02.41.46:237][983]LogLoad: Took 0.280363 seconds to LoadMap(/Game/Maps/MainLevel)
+[2023.04.10-02.41.48:713][241]LogDlgSystem: Verbose: EndPIE(bIsSimulating = 0). Unregistering Console commands
+[2023.04.10-02.41.48:713][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.10-02.41.48:713][241]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2023.04.10-02.41.48:713][241]LogSlate: Window 'HC_Prototype3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.04.10-02.41.48:719][241]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.10-02.41.48:720][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-02.41.48:730][241]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.10-02.41.48:735][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.10-02.41.48:777][241]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.10-02.41.48:779][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.04.10-02.41.48:780][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.04.10-02.41.48:792][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.04.10-02.41.48:812][242]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.04.10-02.41.50:000][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.04.10-02.41.54:642][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.04.10-02.42.14:334][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.04.10-02.42.14:440][ 73]LogSavePackage: Moving output files for package: /Game/Blueprints/MainCharacter_BP
+[2023.04.10-02.42.14:440][ 73]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/MainCharacter_BP69BFDE344057FA70E20EF9B8DA673D1F.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/MainCharacter_BP.uasset'
+[2023.04.10-02.42.14:456][ 73]AssetCheck: New page: Asset Save: MainCharacter_BP
+[2023.04.10-02.42.14:456][ 73]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MainCharacter_BP.MainCharacter_BP
+[2023.04.10-02.42.15:520][193]BlueprintLog: New page: Compile MainCharacter_BP
+[2023.04.10-02.42.15:627][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.04.10-02.42.15:924][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
