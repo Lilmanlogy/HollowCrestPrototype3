@@ -1,7 +1,7 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Logan Weber\\Desktop\\VR GIT FOLDER\\HollowCrestPrototype3\\HollowCrestPrototype3\\HC_Prototype3\\Plugins\\DlgSystem-master\\Source\\DlgSystemEditor\\DlgSystemEditor.Build.cs",
-		"C:\\Users\\Logan Weber\\Desktop\\VR GIT FOLDER\\HollowCrestPrototype3\\HollowCrestPrototype3\\HC_Prototype3\\Plugins\\DlgSystem-master\\Source\\DlgSystem\\DlgSystem.Build.cs"
+		"C:\\Users\\clari\\OneDrive\\Documents\\GitHub\\HollowCrestPrototype3\\HC_Prototype3\\Plugins\\DlgSystem-master\\Source\\DlgSystem\\DlgSystem.Build.cs",
+		"C:\\Users\\clari\\OneDrive\\Documents\\GitHub\\HollowCrestPrototype3\\HC_Prototype3\\Plugins\\DlgSystem-master\\Source\\DlgSystemEditor\\DlgSystemEditor.Build.cs"
 	],
 	"EngineVersion": "5.0.3"
 }
