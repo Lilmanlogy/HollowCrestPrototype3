@@ -1177,3 +1177,161 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.04.27-18.50.16:548][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
 [2023.04.27-18.50.16:566][855]LogPlayLevel: Display: Destroying online subsystem :Context_5
 [2023.04.27-18.50.19:019][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.27-18.50.45:354][632]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Widgets/Pause_Widget.Pause_Widget
+[2023.04.27-18.50.45:354][632]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-18.50.45:360][632]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-18.50.45:367][632]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.04.27-18.50.45:670][632]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.27-18.50.45:670][632]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.27-18.50.45:726][632]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.04.27-18.50.46:299][671]LogDerivedDataCache: C:/Users/Logan Weber/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.611 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.27-18.50.49:698][ 20]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.27-18.50.49:698][ 20]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.27-18.51.13:361][569]BlueprintLog: New page: Compile Pause_Widget
+[2023.04.27-18.51.13:460][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.04.27-18.51.13:806][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.04.27-18.51.13:882][598]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/Pause_Widget
+[2023.04.27-18.51.13:883][598]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/Pause_Widget5CD17FD843915B43C1F7C88BC6338035.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/Widgets/Pause_Widget.uasset'
+[2023.04.27-18.51.13:896][598]AssetCheck: New page: Asset Save: Pause_Widget
+[2023.04.27-18.51.13:896][598]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/Pause_Widget.Pause_Widget
+[2023.04.27-18.51.14:588][676]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.04.27-18.51.14:594][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.27-18.51.14:594][676]PIE: New page: PIE session: MainMenu (Apr 27, 2023, 10:51:14 AM)
+[2023.04.27-18.51.14:594][676]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2023.04.27-18.51.14:596][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001170s)
+[2023.04.27-18.51.14:596][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001224s)
+[2023.04.27-18.51.14:596][676]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.27-18.51.14:596][676]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-18.51.14:596][676]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.27-18.51.14:596][676]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2023.04.27-18.51.14:628][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.04.27-18.51.14:630][676]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.04.27-18.51.14:630][676]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.27-18.51.14:630][676]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.27-18.51.14:630][676]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.27-18.51.14:630][676]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.27-18.51.14:630][676]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.27-18.51.14:630][676]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.27-18.51.14:630][676]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.27-18.51.14:630][676]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.27-18.51.14:630][676]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.27-18.51.14:630][676]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.27-18.51.14:630][676]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.27-18.51.14:632][676]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.27-18.51.14:651][676]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2023.04.27-18.51.14:651][676]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.27-18.51.14:651][676]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.27-18.51.14:651][676]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.27-18.51.14:652][676]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.04.27-18.51.14:652][676]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.04.27-18.51.14:653][676]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.04.27-18.51.14:653][676]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.04.27-18.51.14:653][676]LogInit: FAudioDevice initialized.
+[2023.04.27-18.51.14:653][676]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMenu'.
+[2023.04.27-18.51.14:704][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-18.51.14:704][676]LogLoad: Game class is 'GameMode'
+[2023.04.27-18.51.14:705][676]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.04.27-14.51.14
+[2023.04.27-18.51.14:705][676]LogWorld: Bringing up level for play took: 0.000544
+[2023.04.27-18.51.14:707][676]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.04.27-18.51.14:707][676]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.27-18.51.14:707][676]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.27-18.51.14:707][676]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.27-18.51.14:708][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-18.51.14:708][676]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.27-18.51.14:708][676]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.04.27-18.51.14:708][676]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.27-18.51.14:711][676]PIE: Server logged in
+[2023.04.27-18.51.14:712][676]PIE: Play in editor total start time 0.118 seconds.
+[2023.04.27-18.51.14:713][676]LogDlgSystem: Verbose: BeginPIE(bIsSimulating = 0). Clearing Dialogue History
+[2023.04.27-18.51.14:713][676]LogDlgSystem: Verbose: BeginPIE(bIsSimulating = 0). Registering Console commands
+[2023.04.27-18.51.14:735][676]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.04.27-18.51.15:476][753]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.04.27-18.51.15:476][753]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.04.27-18.51.15:477][753]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.04.27-18.51.15:477][753]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.04.27-18.51.15:477][753]LogNet: Browse: /Game/Maps/MainLevel
+[2023.04.27-18.51.15:477][753]LogDlgSystem: Verbose: PreLoadMap = /Game/Maps/MainLevel. Clearing Dialogue History
+[2023.04.27-18.51.15:477][753]LogLoad: LoadMap: /Game/Maps/MainLevel
+[2023.04.27-18.51.15:477][753]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2023.04.27-18.51.15:478][753]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-18.51.15:478][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-18.51.15:540][753]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.27-18.51.15:542][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.04.27-18.51.15:617][753]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainLevel'.
+[2023.04.27-18.51.15:617][753]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.27-18.51.15:617][753]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-18.51.15:617][753]LogAIModule: Creating AISystem for world MainLevel
+[2023.04.27-18.51.15:617][753]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2023.04.27-18.51.15:617][753]LogLoad: Game class is 'GameMode_BP_C'
+[2023.04.27-18.51.15:688][753]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.04.27-14.51.15
+[2023.04.27-18.51.15:689][753]LogWorld: Bringing up level for play took: 0.071038
+[2023.04.27-18.51.15:691][753]LogDlgSystem: Verbose: PostLoadMapWithWorld = UEDPIE_0_MainLevel. Registering Console commands
+[2023.04.27-18.51.15:691][753]LogLoad: Took 0.214952 seconds to LoadMap(/Game/Maps/MainLevel)
+[2023.04.27-18.51.17:171][883]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.51.19:260][ 61]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.51.20:135][148]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.27-18.51.20:135][148]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.04.27-18.51.20:135][148]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.04.27-18.51.21:741][332]LogNet: Browse: /Game/Maps/MainMenu
+[2023.04.27-18.51.21:741][332]LogDlgSystem: Verbose: PreLoadMap = /Game/Maps/MainMenu. Clearing Dialogue History
+[2023.04.27-18.51.21:741][332]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2023.04.27-18.51.21:741][332]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2023.04.27-18.51.21:743][332]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-18.51.21:745][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-18.51.21:811][332]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.27-18.51.21:819][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.04.27-18.51.21:822][332]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2023.04.27-18.51.21:823][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000961s)
+[2023.04.27-18.51.21:823][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001037s)
+[2023.04.27-18.51.21:823][332]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMenu'.
+[2023.04.27-18.51.21:823][332]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.27-18.51.21:823][332]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-18.51.21:823][332]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.27-18.51.21:823][332]LogPlayLevel: PIE: World Init took: (0.000461s)
+[2023.04.27-18.51.21:823][332]LogLoad: Game class is 'GameMode'
+[2023.04.27-18.51.21:823][332]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.04.27-14.51.21
+[2023.04.27-18.51.21:823][332]LogWorld: Bringing up level for play took: 0.000204
+[2023.04.27-18.51.21:824][332]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.27-18.51.21:824][332]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.27-18.51.21:824][332]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.27-18.51.21:824][332]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.27-18.51.21:824][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-18.51.21:824][332]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2023.04.27-18.51.21:825][332]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.27-18.51.21:825][332]LogDlgSystem: Verbose: PostLoadMapWithWorld = UEDPIE_0_MainMenu. Registering Console commands
+[2023.04.27-18.51.21:825][332]LogLoad: Took 0.083154 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenu)
+[2023.04.27-18.51.22:385][396]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.04.27-18.51.22:385][396]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.04.27-18.51.22:386][396]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.04.27-18.51.22:386][396]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.04.27-18.51.22:386][396]LogNet: Browse: /Game/Maps/MainLevel
+[2023.04.27-18.51.22:386][396]LogDlgSystem: Verbose: PreLoadMap = /Game/Maps/MainLevel. Clearing Dialogue History
+[2023.04.27-18.51.22:386][396]LogLoad: LoadMap: /Game/Maps/MainLevel
+[2023.04.27-18.51.22:386][396]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2023.04.27-18.51.22:387][396]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-18.51.22:387][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-18.51.22:449][396]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.27-18.51.22:451][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.04.27-18.51.22:524][396]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainLevel'.
+[2023.04.27-18.51.22:524][396]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.27-18.51.22:524][396]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-18.51.22:524][396]LogAIModule: Creating AISystem for world MainLevel
+[2023.04.27-18.51.22:525][396]LogPlayLevel: PIE: World Init took: (0.000606s)
+[2023.04.27-18.51.22:525][396]LogLoad: Game class is 'GameMode_BP_C'
+[2023.04.27-18.51.22:592][396]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.04.27-14.51.22
+[2023.04.27-18.51.22:594][396]LogWorld: Bringing up level for play took: 0.068792
+[2023.04.27-18.51.22:596][396]LogDlgSystem: Verbose: PostLoadMapWithWorld = UEDPIE_0_MainLevel. Registering Console commands
+[2023.04.27-18.51.22:597][396]LogLoad: Took 0.210143 seconds to LoadMap(/Game/Maps/MainLevel)
+[2023.04.27-18.51.23:531][475]LogDlgSystem: Verbose: EndPIE(bIsSimulating = 0). Unregistering Console commands
+[2023.04.27-18.51.23:533][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-18.51.23:533][475]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2023.04.27-18.51.23:533][475]LogSlate: Window 'HC_Prototype3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.04.27-18.51.23:539][475]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-18.51.23:540][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-18.51.23:552][475]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.27-18.51.23:556][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-18.51.23:589][475]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.04.27-18.51.23:590][475]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.04.27-18.51.23:600][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.04.27-18.51.23:622][476]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.04.27-18.51.24:195][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
