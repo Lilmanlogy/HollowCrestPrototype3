@@ -3476,3 +3476,381 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.04.27-18.08.46:002][408]LogPlayLevel: Display: Destroying online subsystem :Context_49
 [2023.04.27-18.08.47:423][527]LogSlate: Window 'Message Log' being destroyed
 [2023.04.27-18.08.47:430][527]LogSlate: Window 'Message Log' being destroyed
+[2023.04.27-18.17.19:005][554]BlueprintLog: New page: Compile HUD
+[2023.04.27-18.17.19:059][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.04.27-18.17.30:301][125]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.04.27-18.17.30:396][125]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2023.04.27-18.18.14:703][998]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/MainCharacter_BP.MainCharacter_BP
+[2023.04.27-18.18.14:703][998]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-18.18.26:089][978]BlueprintLog: New page: Compile MainCharacter_BP
+[2023.04.27-18.18.26:230][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.04.27-18.18.27:170][ 31]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.04.27-18.18.27:177][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.27-18.18.27:177][ 31]PIE: New page: PIE session: TestMap (Apr 27, 2023, 10:18:27 AM)
+[2023.04.27-18.18.27:177][ 31]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2023.04.27-18.18.27:181][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004121s)
+[2023.04.27-18.18.27:181][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.004177s)
+[2023.04.27-18.18.27:181][ 31]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.27-18.18.27:181][ 31]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-18.18.27:181][ 31]LogAIModule: Creating AISystem for world TestMap
+[2023.04.27-18.18.27:182][ 31]LogPlayLevel: PIE: World Init took: (0.000507s)
+[2023.04.27-18.18.27:234][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.04.27-18.18.27:238][ 31]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.04.27-18.18.27:238][ 31]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.27-18.18.27:238][ 31]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.27-18.18.27:238][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.27-18.18.27:238][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.27-18.18.27:238][ 31]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.27-18.18.27:238][ 31]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.27-18.18.27:238][ 31]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.27-18.18.27:238][ 31]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.27-18.18.27:238][ 31]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.27-18.18.27:238][ 31]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.27-18.18.27:238][ 31]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.27-18.18.27:240][ 31]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.27-18.18.27:259][ 31]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2023.04.27-18.18.27:259][ 31]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.27-18.18.27:259][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.27-18.18.27:259][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.27-18.18.27:260][ 31]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2023.04.27-18.18.27:260][ 31]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2023.04.27-18.18.27:261][ 31]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2023.04.27-18.18.27:261][ 31]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2023.04.27-18.18.27:261][ 31]LogInit: FAudioDevice initialized.
+[2023.04.27-18.18.27:261][ 31]LogAudio: Display: Audio Device (ID: 29) registered with world 'TestMap'.
+[2023.04.27-18.18.27:310][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-18.18.27:310][ 31]LogLoad: Game class is 'GameMode_BP_C'
+[2023.04.27-18.18.27:313][ 31]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.04.27-14.18.27
+[2023.04.27-18.18.27:313][ 31]LogWorld: Bringing up level for play took: 0.002536
+[2023.04.27-18.18.27:315][ 31]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2023.04.27-18.18.27:317][ 31]LogBlueprintUserMessages: [TriangleNPC_C_1] I'm a white guy, and I'm ready to kill
+[2023.04.27-18.18.27:317][ 31]LogBlueprintUserMessages: [TriangleNPC_C_1] I'm a white guy, and I'm ready to kill
+[2023.04.27-18.18.27:328][ 31]PIE: Server logged in
+[2023.04.27-18.18.27:337][ 31]PIE: Play in editor total start time 0.161 seconds.
+[2023.04.27-18.18.27:337][ 31]LogDlgSystem: Verbose: BeginPIE(bIsSimulating = 0). Clearing Dialogue History
+[2023.04.27-18.18.27:337][ 31]LogDlgSystem: Verbose: BeginPIE(bIsSimulating = 0). Registering Console commands
+[2023.04.27-18.18.27:369][ 31]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.04.27-18.18.30:441][256]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.30:441][256]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.30:534][262]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.30:534][262]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.30:642][270]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.30:642][270]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.30:736][277]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.30:737][277]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.30:844][285]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.30:844][285]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.30:939][292]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.30:939][292]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.31:044][300]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.31:044][300]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.31:137][307]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.31:137][307]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.31:234][314]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.31:234][314]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.31:336][322]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.31:336][322]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.31:443][330]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.31:443][330]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.31:538][337]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.31:538][337]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.31:646][345]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.31:646][345]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.31:736][352]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.31:736][352]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.31:843][360]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.31:843][360]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.34:506][567]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.18.37:243][777]LogDlgSystem: Verbose: EndPIE(bIsSimulating = 0). Unregistering Console commands
+[2023.04.27-18.18.37:244][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-18.18.37:244][777]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2023.04.27-18.18.37:245][777]LogSlate: Window 'HC_Prototype3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.04.27-18.18.37:249][777]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-18.18.37:249][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-18.18.37:260][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.27-18.18.37:265][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-18.18.37:307][777]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.27-18.18.37:307][777]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.04.27-18.18.37:309][777]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.04.27-18.18.37:316][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.04.27-18.18.37:345][778]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2023.04.27-18.20.00:537][521]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.04.27-18.20.00:544][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.27-18.20.00:544][521]PIE: New page: PIE session: TestMap (Apr 27, 2023, 10:20:00 AM)
+[2023.04.27-18.20.00:544][521]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2023.04.27-18.20.00:547][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003837s)
+[2023.04.27-18.20.00:548][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.003885s)
+[2023.04.27-18.20.00:548][521]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.27-18.20.00:548][521]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-18.20.00:548][521]LogAIModule: Creating AISystem for world TestMap
+[2023.04.27-18.20.00:548][521]LogPlayLevel: PIE: World Init took: (0.000540s)
+[2023.04.27-18.20.00:592][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.04.27-18.20.00:595][521]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.04.27-18.20.00:595][521]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.27-18.20.00:595][521]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.27-18.20.00:595][521]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.27-18.20.00:595][521]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.27-18.20.00:595][521]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.27-18.20.00:595][521]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.27-18.20.00:595][521]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.27-18.20.00:595][521]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.27-18.20.00:595][521]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.27-18.20.00:595][521]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.27-18.20.00:595][521]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.27-18.20.00:596][521]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.27-18.20.00:617][521]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2023.04.27-18.20.00:617][521]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.27-18.20.00:617][521]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.27-18.20.00:617][521]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.27-18.20.00:618][521]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2023.04.27-18.20.00:618][521]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2023.04.27-18.20.00:619][521]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2023.04.27-18.20.00:619][521]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2023.04.27-18.20.00:619][521]LogInit: FAudioDevice initialized.
+[2023.04.27-18.20.00:619][521]LogAudio: Display: Audio Device (ID: 30) registered with world 'TestMap'.
+[2023.04.27-18.20.00:677][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-18.20.00:678][521]LogLoad: Game class is 'GameMode_BP_C'
+[2023.04.27-18.20.00:679][521]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.04.27-14.20.00
+[2023.04.27-18.20.00:680][521]LogWorld: Bringing up level for play took: 0.001968
+[2023.04.27-18.20.00:682][521]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2023.04.27-18.20.00:682][521]LogBlueprintUserMessages: [TriangleNPC_C_1] I'm a white guy, and I'm ready to kill
+[2023.04.27-18.20.00:682][521]LogBlueprintUserMessages: [TriangleNPC_C_1] I'm a white guy, and I'm ready to kill
+[2023.04.27-18.20.00:693][521]PIE: Server logged in
+[2023.04.27-18.20.00:700][521]PIE: Play in editor total start time 0.156 seconds.
+[2023.04.27-18.20.00:700][521]LogDlgSystem: Verbose: BeginPIE(bIsSimulating = 0). Clearing Dialogue History
+[2023.04.27-18.20.00:700][521]LogDlgSystem: Verbose: BeginPIE(bIsSimulating = 0). Registering Console commands
+[2023.04.27-18.20.00:738][521]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.04.27-18.20.02:590][616]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.20.03:314][655]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(802)]!
+[2023.04.27-18.20.03:314][655]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.27-18.20.03:314][655]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.04.27-18.20.08:011][910]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.04.27-18.20.08:011][910]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.04.27-18.20.09:083][965]LogDlgSystem: Verbose: EndPIE(bIsSimulating = 0). Unregistering Console commands
+[2023.04.27-18.20.09:084][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-18.20.09:084][965]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2023.04.27-18.20.09:084][965]LogSlate: Window 'HC_Prototype3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.04.27-18.20.09:089][965]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-18.20.09:089][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-18.20.09:101][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.27-18.20.09:107][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-18.20.09:148][965]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.27-18.20.09:149][965]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.04.27-18.20.09:150][965]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.04.27-18.20.09:156][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.04.27-18.20.09:188][966]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2023.04.27-18.21.05:364][590]BlueprintLog: New page: Compile MainCharacter_BP
+[2023.04.27-18.21.05:490][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.04.27-18.21.37:823][655]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.04.27-18.21.37:829][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.27-18.21.37:829][655]PIE: New page: PIE session: TestMap (Apr 27, 2023, 10:21:37 AM)
+[2023.04.27-18.21.37:829][655]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2023.04.27-18.21.37:834][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004194s)
+[2023.04.27-18.21.37:834][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.004249s)
+[2023.04.27-18.21.37:834][655]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.27-18.21.37:834][655]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-18.21.37:834][655]LogAIModule: Creating AISystem for world TestMap
+[2023.04.27-18.21.37:834][655]LogPlayLevel: PIE: World Init took: (0.000522s)
+[2023.04.27-18.21.37:878][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.04.27-18.21.37:883][655]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2023.04.27-18.21.37:883][655]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.27-18.21.37:883][655]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.27-18.21.37:883][655]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.27-18.21.37:883][655]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.27-18.21.37:883][655]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.27-18.21.37:883][655]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.27-18.21.37:883][655]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.27-18.21.37:883][655]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.27-18.21.37:883][655]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.27-18.21.37:883][655]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.27-18.21.37:883][655]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.27-18.21.37:885][655]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.27-18.21.37:907][655]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2023.04.27-18.21.37:907][655]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.27-18.21.37:907][655]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.27-18.21.37:907][655]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.27-18.21.37:908][655]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2023.04.27-18.21.37:908][655]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2023.04.27-18.21.37:909][655]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2023.04.27-18.21.37:909][655]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2023.04.27-18.21.37:909][655]LogInit: FAudioDevice initialized.
+[2023.04.27-18.21.37:909][655]LogAudio: Display: Audio Device (ID: 31) registered with world 'TestMap'.
+[2023.04.27-18.21.37:960][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-18.21.37:960][655]LogLoad: Game class is 'GameMode_BP_C'
+[2023.04.27-18.21.37:962][655]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.04.27-14.21.37
+[2023.04.27-18.21.37:962][655]LogWorld: Bringing up level for play took: 0.002007
+[2023.04.27-18.21.37:964][655]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2023.04.27-18.21.37:966][655]LogBlueprintUserMessages: [TriangleNPC_C_1] I'm a white guy, and I'm ready to kill
+[2023.04.27-18.21.37:966][655]LogBlueprintUserMessages: [TriangleNPC_C_1] I'm a white guy, and I'm ready to kill
+[2023.04.27-18.21.37:976][655]PIE: Server logged in
+[2023.04.27-18.21.37:983][655]PIE: Play in editor total start time 0.155 seconds.
+[2023.04.27-18.21.37:984][655]LogDlgSystem: Verbose: BeginPIE(bIsSimulating = 0). Clearing Dialogue History
+[2023.04.27-18.21.37:984][655]LogDlgSystem: Verbose: BeginPIE(bIsSimulating = 0). Registering Console commands
+[2023.04.27-18.21.38:021][655]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.04.27-18.21.38:916][700]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_InputAction', from offset 0
+[2023.04.27-18.21.38:916][700]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/MainCharacter_BP.MainCharacter_BP_C:InpActEvt_Inventory_K2Node_InputActionEvent_4
+
+[2023.04.27-18.21.38:926][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.SpiralFull.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.38:926][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.SpiralFull_1.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.38:926][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.SpiralFull_2.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.38:926][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.SpiralFull_3.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.38:926][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.SpiralFull_4.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.38:926][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.SpiralFull_5.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.38:926][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.SpiralFull_6.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.38:926][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.SpiralFull_7.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.38:926][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.SpiralFull_8.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.38:926][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.Image_1.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.38:926][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.Image.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.38:926][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.SpiralFull.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.38:926][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.SpiralFull_1.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.38:926][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.SpiralFull_2.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.38:926][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.SpiralFull_3.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.38:926][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.SpiralFull_4.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.38:926][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.SpiralFull_5.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.38:926][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.SpiralFull_6.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.38:926][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.SpiralFull_7.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.38:926][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.SpiralFull_8.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.38:926][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.Image_1.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.38:926][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.Image.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:172][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.SpiralFull.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:173][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.SpiralFull_1.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:173][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.SpiralFull_2.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:173][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.SpiralFull_3.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:173][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.SpiralFull_4.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:173][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.SpiralFull_5.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:173][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.SpiralFull_6.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:173][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.SpiralFull_7.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:173][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.SpiralFull_8.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:173][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.Image_1.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:173][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.Image.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:173][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.SpiralFull.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:173][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.SpiralFull_1.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:173][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.SpiralFull_2.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:173][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.SpiralFull_3.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:173][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.SpiralFull_4.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:173][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.SpiralFull_5.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:173][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.SpiralFull_6.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:173][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.SpiralFull_7.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:173][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.SpiralFull_8.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:173][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.Image_1.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:173][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.Image.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:499][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.SpiralFull.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:499][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.SpiralFull_1.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:499][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.SpiralFull_2.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:499][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.SpiralFull_3.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:499][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.SpiralFull_4.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:499][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.SpiralFull_5.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:499][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.SpiralFull_6.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:499][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.SpiralFull_7.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:499][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.SpiralFull_8.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:499][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.Image_1.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:499][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_0.WidgetTree.Image.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:499][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.SpiralFull.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:499][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.SpiralFull_1.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:499][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.SpiralFull_2.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:500][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.SpiralFull_3.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:500][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.SpiralFull_4.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:500][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.SpiralFull_5.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:500][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.SpiralFull_6.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:500][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.SpiralFull_7.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:500][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.SpiralFull_8.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:500][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.Image_1.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.40:500][700]LogScriptCore: Warning: Cannot call UnrealScript (VisibilityBinding /Engine/Transient.UnrealEdEngine_0:GameInstance_29.HUD_C_1.WidgetTree.Image.VisibilityBinding_0 - Function /Script/UMG.VisibilityBinding:GetValue) while stopped at a breakpoint.
+[2023.04.27-18.21.42:696][700]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(802)]!
+[2023.04.27-18.21.42:696][700]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.27-18.21.42:696][700]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.04.27-18.21.43:597][750]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.04.27-18.21.43:597][750]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.04.27-18.21.45:414][852]LogDlgSystem: Verbose: EndPIE(bIsSimulating = 0). Unregistering Console commands
+[2023.04.27-18.21.45:414][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-18.21.45:414][852]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2023.04.27-18.21.45:415][852]LogSlate: Window 'HC_Prototype3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.04.27-18.21.45:420][852]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-18.21.45:421][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-18.21.45:431][852]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.27-18.21.45:437][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-18.21.45:477][852]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.27-18.21.45:478][852]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.04.27-18.21.45:479][852]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.04.27-18.21.45:485][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.04.27-18.21.45:517][853]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2023.04.27-18.21.54:611][325]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Blueprints/MainCharacter_BP.MainCharacter_BP without an associated node. The blueprint breakpoint has been removed
+[2023.04.27-18.21.54:611][325]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Blueprints/MainCharacter_BP.MainCharacter_BP without an associated node. The blueprint breakpoint has been removed
+[2023.04.27-18.22.05:016][935]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.04.27-18.22.05:023][935]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.27-18.22.05:024][935]PIE: New page: PIE session: TestMap (Apr 27, 2023, 10:22:05 AM)
+[2023.04.27-18.22.05:024][935]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2023.04.27-18.22.05:028][935]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004360s)
+[2023.04.27-18.22.05:028][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.004418s)
+[2023.04.27-18.22.05:028][935]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.27-18.22.05:028][935]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.27-18.22.05:028][935]LogAIModule: Creating AISystem for world TestMap
+[2023.04.27-18.22.05:028][935]LogPlayLevel: PIE: World Init took: (0.000558s)
+[2023.04.27-18.22.05:069][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.04.27-18.22.05:073][935]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2023.04.27-18.22.05:074][935]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.27-18.22.05:074][935]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.27-18.22.05:074][935]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.27-18.22.05:074][935]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.27-18.22.05:074][935]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.27-18.22.05:074][935]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.27-18.22.05:074][935]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.27-18.22.05:074][935]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.27-18.22.05:074][935]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.27-18.22.05:074][935]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.27-18.22.05:074][935]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.27-18.22.05:076][935]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.27-18.22.05:096][935]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2023.04.27-18.22.05:096][935]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.27-18.22.05:096][935]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.27-18.22.05:096][935]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.27-18.22.05:096][935]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2023.04.27-18.22.05:096][935]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2023.04.27-18.22.05:097][935]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2023.04.27-18.22.05:097][935]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2023.04.27-18.22.05:097][935]LogInit: FAudioDevice initialized.
+[2023.04.27-18.22.05:097][935]LogAudio: Display: Audio Device (ID: 32) registered with world 'TestMap'.
+[2023.04.27-18.22.05:143][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-18.22.05:143][935]LogLoad: Game class is 'GameMode_BP_C'
+[2023.04.27-18.22.05:145][935]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2023.04.27-14.22.05
+[2023.04.27-18.22.05:145][935]LogWorld: Bringing up level for play took: 0.002035
+[2023.04.27-18.22.05:147][935]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2023.04.27-18.22.05:148][935]LogBlueprintUserMessages: [TriangleNPC_C_1] I'm a white guy, and I'm ready to kill
+[2023.04.27-18.22.05:148][935]LogBlueprintUserMessages: [TriangleNPC_C_1] I'm a white guy, and I'm ready to kill
+[2023.04.27-18.22.05:154][935]PIE: Server logged in
+[2023.04.27-18.22.05:157][935]PIE: Play in editor total start time 0.134 seconds.
+[2023.04.27-18.22.05:157][935]LogDlgSystem: Verbose: BeginPIE(bIsSimulating = 0). Clearing Dialogue History
+[2023.04.27-18.22.05:157][935]LogDlgSystem: Verbose: BeginPIE(bIsSimulating = 0). Registering Console commands
+[2023.04.27-18.22.05:192][935]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.04.27-18.22.05:634][955]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.04.27-18.22.06:520][  4]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(802)]!
+[2023.04.27-18.22.06:520][  4]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.27-18.22.06:520][  4]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.04.27-18.22.14:673][457]LogDlgSystem: Verbose: EndPIE(bIsSimulating = 0). Unregistering Console commands
+[2023.04.27-18.22.14:674][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.27-18.22.14:674][457]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2023.04.27-18.22.14:674][457]LogSlate: Window 'HC_Prototype3 Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.04.27-18.22.14:679][457]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.27-18.22.14:679][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-18.22.14:689][457]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.27-18.22.14:694][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.27-18.22.14:735][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.04.27-18.22.14:737][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.04.27-18.22.14:744][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.04.27-18.22.14:774][458]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2023.04.27-18.22.20:212][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.04.27-18.22.20:303][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.04.27-18.22.20:316][815]LogSavePackage: Moving output files for package: /Game/Maps/TestMap
+[2023.04.27-18.22.20:317][815]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/TestMapCF86811B464CBAA7138EC680963315F0.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Maps/TestMap.umap'
+[2023.04.27-18.22.20:325][815]LogFileHelpers: No new changes to save!
+[2023.04.27-18.22.20:325][815]LogFileHelpers: Saving map 'TestMap' took 0.063
+[2023.04.27-18.22.20:405][815]LogSavePackage: Moving output files for package: /Game/Blueprints/MainCharacter_BP
+[2023.04.27-18.22.20:406][815]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/MainCharacter_BP615EB30C472A7CCC31F4728F2C48AD7B.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/MainCharacter_BP.uasset'
+[2023.04.27-18.22.20:433][815]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/HUD
+[2023.04.27-18.22.20:433][815]LogSavePackage: Moving '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Saved/HUDB15B430F4EBFED6725741291CDD21907.tmp' to '../../../../../../Users/Logan Weber/Desktop/VR GIT FOLDER/HollowCrestPrototype3/HollowCrestPrototype3/HC_Prototype3/Content/Blueprints/Widgets/HUD.uasset'
+[2023.04.27-18.22.20:451][815]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.27-18.22.20:451][815]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MainCharacter_BP.MainCharacter_BP
+[2023.04.27-18.22.20:451][815]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/HUD.HUD
+[2023.04.27-18.22.20:451][815]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
